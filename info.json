@@ -1,0 +1,223 @@
+{
+    "t": "SongDB",
+    "disable": [
+        "Unwelcome School",
+        "No Exit Orion",
+        "Packaged",
+        "Snow halation",
+        "アスノヨゾラ哨戒班",
+        "サウンド",
+        "ほうき星",
+        "みんなみくみくにしてあげる",
+        "ワールドイズマイン",
+        "勘違い性反希望症"
+    ],
+    "b": [
+        null,
+        null,
+        null,
+        "https://raw.githack.com/jomin398/mySongDB/master/audios/"
+    ],
+    "d": [
+        {
+            "n": "당신에게",
+            "f": "Dear",
+            "m": [
+                "[初音ミク] Dear.mp3",
+                "[初音ミク] Dear (korean by sodadayo20).mp3",
+                "lyrics.lrc",
+                "Motion.vmd",
+                "Camera.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "[여자친구] 유리구슬",
+            "f": "GFRIEND - Glass Bead",
+            "m": [
+                "GFriend - Glass Bead.mp3",
+                "Camera by LadieAlien.vmd",
+                "Motion by LadieAlien.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "[여자친구] 시간을 달려서",
+            "f": "GFRIEND - Rough",
+            "m": [
+                "Rough.mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "Happy Halloween",
+            "m": [
+                "Happy Halloween Junky feat.鏡音リン.mp3",
+                "[Miku] Happy Halloween (korean by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "メルト",
+            "f": "Melt",
+            "m": [
+                "pv_005.mp3",
+                "[Miku] Melt (korean by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "ツギハギスタッカート",
+            "f": "Patchwork Staccato",
+            "m": [
+                "[Miku] 누덕누덕 스타카토.mp3",
+                "Camera by kip.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "Snow Fairy Story",
+            "m": [
+                "[初音ミク] Snow Fairy Story by 40mP.mp3",
+                "[初音ミク] Snow Fairy Story (korean ver by sodadayo20).mp3",
+                "Camera by 永瀬律 (りつ).vmd",
+                "Motion by まいてぃ.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "Start Dash",
+            "m": [
+                "[Miku] Start-Dash!! (by sodadayo20).mp3",
+                "Camera by roosjuh14290.vmd",
+                "Motion ことりモーション.vmd",
+                "Motion うみモーション.vmd",
+                "Motion ほのかモーション.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "[티아라] 롤리폴리",
+            "f": "TARA - Roly poly",
+            "m": [
+                "Roly Poly.mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "Tell Your World",
+            "m": [
+                "Tell Your World.mp3",
+                "Tell Your World (Korean Cover by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "[트와이스] LIKEY",
+            "f": "TWICE - LIKEY",
+            "m": [
+                "TWICE_LIKEY.mp3",
+                "Camera by Ayano01Tateyama.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "wavefile (short ver)",
+            "f": "wavefile_shorts",
+            "m": [
+                "wavefile_short.mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "Yellow",
+            "m": [
+                "Yellow (by kz).mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "너의 색으로 물들어",
+            "f": "君色に染まる",
+            "m": [
+                "君色に染まる_Miku ver Kor.mp3",
+                "Camera.vmd",
+                "Motion (big).vmd",
+                "Motion (small).vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "금요일의 아침인사",
+            "f": "金曜日のおはよう",
+            "m": [
+                "金曜日のおはよう  another story ／HoneyWorks feat  成海聖奈CV 雨宮天.mp3",
+                "[Miku] 금요일의 아침인사.mp3",
+                "Camera (big).vmd",
+                "Camera (small).vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "사랑의 말 3",
+            "f": "愛言葉Ⅲ",
+            "m": [
+                "[Miku] 愛言葉Ⅲ By DECO27.mp3",
+                "[Miku] 愛言葉Ⅲ (Korean by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion by 足太ぺんたさん.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "벛꽃의 비",
+            "f": "桜ノ雨",
+            "m": [
+                "桜ノ雨.mp3",
+                "[Miku] Sakura no Ame (ver Ko by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "천본앵",
+            "f": "千本桜",
+            "m": [
+                "[Miku] 千本桜 by 黒うさP.mp3",
+                "[Miku] Senbonzakura (Korean by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion.vmd"
+            ],
+            "raw": true
+        },
+        {
+            "n": "初音ミク - Ray",
+            "m": [
+                "[Miku] Ray (Jpn by sodadayo20).mp3",
+                "[Miku] Ray (Kor ver by sodadayo20).mp3",
+                "Camera.vmd",
+                "Motion.vmd",
+                "[初音ミク] Ray.lrc"
+            ],
+            "raw": true
+        }
+    ]
+}
