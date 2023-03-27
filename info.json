@@ -16,7 +16,7 @@
         null,
         null,
         null,
-        "https://cdn.jsdelivr.net/gh/jomin398/mySongDB/audios/"
+        "https://raw.githack.com/jomin398/mySongDB/master/audios/"
     ],
     "d": [
         {
@@ -148,7 +148,8 @@
                 "wavefile_shorts/Motion.vmd"
             ],
             "raw": true,
-            "r": 3
+            "r": 3,
+            "offset": 530
         },
         {
             "n": "Yellow",
@@ -224,6 +225,17 @@
                 "Ray/Camera.vmd",
                 "Ray/Motion.vmd",
                 "Ray/[初音ミク] Ray.lrc"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "사랑 받지 못해도 너가 있어",
+            "f": "愛されなくても君がいる",
+            "m": [
+                "愛されなくても君がいる/愛されなくても君がいる.mp3",
+                "愛されなくても君がいる/Camera by hosino.vmd",
+                "愛されなくても君がいる/Motion by hosino.vmd"
             ],
             "raw": true,
             "r": 3
