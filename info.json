@@ -5,7 +5,6 @@
         "No Exit Orion",
         "Packaged",
         "Snow halation",
-        "アスノヨゾラ哨戒班",
         "サウンド",
         "ほうき星",
         "みんなみくみくにしてあげる",
@@ -246,7 +245,7 @@
             "m": [
                 "ダダダダ天使/[ナナヲアカリ] ダダダダ天使.mp3",
                 "ダダダダ天使/camera.vmd",
-                "ダダダダ天使/model.vmd"
+                "ダダダダ天使/Motion.vmd"
             ],
             "raw": true,
             "r": 3
@@ -257,7 +256,7 @@
             "m": [
                 "太陽系デスコ/[miku] 太陽系デスコ.mp3",
                 "太陽系デスコ/camera.vmd",
-                "太陽系デスコ/model.vmd"
+                "太陽系デスコ/motion.vmd"
             ],
             "raw": true,
             "r": 3
@@ -267,19 +266,52 @@
             "f": "エイリアンエイリアン",
             "m": [
                 "エイリアンエイリアン/[初音ミク] エイリアンエイリアン.mp3",
-                "エイリアンエイリアン/Camara (by えいちゃん).vmd",
+                "エイリアンエイリアン/Camera (by えいちゃん).vmd",
                 "エイリアンエイリアン/Motion (LIVE ver. by 配布用).vmd"
             ],
             "raw": true,
             "r": 3
         },
         {
-            "n":"귀여워서 미안해",
-            "f":"可愛くてごめん",
+            "n": "귀여워서 미안해",
+            "f": "可愛くてごめん",
             "m": [
                 "可愛くてごめん/[初音ミク] 可愛くてごめん (by sodadayo20).mp3",
-                "可愛くてごめん/Camara.vmd",
-                "可愛くてごめん/Model (by はかり).vmd"
+                "可愛くてごめん/Camera.vmd",
+                "可愛くてごめん/Motion (by はかり).vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "World is Mine",
+            "f": "ワールドイズマイン",
+            "m": [
+                "ワールドイズマイン/[Miku] World is mine (by ryo).mp3",
+                "ワールドイズマイン/Camera (by mobiusP).vmd",
+                "ワールドイズマイン/Motion.vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "포지티브 퍼레이드",
+            "t": "ポジティブパレード",
+            "m": [
+                "ポジティブパレード/[Miku] ポジティブ・パレード (by Deco27).mp3",
+                "ポジティブパレード/Camera (by なつき).vmd",
+                "ポジティブパレード/Motion (by なつき).vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "내일의 밤하늘 초계반",
+            "t": "アスノヨゾラ哨戒班",
+            "m": [
+                "アスノヨゾラ哨戒班/[Miku] アスノヨゾラ哨戒班 (by sodadayo20).mp3",
+                "アスノヨゾラ哨戒班/Camera (by なつき).vmd",
+                "アスノヨゾラ哨戒班/Motion (by なつき).vmd"
             ],
             "raw": true,
             "r": 3
