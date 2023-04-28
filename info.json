@@ -315,6 +315,48 @@
             ],
             "raw": true,
             "r": 3
+        },
+        {
+            "n": "WAVE",
+            "m": [
+                "WAVE/[niki feat.Lily] WAVE.mp3",
+                "WAVE/Camera (by 配布用).vmd",
+                "WAVE/Motion (by 配布用).vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "ねこみみスイッチ",
+            "m": [
+                "ねこみみスイッチ/[Miku] ねこみみスイッチ (by DaniwellP).mp3",
+                "ねこみみスイッチ/Camera.vmd",
+                "ねこみみスイッチ/Motion.vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "스타라이트 스노우",
+            "f": "スターナイトスノー",
+            "m": [
+                "スターナイトスノー/[Miku] スターナイトスノー (by n-buna & Orangestar).mp3",
+                "スターナイトスノー/Camera (by 秋狐＠女子力P).vmd",
+                "スターナイトスノー/Motion (by 配布用).vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "좋아! 눈! 진심 매직",
+            "f": "好き！雪！本気マジック",
+            "m": [
+                "好き！雪！本気マジック/[Miku] 好き！雪！本気マジック (by Mitchie M).mp3",
+                "好き！雪！本気マジック/Camera (by 結莉).vmd",
+                "好き！雪！本気マジック/Motion (by 配布用).vmd"
+            ],
+            "raw": true,
+            "r": 3
         }
     ]
 }
