@@ -75,11 +75,11 @@
         },
         {
             "n": "ツギハギスタッカート",
-            "f": "Patchwork Staccato",
+            "f": "Patchwork_Staccato",
             "m": [
-                "Patchwork Staccato/[Miku] 누덕누덕 스타카토.mp3",
-                "Patchwork Staccato/Camera by kip.vmd",
-                "Patchwork Staccato/Motion.vmd"
+                "Patchwork_Staccato/[Miku] 누덕누덕 스타카토.mp3",
+                "Patchwork_Staccato/Camera by kip.vmd",
+                "Patchwork_Staccato/Motion.vmd"
             ],
             "raw": true,
             "r": 3
@@ -229,7 +229,7 @@
             "r": 3
         },
         {
-            "n": "사랑 받지 못해도 너가 있어",
+            "n": "사랑 받지 못해도 너가 있어서",
             "f": "愛されなくても君がいる",
             "m": [
                 "愛されなくても君がいる/愛されなくても君がいる.mp3",
@@ -354,6 +354,28 @@
                 "好き！雪！本気マジック/[Miku] 好き！雪！本気マジック (by Mitchie M).mp3",
                 "好き！雪！本気マジック/Camera (by 結莉).vmd",
                 "好き！雪！本気マジック/Motion (by 配布用).vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[Miku] 울려퍼져라! (히비카세)",
+            "f": "ヒビカセ",
+            "m": [
+                "ヒビカセ/[miku] ヒビカセ (by Giga-P)",
+                "ヒビカセ/Camera (by seitsuki).vmd",
+                "ヒビカセ/Motion (by Seto).vmd"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[幾田りら] 아이돌! (최애의 아이)",
+            "f": "アイドル [推しの子]",
+            "m": [
+                "アイドル [推しの子]/[幾田りら] アイドル (by YOASOBI).mp3",
+                "アイドル [推しの子]/Camera (by イ短調).vmd",
+                "アイドル [推しの子]/Motion (by イ短調).vmd"
             ],
             "raw": true,
             "r": 3
