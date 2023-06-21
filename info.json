@@ -407,8 +407,8 @@
             "n": "[azurlane] 유구한 카타르시스 (4인 합창 Ver)",
             "f": "[azurlane] 悠久のカタルシス (4スターズ Ver)",
             "m": [
-                "[azurlane] 悠久のカタルシス (4スターズ Ver)/[azurlane] 悠久のカタルシス (4スターズ Ver).mp3",
-                "[azurlane] 悠久のカタルシス (4スターズ Ver)/[azurlane] 悠久のカタルシス (4スターズ Ver).lrc"
+                "[azurlane] 悠久のカタルシス/[azurlane] 悠久のカタルシス (4スターズ Ver).mp3",
+                "[azurlane] 悠久のカタルシス/[azurlane] 悠久のカタルシス (4スターズ Ver).lrc"
             ],
             "lrc": true,
             "raw": true,
@@ -416,7 +416,7 @@
         },
         {
             "n": "[gf] Don't Stay - Linkin Park",
-            "f": "./audios/[gf] Don't Stay",
+            "f": "[gf] Don't Stay",
             "m": [
                 "[gf] Don't Stay/[gf] Don't Stay - Linkin Park.mp3",
                 "[gf] Don't Stay/[gf] Don't Stay - Linkin Park.lrc"
@@ -449,10 +449,21 @@
         },
         {
             "n": "[gf] OnlyForYou - LeeJiAe",
-            "f": "./audios/[gf] OnlyForYou",
+            "f": "[gf] OnlyForYou",
             "m": [
                 "[gf] OnlyForYou/[gf] OnlyForYou - LeeJiAe.mp3",
                 "[gf] OnlyForYou/[gf] OnlyForYou - LeeJiAe.lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n":"샤이닝스타",
+            "f":"シャイニングスター",
+            "m": [
+                "シャイニングスター/[Shiho] シャイニングスター",
+                "シャイニングスター/[Shiho] シャイニングスター"
             ],
             "lrc": true,
             "raw": true,
