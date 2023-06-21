@@ -1,0 +1,91 @@
+{
+    "t": "SongDB",
+    "b": [
+        null,
+        null,
+        null,
+        "https://raw.githack.com/jomin398/mySongDB/master/bgms/"
+    ],
+    "d": [
+        {
+            "n": "[ag] afternoon",
+            "m": [
+                "[ag] afternoon/[ag] afternoon.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[ag] Engage",
+            "m": [
+                "[ag] Engage/[ag] Engage.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[ag] Lunaria",
+            "m": [
+                "[ag] Lunaria/[ag] Lunaria (ver Music box).mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[ag] Link",
+            "m": [
+                "[ag] Link/[ag] Link (inst).mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[ag] Night view",
+            "m": [
+                "[ag] Night view/[ag] Night view.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] Cury Dorm (3rd live ver)",
+            "m": [
+                "[gf] Cury Dorm (3rd live ver)/[gf] Cury Dorm (3rd live ver).mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] futuristic Room",
+            "m": [
+                "[gf] futuristic Room/[gf] futuristic Room.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] Hope",
+            "m": [
+                "[gf] Hope/[gf] Hope.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] idol Room",
+            "m": [
+                "[gf] idol Room/[gf] idol Room.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] Memorial Roommate",
+            "m": [
+                "[gf] Memorial Roommate/[gf] Memorial Roommate.mp3"
+            ],
+            "raw": true,
+            "r": 3
+        }
+    ]
+}

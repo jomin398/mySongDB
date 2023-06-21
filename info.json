@@ -379,6 +379,84 @@
             ],
             "raw": true,
             "r": 3
+        },
+        {
+            "n": "[ag] Link",
+            "m": [
+                "[ag] Link (inst)/[ag] Link.mp3",
+                "[ag] Link (inst)/[ag] Link (inst).mp3",
+                "[ag] Link (inst)/[ag] Link.lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[ag] Lunaria",
+            "m": [
+                "[ag] Lunaria/[ag] Lunaria (ja).mp3",
+                "[ag] Lunaria/[ag] Lunaria (ko).mp3",
+                "[ag] Lunaria/[ag] Lunaria (ja).lrc",
+                "[ag] Lunaria/[ag] Lunaria (ko).lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[azurlane] 유구한 카타르시스 (4인 합창 Ver)",
+            "f": "[azurlane] 悠久のカタルシス (4スターズ Ver)",
+            "m": [
+                "[azurlane] 悠久のカタルシス (4スターズ Ver)/[azurlane] 悠久のカタルシス (4スターズ Ver).mp3",
+                "[azurlane] 悠久のカタルシス (4スターズ Ver)/[azurlane] 悠久のカタルシス (4スターズ Ver).lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] Don't Stay - Linkin Park",
+            "f": "./audios/[gf] Don't Stay",
+            "m": [
+                "[gf] Don't Stay/[gf] Don't Stay - Linkin Park.mp3",
+                "[gf] Don't Stay/[gf] Don't Stay - Linkin Park.lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] FirstKiss - HwangJungMi",
+            "f": "[gf] FirstKiss",
+            "m": [
+                "[gf] FirstKiss/[gf] FirstKiss - HwangJungMi.mp3",
+                "[gf] FirstKiss/[gf] FirstKiss - HwangJungMi.lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] Frontline KR - Guriri",
+            "f": "[gf] Frontline KR",
+            "m": [
+                "[gf] Frontline KR/[gf] Frontline KR - Guriri.mp3",
+                "[gf] Frontline KR/[gf] Frontline KR - Guriri.lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "[gf] OnlyForYou - LeeJiAe",
+            "f": "./audios/[gf] OnlyForYou",
+            "m": [
+                "[gf] OnlyForYou/[gf] OnlyForYou - LeeJiAe.mp3",
+                "[gf] OnlyForYou/[gf] OnlyForYou - LeeJiAe.lrc"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
         }
     ]
 }
