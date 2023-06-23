@@ -27,6 +27,10 @@
                 "Dear/Motion.vmd",
                 "Dear/Camera.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
             "raw": true,
             "r": 3
         },
@@ -37,6 +41,10 @@
                 "Glass Bead/Glass Bead.mp3",
                 "Glass Bead/Camera by LadieAlien.vmd",
                 "Glass Bead/Motion by LadieAlien.vmd"
+            ],
+            "tags": [
+                "KPOP",
+                "GIRLFRIEND"
             ],
             "raw": true,
             "r": 3
@@ -49,6 +57,10 @@
                 "Rough/Camera.vmd",
                 "Rough/Motion.vmd"
             ],
+            "tags": [
+                "KPOP",
+                "GIRLFRIEND"
+            ],
             "raw": true,
             "r": 3
         },
@@ -58,6 +70,10 @@
                 "Happy Halloween/Happy Halloween Junky feat.鏡音リン.mp3",
                 "Happy Halloween/Camera.vmd",
                 "Happy Halloween/Motion.vmd"
+            ],
+            "tags": [
+                "RIN",
+                "VOCALOID"
             ],
             "raw": true,
             "r": 3
@@ -70,6 +86,10 @@
                 "Melt/Camera.vmd",
                 "Melt/Motion.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
             "raw": true,
             "r": 3
         },
@@ -81,6 +101,10 @@
                 "Patchwork_Staccato/Camera by kip.vmd",
                 "Patchwork_Staccato/Motion.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
             "raw": true,
             "r": 3
         },
@@ -90,6 +114,11 @@
                 "Snow Fairy Story/[初音ミク] Snow Fairy Story by 40mP.mp3",
                 "Snow Fairy Story/Camera by 永瀬律 (りつ).vmd",
                 "Snow Fairy Story/Motion by まいてぃ.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "SNOW"
             ],
             "raw": true,
             "r": 3
@@ -103,6 +132,11 @@
                 "Start Dash/Motion うみモーション.vmd",
                 "Start Dash/Motion ほのかモーション.vmd"
             ],
+            "tags": [
+                "MUS",
+                "LOVELIVE",
+                "µ's"
+            ],
             "raw": true,
             "r": 3
         },
@@ -114,6 +148,10 @@
                 "Roly poly/Camera.vmd",
                 "Roly poly/Motion.vmd"
             ],
+            "tags": [
+                "KPOP",
+                "TARA"
+            ],
             "raw": true,
             "r": 3
         },
@@ -123,6 +161,11 @@
                 "Tell Your World/Tell Your World.mp3",
                 "Tell Your World/Camera.vmd",
                 "Tell Your World/Motion.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "LIVETUNE(KZ)"
             ],
             "raw": true,
             "r": 3
@@ -135,6 +178,10 @@
                 "LIKEY/Camera by Ayano01Tateyama.vmd",
                 "LIKEY/Motion.vmd"
             ],
+            "tags": [
+                "KPOP",
+                "TWICE"
+            ],
             "raw": true,
             "r": 3
         },
@@ -146,6 +193,10 @@
                 "wavefile_shorts/Camera.vmd",
                 "wavefile_shorts/Motion.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
             "raw": true,
             "r": 3,
             "offset": 530
@@ -156,6 +207,11 @@
                 "Yellow/Yellow (by kz).mp3",
                 "Yellow/Camera.vmd",
                 "Yellow/Motion.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "LIVETUNE(KZ)"
             ],
             "raw": true,
             "r": 3
@@ -169,6 +225,11 @@
                 "君色に染まる/Motion (big).vmd",
                 "君色に染まる/Motion (small).vmd"
             ],
+            "tags": [
+                "MIKU",
+                "RIN",
+                "VOCALOID"
+            ],
             "raw": true,
             "r": 3
         },
@@ -181,6 +242,11 @@
                 "金曜日のおはよう/Camera (small).vmd",
                 "金曜日のおはよう/Motion.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "HONEYWORKS"
+            ],
             "raw": true,
             "r": 3
         },
@@ -191,6 +257,11 @@
                 "愛言葉Ⅲ/[Miku] 愛言葉Ⅲ By DECO27.mp3",
                 "愛言葉Ⅲ/Camera.vmd",
                 "愛言葉Ⅲ/Motion by 足太ぺんたさん.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
             ],
             "raw": true,
             "r": 3
@@ -203,6 +274,12 @@
                 "桜ノ雨/Camera.vmd",
                 "桜ノ雨/Motion.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "GRADUATION",
+                "SAKURA"
+            ],
             "raw": true,
             "r": 3
         },
@@ -213,6 +290,11 @@
                 "千本桜/[Miku] 千本桜 by 黒うさP.mp3",
                 "千本桜/Camera.vmd",
                 "千本桜/Motion.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "SAKURA"
             ],
             "raw": true,
             "r": 3
@@ -225,6 +307,11 @@
                 "Ray/Motion.vmd",
                 "Ray/[初音ミク] Ray.lrc"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
+            ],
             "raw": true,
             "r": 3
         },
@@ -235,6 +322,11 @@
                 "愛されなくても君がいる/愛されなくても君がいる.mp3",
                 "愛されなくても君がいる/Camera by hosino.vmd",
                 "愛されなくても君がいる/Motion by hosino.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "PINOCCHIOP"
             ],
             "raw": true,
             "r": 3
@@ -247,6 +339,11 @@
                 "ダダダダ天使/camera.vmd",
                 "ダダダダ天使/Motion.vmd"
             ],
+            "tags": [
+                "NANAOAKARI",
+                "NAYUTAN",
+                "TENSI"
+            ],
             "raw": true,
             "r": 3
         },
@@ -257,6 +354,11 @@
                 "太陽系デスコ/[miku] 太陽系デスコ.mp3",
                 "太陽系デスコ/camera.vmd",
                 "太陽系デスコ/motion.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "NAYUTAN"
             ],
             "raw": true,
             "r": 3
@@ -269,6 +371,11 @@
                 "エイリアンエイリアン/Camera (by えいちゃん).vmd",
                 "エイリアンエイリアン/Motion (LIVE ver. by 配布用).vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "NAYUTAN"
+            ],
             "raw": true,
             "r": 3
         },
@@ -279,6 +386,11 @@
                 "可愛くてごめん/[初音ミク] 可愛くてごめん (by sodadayo20).mp3",
                 "可愛くてごめん/Camera.vmd",
                 "可愛くてごめん/Motion (by はかり).vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "HONEYWORKS"
             ],
             "raw": true,
             "r": 3
@@ -291,6 +403,11 @@
                 "ワールドイズマイン/Camera (by mobiusP).vmd",
                 "ワールドイズマイン/Motion.vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
+            ],
             "raw": true,
             "r": 3
         },
@@ -301,6 +418,11 @@
                 "ポジティブパレード/[Miku] ポジティブ・パレード (by Deco27).mp3",
                 "ポジティブパレード/Camera (by なつき).vmd",
                 "ポジティブパレード/Motion (by なつき).vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
             ],
             "raw": true,
             "r": 3
@@ -313,6 +435,11 @@
                 "アスノヨゾラ哨戒班/Camera (by なつき).vmd",
                 "アスノヨゾラ哨戒班/Motion (by なつき).vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "ORANGESTAR"
+            ],
             "raw": true,
             "r": 3
         },
@@ -323,6 +450,11 @@
                 "WAVE/Camera (by 配布用).vmd",
                 "WAVE/Motion (by 配布用).vmd"
             ],
+            "tags": [
+                "NIKI",
+                "LILY (VOCALOID)",
+                "VOCALOID"
+            ],
             "raw": true,
             "r": 3
         },
@@ -332,6 +464,11 @@
                 "ねこみみスイッチ/[Miku] ねこみみスイッチ (by DaniwellP).mp3",
                 "ねこみみスイッチ/Camera.vmd",
                 "ねこみみスイッチ/Motion.vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "NEKO"
             ],
             "raw": true,
             "r": 3
@@ -344,6 +481,12 @@
                 "スターナイトスノー/Camera (by 秋狐＠女子力P).vmd",
                 "スターナイトスノー/Motion (by 配布用).vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "ORANGESTAR",
+                "SNOW"
+            ],
             "raw": true,
             "r": 3
         },
@@ -354,6 +497,12 @@
                 "好き！雪！本気マジック/[Miku] 好き！雪！本気マジック (by Mitchie M).mp3",
                 "好き！雪！本気マジック/Camera (by 結莉).vmd",
                 "好き！雪！本気マジック/Motion (by 配布用).vmd"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "MITCHIEM",
+                "SNOW"
             ],
             "raw": true,
             "r": 3
@@ -366,6 +515,11 @@
                 "ヒビカセ/Camera (by seitsuki).vmd",
                 "ヒビカセ/Motion (by Seto).vmd"
             ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "GIGA"
+            ],
             "raw": true,
             "r": 3
         },
@@ -377,6 +531,12 @@
                 "アイドル [推しの子]/Camera (by イ短調).vmd",
                 "アイドル [推しの子]/Motion (by イ短調).vmd"
             ],
+            "tags": [
+                "HOSINOAI",
+                "OSINOKO",
+                "YOASOBI",
+                "ANIME"
+            ],
             "raw": true,
             "r": 3
         },
@@ -386,6 +546,10 @@
                 "[ag] Link (inst)/[ag] Link.mp3",
                 "[ag] Link (inst)/[ag] Link (inst).mp3",
                 "[ag] Link (inst)/[ag] Link.lrc"
+            ],
+            "tags": [
+                "ALTERNA",
+                "GAME"
             ],
             "lrc": true,
             "raw": true,
@@ -399,6 +563,10 @@
                 "[ag] Lunaria/[ag] Lunaria (ja).lrc",
                 "[ag] Lunaria/[ag] Lunaria (ko).lrc"
             ],
+            "tags": [
+                "ALTERNA",
+                "GAME"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -409,6 +577,14 @@
             "m": [
                 "[azurlane] 悠久のカタルシス/[azurlane] 悠久のカタルシス (4スターズ Ver).mp3",
                 "[azurlane] 悠久のカタルシス/[azurlane] 悠久のカタルシス (4スターズ Ver).lrc"
+            ],
+            "tags": [
+                "AYANAMI (アズールレーン)",
+                "LAFFEY (アズールレーン)",
+                "Z23 (アズールレーン)",
+                "JAVELIN (アズールレーン)",
+                "AZURLANE",
+                "GAME"
             ],
             "lrc": true,
             "raw": true,
@@ -421,6 +597,11 @@
                 "[gf] Don't Stay/[gf] Don't Stay - Linkin Park.mp3",
                 "[gf] Don't Stay/[gf] Don't Stay - Linkin Park.lrc"
             ],
+            "tags": [
+                "GIRLFRONT",
+                "LINKINPARK",
+                "GAME"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -431,6 +612,11 @@
             "m": [
                 "[gf] FirstKiss/[gf] FirstKiss - HwangJungMi.mp3",
                 "[gf] FirstKiss/[gf] FirstKiss - HwangJungMi.lrc"
+            ],
+            "tags": [
+                "GIRLFRONT",
+                "DJMAX",
+                "GAME"
             ],
             "lrc": true,
             "raw": true,
@@ -443,6 +629,11 @@
                 "[gf] Frontline KR/[gf] Frontline KR - Guriri.mp3",
                 "[gf] Frontline KR/[gf] Frontline KR - Guriri.lrc"
             ],
+            "tags": [
+                "GIRLFRONT",
+                "VTUBER",
+                "GAME"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -454,18 +645,57 @@
                 "[gf] OnlyForYou/[gf] OnlyForYou - LeeJiAe.mp3",
                 "[gf] OnlyForYou/[gf] OnlyForYou - LeeJiAe.lrc"
             ],
+            "tags": [
+                "GIRLFRONT",
+                "DJMAX",
+                "GAME"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
         },
         {
-            "n":"샤이닝스타",
-            "f":"シャイニングスター",
+            "n": "샤이닝스타",
+            "f": "シャイニングスター",
             "m": [
                 "シャイニングスター/[Shiho] シャイニングスター",
                 "シャイニングスター/[Shiho] シャイニングスター"
             ],
+            "tags": [
+                "MAHOU",
+                "GAME"
+            ],
             "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "빛난다면",
+            "f": "光るなら",
+            "m": [
+                "光るなら/光るなら.mp3"
+            ],
+            "tags": [
+                "四月は君の嘘",
+                "KAORI (四月は君の嘘)",
+                "GOOSEHOUSE",
+                "ANIME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "겨울의 에필로그",
+            "f": "冬のエピローグ",
+            "m": [
+                "光るなら/冬のエピローグ.mp3"
+            ],
+            "tags": [
+                "四月は君の嘘",
+                "KAORI (四月は君の嘘)",
+                "GOOSEHOUSE",
+                "ANIME"
+            ],
             "raw": true,
             "r": 3
         }
