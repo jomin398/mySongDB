@@ -4,10 +4,7 @@
         "Unwelcome School",
         "No Exit Orion",
         "Packaged",
-        "Snow halation",
-        "サウンド",
         "ほうき星",
-        "みんなみくみくにしてあげる",
         "ワールドイズマイン",
         "勘違い性反希望症"
     ],
@@ -72,7 +69,7 @@
                 "Happy Halloween/Motion.vmd"
             ],
             "tags": [
-                "RIN",
+                "RIN (VOCALOID)",
                 "VOCALOID"
             ],
             "raw": true,
@@ -196,6 +193,9 @@
             "tags": [
                 "MIKU",
                 "VOCALOID"
+            ],
+            "atrys": [
+                "wavefile"
             ],
             "raw": true,
             "r": 3,
@@ -537,6 +537,10 @@
                 "YOASOBI",
                 "ANIME"
             ],
+            "atrys": [
+                "推しの子",
+                "アイドル"
+            ],
             "raw": true,
             "r": 3
         },
@@ -698,6 +702,72 @@
             ],
             "raw": true,
             "r": 3
+        },
+        {
+            "n": "모두 미쿠미쿠하게 해줄게♪",
+            "f": "みんなみくみくにしてあげる♪",
+            "m": [
+                "みんなみくみくにしてあげる/みんなみくみくにしてあげる♪ (ja).mp3",
+                "みんなみくみくにしてあげる/みんなみくみくにしてあげる♪ (ko by sodadayo20).mp3"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
+            "raw": true,
+            "r": 3,
+            "atrys": [
+                "みくみくにしてあげる♪【してやんよ】",
+                "みくみくにしてあげる♪",
+                "みんなみくみくにしてあげる"
+            ]
+        },
+        {
+            "n": "사운드",
+            "f": "サウンド",
+            "m": [
+                "サウンド/1. サウンド.mp3"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "스노우 할레이션",
+            "f": "Snow halation",
+            "m": [
+                "Snow halation/[Miku] Snow Halation (by jomin398).mp3",
+                "Snow halation/[初音ミク] Snow halation (by BOHAN YU).mp3"
+            ],
+            "raw": true,
+            "r": 3,
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "MUS",
+                "µ's",
+                "SNOW"
+            ]
+        },
+        {
+            "n": "패키지",
+            "f": "Packaged",
+            "m": [
+                "Packaged/[Miku] Packaged (ver Ko by sodadayo20).mp3",
+                "Packaged/Miku v4x - Packaged.mp3"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
+            "raw": true,
+            "r": 3,
+            "atrys": [
+                "サウンド"
+            ]
         }
     ]
 }
