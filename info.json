@@ -227,7 +227,7 @@
             ],
             "tags": [
                 "MIKU",
-                "RIN",
+                "RIN (VOCALOID)",
                 "VOCALOID"
             ],
             "raw": true,
@@ -424,6 +424,10 @@
                 "VOCALOID",
                 "DECO*27"
             ],
+            "atrys": [
+                "ポジティブ・パレード",
+                "Positive Parade"
+            ],
             "raw": true,
             "r": 3
         },
@@ -606,6 +610,9 @@
                 "LINKINPARK",
                 "GAME"
             ],
+            "atrys": [
+                "GF DJMAX"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -621,6 +628,9 @@
                 "GIRLFRONT",
                 "DJMAX",
                 "GAME"
+            ],
+            "atrys": [
+                "GF DJMAX"
             ],
             "lrc": true,
             "raw": true,
@@ -638,6 +648,9 @@
                 "VTUBER",
                 "GAME"
             ],
+            "atrys": [
+                "GF DJMAX"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -653,6 +666,9 @@
                 "GIRLFRONT",
                 "DJMAX",
                 "GAME"
+            ],
+            "atrys": [
+                "GF DJMAX"
             ],
             "lrc": true,
             "raw": true,
@@ -768,6 +784,201 @@
             "atrys": [
                 "サウンド"
             ]
+        },
+        {
+            "n": "착각성 반 희망증",
+            "f": "勘違い性反希望症",
+            "m": [
+                "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.mp3",
+                "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.lrc"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "밤을 달리다",
+            "f": "夜に駆ける",
+            "m": [
+                "夜に駆ける/[YOASOBI] 夜に駆ける.mp3"
+            ],
+            "tags": [
+                "VOCALOID",
+                "YOASOBI"
+            ],
+            "raw": true,
+            "r": 3,
+            "atrys": [
+                "[YOASOBI] 夜に駆ける"
+            ]
+        },
+        {
+            "n": "튜링 러브",
+            "f": "チューリングラブ",
+            "m": [
+                "チューリングラブ/チューリングラブ feat.初音ミク(by sodadayo20).mp3",
+                "チューリングラブ/チューリングラブ feat.Sou.mp3",
+                "チューリングラブ/チューリングラブ feat.Sou.lrc"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "NANAOAKARI",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "방해쟁이 2",
+            "f": "おじゃま虫Ⅱ",
+            "m": [
+                "おじゃま虫Ⅱ/おじゃま虫Ⅱ.mp3",
+                "おじゃま虫Ⅱ/おじゃま虫Ⅱ.lrc"
+            ],
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Let you DIVE!",
+            "m": [
+                "WACCA/Let you DIVE!.mp3"
+            ],
+            "tags": [
+                "WACCA",
+                "ELIZABETH (WACCA)",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "어드밴쳐 (Ouverture)",
+            "f": "Ouverture",
+            "m": [
+                "WACCA/Ouverture.mp3"
+            ],
+            "tags": [
+                "WACCA",
+                "RIN (WACCA)",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "With U",
+            "f": "with U",
+            "m": [
+                "WACCA/with U.mp3"
+            ],
+            "tags": [
+                "WACCA",
+                "LILY (WACCA)",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "DIVE with U",
+            "m": [
+                "WACCA/DIVE with U.mp3"
+            ],
+            "tags": [
+                "WACCA",
+                "ELIZABETH (WACCA)",
+                "LILY (WACCA)",
+                "RIN (WACCA)",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "페코미코 대전쟁!!",
+            "f": "ぺこみこ大戦争!!",
+            "m": [
+                "WACCA/ぺこみこ大戦争!!.mp3"
+            ],
+            "tags": [
+                "WACCA",
+                "REDALiCE",
+                "VTUBER",
+                "HOLOLIVE",
+                "PEKORA (HOLOLIVE)",
+                "MIKO (HOLOLIVE)",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "벛꽃 바람",
+            "f": "サクラカゼ",
+            "m": [
+                "サクラカゼ/サクラカゼ.mp3"
+            ],
+            "tags": [
+                "VTUBER",
+                "HOLOLIVE",
+                "MIKO (HOLOLIVE)",
+                "SAKURA"
+            ],
+            "atrys": [
+                "桜風",
+                "桜カゼ"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Ha･lle･lu･jah",
+            "f": "Ha lle lu jah",
+            "m": [
+                "Ha lle lu jah/Ha･lle･lu･jah.mp3",
+                "Ha lle lu jah/Ha･lle･lu･jah.lrc"
+            ],
+            "tags": [
+                "SDVX",
+                "Takahashi Nana",
+                "SOUNDHOLIC",
+                "GAME"
+            ],
+            "atrys": [
+                "Ha lle lu jah"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "두근콩닥★유성우",
+            "f": "ときめき★メテオストライク",
+            "m": [
+                "ときめき★メテオストライク/ときめき★メテオストライク (Short ver).mp3"
+            ],
+            "tags": [
+                "MINASEMINAMI",
+                "GAME"
+            ],
+            "atrys": [
+                "ときめき メテオストライク"
+            ],
+            "raw": true,
+            "r": 3
         }
     ]
 }
