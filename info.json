@@ -63,15 +63,20 @@
         {
             "n": "Happy Halloween",
             "m": [
-                "Happy Halloween/Happy Halloween Junky feat.鏡音リン.mp3",
+                "Happy Halloween/Happy Halloween.mp3",
+                "Happy Halloween/Happy Halloween (ko ver by sodadayo20).mp3",
                 "Happy Halloween/Camera.vmd",
                 "Happy Halloween/Motion.vmd"
             ],
             "artist": "RIN (VOCALOID)",
+            "another": [
+                "MIKU"
+            ],
             "maker": "JUNKY",
             "tags": [
                 "JUNKY",
                 "RIN (VOCALOID)",
+                "MIKU",
                 "VOCALOID"
             ],
             "raw": true,
@@ -81,12 +86,13 @@
             "n": "メルト",
             "f": "Melt",
             "m": [
-                "Melt/pv_005.mp3",
+                "Melt/Melt.mp3",
+                "Melt/Melt (ko ver by sodadayo20).mp3",
                 "Melt/Camera.vmd",
                 "Melt/Motion.vmd"
             ],
             "artist": "MIKU",
-            "maker": "SUPERCELL",
+            "maker": "SUPERCELL(RYO)",
             "tags": [
                 "SUPERCELL(RYO)",
                 "MIKU",
@@ -97,11 +103,12 @@
         },
         {
             "n": "ツギハギスタッカート",
-            "f": "Patchwork_Staccato",
+            "f": "Patchwork Staccato",
             "m": [
-                "Patchwork_Staccato/[Miku] 누덕누덕 스타카토.mp3",
-                "Patchwork_Staccato/Camera by kip.vmd",
-                "Patchwork_Staccato/Motion.vmd"
+                "Patchwork Staccato/Patchwork Staccato.mp3",
+                "Patchwork Staccato/Patchwork Staccato (ko ver by sodadayo20).mp3",
+                "Patchwork Staccato/Camera by kip.vmd",
+                "Patchwork Staccato/Motion.vmd"
             ],
             "artist": "MIKU",
             "tags": [
@@ -192,7 +199,7 @@
             "n": "LIKEY",
             "f": "LIKEY",
             "m": [
-                "LIKEY/TWICE_LIKEY.mp3",
+                "LIKEY/LIKEY.mp3",
                 "LIKEY/Camera by Ayano01Tateyama.vmd",
                 "LIKEY/Motion.vmd"
             ],
@@ -205,7 +212,7 @@
             "r": 3
         },
         {
-            "n": "wavefile (short ver)",
+            "n": "wavefile",
             "f": "wavefile",
             "m": [
                 "wavefile/wavefile (short ver).mp3",
@@ -245,7 +252,7 @@
             "n": "너의 색으로 물들어",
             "f": "君色に染まる",
             "m": [
-                "君色に染まる/君色に染まる_Miku ver Kor.mp3",
+                "君色に染まる/君色に染まる (ko ver by sodadayo20).mp3",
                 "君色に染まる/Camera.vmd",
                 "君色に染まる/Motion (big).vmd",
                 "君色に染まる/Motion (small).vmd"
@@ -340,10 +347,12 @@
                 "千本桜/Motion.vmd"
             ],
             "artist": "MIKU",
+            "maker": "WHITEFLAME",
             "tags": [
                 "MIKU",
                 "VOCALOID",
-                "SAKURA"
+                "SAKURA",
+                "WHITEFLAME"
             ],
             "raw": true,
             "r": 3
@@ -382,6 +391,7 @@
                 "VOCALOID",
                 "PINOCCHIOP"
             ],
+            "lrc": true,
             "raw": true,
             "r": 3
         },
@@ -389,7 +399,7 @@
             "n": "다다다 천사",
             "f": "ダダダダ天使",
             "m": [
-                "ダダダダ天使/[ナナヲアカリ] ダダダダ天使.mp3",
+                "ダダダダ天使/ダダダダ天使.mp3",
                 "ダダダダ天使/camera.vmd",
                 "ダダダダ天使/Motion.vmd"
             ],
@@ -407,7 +417,7 @@
             "n": "태양계 디스코",
             "f": "太陽系デスコ",
             "m": [
-                "太陽系デスコ/[miku] 太陽系デスコ.mp3",
+                "太陽系デスコ/太陽系デスコ.mp3",
                 "太陽系デスコ/camera.vmd",
                 "太陽系デスコ/motion.vmd"
             ],
@@ -425,7 +435,7 @@
             "n": "에일리언 에일리언",
             "f": "エイリアンエイリアン",
             "m": [
-                "エイリアンエイリアン/[初音ミク] エイリアンエイリアン.mp3",
+                "エイリアンエイリアン/エイリアンエイリアン.mp3",
                 "エイリアンエイリアン/Camera (by えいちゃん).vmd",
                 "エイリアンエイリアン/Motion (LIVE ver. by 配布用).vmd"
             ],
@@ -443,13 +453,18 @@
             "n": "귀여워서 미안해",
             "f": "可愛くてごめん",
             "m": [
-                "可愛くてごめん/[初音ミク] 可愛くてごめん (by sodadayo20).mp3",
+                "可愛くてごめん/可愛くてごめん.mp3",
+                "可愛くてごめん/可愛くてごめん (by sodadayo20).mp3",
                 "可愛くてごめん/Camera.vmd",
                 "可愛くてごめん/Motion (by はかり).vmd"
             ],
-            "artist": "MIKU",
+            "artist": "HAYAMISAORI",
+            "another": [
+                "MIKU"
+            ],
             "maker": "HONEYWORKS",
             "tags": [
+                "HAYAMISAORI",
                 "MIKU",
                 "VOCALOID",
                 "HONEYWORKS"
@@ -461,7 +476,8 @@
             "n": "World is Mine",
             "f": "ワールドイズマイン",
             "m": [
-                "ワールドイズマイン/[Miku] World is mine (by ryo).mp3",
+                "ワールドイズマイン/ワールドイズマイン.mp3",
+                "ワールドイズマイン/ワールドイズマイン (ko ver by sodadayo20)",
                 "ワールドイズマイン/Camera (by mobiusP).vmd",
                 "ワールドイズマイン/Motion.vmd"
             ],
@@ -479,7 +495,8 @@
             "n": "포지티브 퍼레이드",
             "f": "ポジティブパレード",
             "m": [
-                "ポジティブパレード/[Miku] ポジティブ・パレード (by Deco27).mp3",
+                "ポジティブパレード/ポジティブパレード.mp3",
+                "ポジティブパレード/ポジティブパレード.lrc",
                 "ポジティブパレード/Camera (by なつき).vmd",
                 "ポジティブパレード/Motion (by なつき).vmd"
             ],
@@ -488,7 +505,9 @@
             "tags": [
                 "MIKU",
                 "VOCALOID",
-                "DECO*27"
+                "DECO*27",
+                "FESTIVAL",
+                "PARADE"
             ],
             "atrys": [
                 "ポジティブ・パレード",
@@ -521,7 +540,7 @@
         {
             "n": "WAVE",
             "m": [
-                "WAVE/[niki feat.Lily] WAVE.mp3",
+                "WAVE/WAVE.mp3",
                 "WAVE/Camera (by 配布用).vmd",
                 "WAVE/Motion (by 配布用).vmd"
             ],
@@ -538,7 +557,7 @@
         {
             "n": "ねこみみスイッチ",
             "m": [
-                "ねこみみスイッチ/[Miku] ねこみみスイッチ (by DaniwellP).mp3",
+                "ねこみみスイッチ/ねこみみスイッチ.mp3",
                 "ねこみみスイッチ/Camera.vmd",
                 "ねこみみスイッチ/Motion.vmd"
             ],
@@ -555,11 +574,11 @@
         },
         {
             "n": "스타라이트 스노우",
-            "f": "スターナイトスノー",
+            "f": "スターナイトスノウ",
             "m": [
-                "スターナイトスノー/スターナイトスノー.mp3",
-                "スターナイトスノー/Camera (by 秋狐＠女子力P).vmd",
-                "スターナイトスノー/Motion (by 配布用).vmd"
+                "スターナイトスノウ/スターナイトスノウ.mp3",
+                "スターナイトスノウ/Camera (by 秋狐＠女子力P).vmd",
+                "スターナイトスノウ/Motion (by 配布用).vmd"
             ],
             "artist": "MIKU",
             "maker": "ORANGESTAR",
@@ -595,7 +614,7 @@
             "n": "[Miku] 울려퍼져라! (히비카세)",
             "f": "ヒビカセ",
             "m": [
-                "ヒビカセ/[miku] ヒビカセ (by Giga-P)",
+                "ヒビカセ/ヒビカセ.mp3",
                 "ヒビカセ/Camera (by seitsuki).vmd",
                 "ヒビカセ/Motion (by Seto).vmd"
             ],
@@ -613,7 +632,7 @@
             "n": "[幾田りら] 아이돌! (최애의 아이)",
             "f": "アイドル [推しの子]",
             "m": [
-                "アイドル [推しの子]/[幾田りら] アイドル (by YOASOBI).mp3",
+                "アイドル [推しの子]/アイドル.mp3",
                 "アイドル [推しの子]/Camera (by イ短調).vmd",
                 "アイドル [推しの子]/Motion (by イ短調).vmd"
             ],
@@ -635,7 +654,6 @@
             "n": "Link",
             "m": [
                 "Link (inst)/Link.mp3",
-                "Link (inst)/Link (inst).mp3",
                 "Link (inst)/Link.lrc"
             ],
             "artist": "ALTERNA",
@@ -650,9 +668,9 @@
         {
             "n": "Lunaria",
             "m": [
-                "Lunaria/Lunaria (ja).mp3",
+                "Lunaria/Lunaria.mp3",
                 "Lunaria/Lunaria (ko).mp3",
-                "Lunaria/Lunaria (ja).lrc",
+                "Lunaria/Lunaria.lrc",
                 "Lunaria/Lunaria (ko).lrc"
             ],
             "artist": "ALTERNA",
@@ -686,11 +704,11 @@
             "r": 3
         },
         {
-            "n": "Don't Stay - Linkin Park",
+            "n": "Don't Stay",
             "f": "Don't Stay",
             "m": [
-                "Don't Stay/Don't Stay - Linkin Park.mp3",
-                "Don't Stay/Don't Stay - Linkin Park.lrc"
+                "Don't Stay/Don't Stay",
+                "Don't Stay/Don't Stay.lrc"
             ],
             "artist": "LINKINPARK",
             "maker": "DJMAX",
@@ -708,11 +726,11 @@
             "r": 3
         },
         {
-            "n": "FirstKiss - HwangJungMi",
+            "n": "FirstKiss",
             "f": "FirstKiss",
             "m": [
-                "FirstKiss/FirstKiss - HwangJungMi.mp3",
-                "FirstKiss/FirstKiss - HwangJungMi.lrc"
+                "FirstKiss/FirstKiss.mp3",
+                "FirstKiss/FirstKiss.lrc"
             ],
             "artist": "HWANGJUNGMI",
             "maker": "DJMAX",
@@ -730,11 +748,11 @@
             "r": 3
         },
         {
-            "n": "Frontline - Guriri",
+            "n": "Frontline",
             "f": "Frontline",
             "m": [
-                "Frontline/Frontline - Guriri.mp3",
-                "Frontline/Frontline - Guriri.lrc"
+                "Frontline/Frontline.mp3",
+                "Frontline/Frontline.lrc"
             ],
             "artist": "GURIRI",
             "maker": "GIRLFRONT",
@@ -752,11 +770,11 @@
             "r": 3
         },
         {
-            "n": "Only For You - LeeJiAe",
+            "n": "Only For You",
             "f": "Only For You",
             "m": [
-                "Only For You/Only For You - LeeJiAe.mp3",
-                "Only For You/Only For You - LeeJiAe.lrc"
+                "Only For You/Only For You.mp3",
+                "Only For You/Only For You.lrc"
             ],
             "artist": "LEEJEAE",
             "maker": "DJMAX",
@@ -777,8 +795,8 @@
             "n": "샤이닝스타",
             "f": "シャイニングスター",
             "m": [
-                "シャイニングスター/[Shiho] シャイニングスター.mp3",
-                "シャイニングスター/[Shiho] シャイニングスター.lrc"
+                "シャイニングスター/シャイニングスター.mp3",
+                "シャイニングスター/シャイニングスター.lrc"
             ],
             "tags": [
                 "MAHOU",
@@ -847,7 +865,7 @@
             "n": "사운드",
             "f": "サウンド",
             "m": [
-                "サウンド/1. サウンド.mp3"
+                "サウンド/サウンド.mp3"
             ],
             "artist": "MIKU",
             "tags": [
@@ -858,13 +876,30 @@
             "r": 3
         },
         {
+            "n": "손에 손잡고",
+            "f": "Hand in Hand",
+            "m": [
+                "Hand in Hand/Hand in Hand.mp3"
+            ],
+            "artist": "MIKU",
+            "maker": "LIVETUNE(KZ)",
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "LIVETUNE(KZ)"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
             "n": "스노우 할레이션",
             "f": "Snow halation",
             "m": [
-                "Snow halation/[Miku] Snow Halation (by jomin398).mp3",
-                "Snow halation/[初音ミク] Snow halation (by BOHAN YU).mp3"
+                "Snow halation/Snow Halation (ko ver by jomin398).mp3",
+                "Snow halation/Snow halation.mp3"
             ],
             "artist": "MUS",
+            "maker": "BOHAN YU",
             "another": [
                 "MIKU"
             ],
@@ -882,8 +917,8 @@
             "n": "패키지",
             "f": "Packaged",
             "m": [
-                "Packaged/[Miku] Packaged (ver Ko by sodadayo20).mp3",
-                "Packaged/Miku v4x - Packaged.mp3"
+                "Packaged/Packaged (ko ver by sodadayo20).mp3",
+                "Packaged/Packaged.mp3"
             ],
             "artist": "MIKU",
             "tags": [
@@ -918,7 +953,7 @@
             "n": "밤을 달리다",
             "f": "夜に駆ける",
             "m": [
-                "夜に駆ける/[YOASOBI] 夜に駆ける.mp3"
+                "夜に駆ける/夜に駆ける.mp3"
             ],
             "maker": "YOASOBI",
             "tags": [
@@ -935,11 +970,12 @@
             "n": "튜링 러브",
             "f": "チューリングラブ",
             "m": [
-                "チューリングラブ/チューリングラブ feat.初音ミク(by sodadayo20).mp3",
-                "チューリングラブ/チューリングラブ feat.Sou.mp3",
-                "チューリングラブ/チューリングラブ feat.Sou.lrc"
+                "チューリングラブ/チューリングラブ (by sodadayo20).mp3",
+                "チューリングラブ/チューリングラブ.mp3",
+                "チューリングラブ/チューリングラブ.lrc"
             ],
             "artist": "NANAOAKARI",
+            "maker": "NAYUTAN",
             "another": [
                 "MIKU"
             ],
@@ -947,6 +983,7 @@
                 "MIKU",
                 "VOCALOID",
                 "NANAOAKARI",
+                "NAYUTAN",
                 "ANIME"
             ],
             "lrc": true,
@@ -983,6 +1020,9 @@
                 "ELIZABETH (WACCA)",
                 "GAME"
             ],
+            "atrys": [
+                "WACCA"
+            ],
             "raw": true,
             "r": 3
         },
@@ -998,6 +1038,9 @@
                 "WACCA",
                 "RIN (WACCA)",
                 "GAME"
+            ],
+            "atrys": [
+                "WACCA"
             ],
             "raw": true,
             "r": 3
@@ -1015,6 +1058,9 @@
                 "LILY (WACCA)",
                 "GAME"
             ],
+            "atrys": [
+                "WACCA"
+            ],
             "raw": true,
             "r": 3
         },
@@ -1031,6 +1077,9 @@
                 "LILY (WACCA)",
                 "RIN (WACCA)",
                 "GAME"
+            ],
+            "atrys": [
+                "WACCA"
             ],
             "raw": true,
             "r": 3
@@ -1129,6 +1178,263 @@
                 "MIKU",
                 "VOCALOID",
                 "NANAOAKARI"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ほうき星",
+            "m": [
+                "ほうき星/ほうき星.mp3",
+                "ほうき星/ほうき星 (ja ver by Tripshots)",
+                "ほうき星/ほうき星 (ko ver by sodadayo20).mp3"
+            ],
+            "artist": "YOUNHA",
+            "another": [
+                "MIKU"
+            ],
+            "maker": "TRIPSHOTS",
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "HOUKIBOSHI",
+                "YOUNHA",
+                "TRIPSHORTS"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Shooting Star",
+            "m": [
+                "EverSoul/Shooting Star.mp3"
+            ],
+            "artist": "JANGYENA",
+            "maker": "EVERSOUL",
+            "tags": [
+                "JANGYENA",
+                "EVERSOUL",
+                "NISHA (ELSOWORD)"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "꽃이 되어",
+            "m": [
+                "EverSoul/꽃이 되어.mp3"
+            ],
+            "artist": "JANGYENA",
+            "maker": "EVERSOUL",
+            "tags": [
+                "JANGYENA",
+                "EVERSOUL",
+                "NISHA (ELSOWORD)"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "댄스 로봇 댄스",
+            "f": "ダンスロボットダンス",
+            "m": [
+                "ダンスロボットダンス/ダンスロボットダンス.mp3",
+                "ダンスロボットダンス/ダンスロボットダンス - ナナヲアカリ"
+            ],
+            "artist": "MIKU",
+            "another": [
+                "NANAOAKARI"
+            ],
+            "maker": "NAYUTAN",
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "NAYUTAN",
+                "NANAOAKARI"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "사랑이 있는 듯 없는 듯 있어",
+            "f": "アイがあるようでないようである",
+            "m": [
+                "アイがあるようでないようである/アイがあるようでないようである.mp3"
+            ],
+            "artist": "NANAOAKARI",
+            "maker": "NAYUTAN",
+            "tags": [
+                "NAYUTAN",
+                "NANAOAKARI"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "디스코뮤성인",
+            "f": "ディスコミュ星人",
+            "m": [
+                "ディスコミュ星人/ディスコミュ星人.mp3"
+            ],
+            "artist": "NANAOAKARI",
+            "maker": "NAYUTAN",
+            "tags": [
+                "NAYUTAN",
+                "NANAOAKARI"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "별빛 쏟아지던 날의 너",
+            "artist": "QUYI (GRANSAGA)",
+            "maker": "GRANSAGA",
+            "tags": [
+                "JANGYENA",
+                "GRANSAGA",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "小さな光だけど",
+            "m": [
+                "小さな光だけど/小さな光だけど.mp3"
+            ],
+            "artist": "MIKU",
+            "maker": "ICHINOSELUPO",
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "ICHINOSELUPO"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "링크 링크 피버!!!",
+            "f": "LINK LINK FEVER!!!",
+            "m": [
+                "LINK LINK FEVER!!!/LINK LINK FEVER!!!.mp3"
+            ],
+            "artist": "LINNKA (GROOVECOASTER)",
+            "tags": [
+                "GROOVECOASTER",
+                "TOYOTAMOE",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "이어지는 커넥트",
+            "f": "ツナガルコネクト",
+            "m": [
+                "ツナガルコネクト/ツナガルコネクト.mp3"
+            ],
+            "artist": "TENNOJIRINA (LOVELIVE)",
+            "tags": [
+                "TENNOJIRINA (LOVELIVE)",
+                "NIJISANJI",
+                "LOVELIVE"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "전전전생",
+            "f": "前前前世",
+            "m": [
+                "前前前世/前前前世.mp3"
+            ],
+            "artist": "RADWIMPS",
+            "tags": [
+                "RADWIMPS",
+                "KIMINAMA",
+                "KIMINONAMAEWA"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "너랑 나 (AGF2022 테마곡)",
+            "f": "YOU&I (AGF2022)",
+            "m": [
+                "AGF/YOU&I (AGF2022).mp3"
+            ],
+            "artist": "RAON",
+            "maker": "AGF",
+            "tags": [
+                "AGF",
+                "RAON",
+                "ANIME",
+                "GAME",
+                "EXTRA",
+                "THEME",
+                "FESTIVAL"
+            ],
+            "atrys": [
+                "AGF"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "격! 제국화격단",
+            "f": "檄！帝国華撃団",
+            "m": [
+                "檄！帝国華撃団/檄！帝国華撃団.mp3"
+            ],
+            "artist": "AYA (POPPIN'PARTY),KOKORO (POPPIN'PARTY)",
+            "maker": "POPPIN'PARTY",
+            "tags": [
+                "BANGDREAM",
+                "POPPIN'PARTY",
+                "ITOUMIKU",
+                "MAESHIMAAMI",
+                "KOKORO (POPPIN'PARTY)",
+                "AYA (POPPIN'PARTY)"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "INSIDE IDENTITY",
+            "m": [
+                "INSIDE IDENTITY/INSIDE IDENTITY.mp3",
+                "INSIDE IDENTITY/INSIDE IDENTITY.lrc"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Super☆Affection",
+            "m": [
+                "Super☆Affection/Super☆Affection.mp3"
+            ],
+            "artist": "TAKAHASHIRIE,TANAKAMINAMI,OKUBORUMI,YUKIAOI,TOYAMANAO,SAKURAAYANE,HAYAMISAORI, KAWASUMIAYAKO,UEDAKANA,TANGESAKURA,KADOWAKIMAII,ENDOMASAAKI",
+            "maker": "FATE GRAND CANIVAL",
+            "tags": [
+                "FATE",
+                "CANIVAL",
+                "FESTIVAL",
+                "OST",
+                "TAKAHASHIRIE",
+                "TANAKAMINAMI",
+                "OKUBORUMI",
+                "YUKIAOI",
+                "TOYAMANAO",
+                "SAKURAAYANE",
+                "HAYAMISAORI",
+                "KAWASUMIAYAKO",
+                "UEDAKANA",
+                "TANGESAKURA",
+                "KADOWAKIMAII",
+                "ENDOMASAAKI"
+            ],
+            "atrys": [
+                "Super Affection"
             ],
             "raw": true,
             "r": 3
