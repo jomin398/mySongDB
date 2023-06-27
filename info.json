@@ -33,6 +33,7 @@
             "f": "Glass Bead",
             "m": [
                 "Glass Bead/Glass Bead.mp3",
+                "Glass Bead/Glass Bead.lrc",
                 "Glass Bead/Camera by LadieAlien.vmd",
                 "Glass Bead/Motion by LadieAlien.vmd"
             ],
@@ -167,6 +168,7 @@
             "f": "Roly poly",
             "m": [
                 "Roly poly/Roly Poly.mp3",
+                "Roly poly/Roly Poly.lrc",
                 "Roly poly/Camera.vmd",
                 "Roly poly/Motion.vmd"
             ],
@@ -235,6 +237,7 @@
             "n": "Yellow",
             "m": [
                 "Yellow/Yellow (by kz).mp3",
+                "Yellow/Yellow (by kz).lrc",
                 "Yellow/Camera.vmd",
                 "Yellow/Motion.vmd"
             ],
@@ -272,6 +275,7 @@
             "m": [
                 "金曜日のおはよう/金曜日のおはよう - 雨宮天.mp3",
                 "金曜日のおはよう/金曜日のおはよう - 初音ミク.mp3",
+                "金曜日のおはよう/金曜日のおはよう.lrc",
                 "金曜日のおはよう/Camera (big).vmd",
                 "金曜日のおはよう/Camera (small).vmd",
                 "金曜日のおはよう/Motion.vmd"
@@ -1361,7 +1365,8 @@
             "n": "너랑 나 (AGF2022 테마곡)",
             "f": "YOU&I (AGF2022)",
             "m": [
-                "AGF/YOU&I (AGF2022).mp3"
+                "AGF/YOU&I (AGF2022).mp3",
+                "AGF/YOU&I (AGF2022).lrc"
             ],
             "artist": "RAON",
             "maker": "AGF",
@@ -1411,7 +1416,8 @@
         {
             "f": "Super☆Affection",
             "m": [
-                "Super☆Affection/Super☆Affection.mp3"
+                "Super☆Affection/Super☆Affection.mp3",
+                "Super☆Affection/Super☆Affection.lrc"
             ],
             "artist": "TAKAHASHIRIE,TANAKAMINAMI,OKUBORUMI,YUKIAOI,TOYAMANAO,SAKURAAYANE,HAYAMISAORI, KAWASUMIAYAKO,UEDAKANA,TANGESAKURA,KADOWAKIMAII,ENDOMASAAKI",
             "maker": "FATE GRAND CANIVAL",
@@ -1435,6 +1441,266 @@
             ],
             "atrys": [
                 "Super Affection"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Make debut!",
+            "artist": "MACHICO,ONISHISAORI",
+            "maker": "UMAMUSUME",
+            "album": "ウマ娘 プリティーダービー Make debut!",
+            "m": [
+                "ウマ娘 プリティーダービー Make debut!/Make debut!.mp3",
+                "ウマ娘 プリティーダービー Make debut!/Make debut!.lrc"
+            ],
+            "tags": [
+                "UMAMUSUME",
+                "MACHICO",
+                "OHASHIAYAKA",
+                "KIMURACHISA",
+                "UEDAHITOMI",
+                "ONISHISAORI"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "七色の景色",
+            "artist": "MACHICO,ONISHISAORI",
+            "maker": "UMAMUSUME",
+            "album": "ウマ娘 プリティーダービー Make debut!",
+            "m": [
+                "ウマ娘 プリティーダービー Make debut/七色の景色.mp3"
+            ],
+            "tags": [
+                "UMAMUSUME",
+                "MACHICO",
+                "OHASHIAYAKA",
+                "KIMURACHISA",
+                "UEDAHITOMI",
+                "ONISHISAORI",
+                "GAME",
+                "ANIME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "心想い",
+            "album": "TVアニメ 「プリンセスコネクト!ReDive」 心想い ～ココロオモイ～",
+            "m": [
+                "プリンセスコネクト!ReDive/心想い.mp3",
+                "プリンセスコネクト!ReDive/心想い.lrc"
+            ],
+            "tags": [
+                "PRINCESSCONNECTREDIVE",
+                "PRINCONE",
+                "GAME",
+                "ANIME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Preview",
+            "m": [
+                "Preview/Preview.mp3"
+            ],
+            "artist": "UCHIDAAYA",
+            "album": "Preview／内田彩",
+            "tags": [
+                "UCHIDAAYA",
+                "ANIME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "恋の花びらをね",
+            "m": [
+                "恋の花びらをね/恋の花びらをね.mp3",
+                "恋の花びらをね/恋の花びらをね.lrc"
+            ],
+            "artist": "OKUBORUMI",
+            "tags": [
+                "OKUBORUMI",
+                "ANIME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "片瀬てれりこ研究所のテーマ",
+            "m": [
+                "恋の花びらをね/片瀬てれりこ研究所のテーマ.mp3"
+            ],
+            "tags": [
+                "ANIME"
+            ],
+            "atrys": [
+                "恋の花びらをね"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "キラメキサイクル",
+            "m": [
+                "恋の花びらをね/キラメキサイクル.mp3"
+            ],
+            "tags": [
+                "ANIME"
+            ],
+            "atrys": [
+                "恋の花びらをね"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "きゅぴーん☆アイドル宣言",
+            "m": [
+                "きゅぴーん☆アイドル宣言/きゅぴーん☆アイドル宣言.mp3",
+                "きゅぴーん☆アイドル宣言/きゅぴーん☆アイドル宣言.lrc"
+            ],
+            "artist": "OKUBORUMI",
+            "maker": "ALTERNA",
+            "album": "きゅぴーん☆アイドル宣言「オルタナティブガルーズ」キャラクターソング",
+            "tags": [
+                "ALTERNA",
+                "SAKURA",
+                "OKUBORUMI",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "계절을 끌어안고서",
+            "f": "季節を抱きしめて",
+            "m": [
+                "冴えない彼女の育てかた/季節を抱きしめて.mp3",
+                "冴えない彼女の育てかた/季節を抱きしめて (piano ver by 大藤史).mp3",
+                "冴えない彼女の育てかた/季節を抱きしめて - 大藤史.mp3"
+            ],
+            "artist": "KATOUMEGUMI (SAEKANO)",
+            "another": [
+                "OTOFUMI"
+            ],
+            "maker": "SAEKANO",
+            "tags": [
+                "KATOUMEGUMI (SAEKANO)",
+                "YASUNOKIYONO",
+                "OTOFUMI",
+                "SAEKANO",
+                "ANIME",
+                "GAME",
+                "KISETSUWODAKISIMETE"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "타임 리미트",
+            "f": "タイムリミット",
+            "m": [
+                "タイムリミット/タイムリミット.mp3"
+            ],
+            "artist": "MIKU",
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
+            "raw": true,
+            "r": 3,
+            "atrys": [
+                "サウンド"
+            ]
+        },
+        {
+            "n": "하얀 편지",
+            "f": "white Letter",
+            "m": [
+                "white Letter/white Letter.mp3",
+                "white Letter/white Letter.lrc"
+            ],
+            "artist": "MIKU",
+            "tags": [
+                "MIKU",
+                "VOCALOID"
+            ],
+            "raw": true,
+            "r": 3,
+            "atrys": [
+                "サウンド"
+            ]
+        },
+        {
+            "n": "소원",
+            "f": "Wish",
+            "m": [
+                "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.mp3",
+                "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.lrc"
+            ],
+            "artist": "LAFFEY (アズールレーン)",
+            "tags": [
+                "AZURLANE",
+                "LAFFEY (アズールレーン)",
+                "NAGANAWAMARIA",
+                "ANIME",
+                "GAME"
+            ],
+            "raw": true,
+            "r": 3,
+            "atrys": [
+                "AZURLANE"
+            ]
+        },
+        {
+            "n": "데비 큐트~",
+            "f": "デビきゅー",
+            "m": [
+                "デビきゅー/デビきゅー.mp3",
+                "デビきゅー/デビきゅー.lrc"
+            ],
+            "artist": "SERIZAWAYU",
+            "tags": [
+                "SERIZAWAYU",
+                "ANIME",
+                "MAHOU",
+                "MAKAI"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "BANZAI! digital trippers feat.初音ミク",
+            "m": [
+                "Aqours/BANZAI! digital trippers feat.初音ミク.mp3",
+                "Aqours/BANZAI! digital trippers feat.初音ミク.lrc"
+            ],
+            "artist": "AQOURS (LOVELIVE),MIKU",
+            "tags": [
+                "VOCALOID",
+                "MIKU",
+                "LOVELIVE",
+                "AQOURS (LOVELIVE)"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Dear Moments",
+            "artist": "ATRI",
+            "m": [
+                "AkaoHikaru/Dear Moments.mp3",
+                "AkaoHikaru/Dear Moments.lrc"
+            ],
+            "album": "ATRI - My Dear Moments",
+            "tags": [
+                "ATRI",
+                "AKAOHIKARU"
             ],
             "raw": true,
             "r": 3
