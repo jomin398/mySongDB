@@ -1224,7 +1224,7 @@
             "r": 3
         },
         {
-            "f": "꽃이 되어",
+            "f": "花になって",
             "m": [
                 "EverSoul/꽃이 되어.mp3"
             ],
@@ -1234,6 +1234,9 @@
                 "JANGYENA",
                 "EVERSOUL",
                 "NISHA (ELSOWORD)"
+            ],
+            "atrys": [
+                "EverSoul"
             ],
             "raw": true,
             "r": 3
@@ -1290,7 +1293,11 @@
             "r": 3
         },
         {
-            "f": "별빛 쏟아지던 날의 너",
+            "n": "별빛 쏟아지던 날의 너",
+            "f": "Falling starlights",
+            "m": [
+                "GRANSAGA/별빛 쏟아지던 날의 너.mp3"
+            ],
             "artist": "QUYI (GRANSAGA)",
             "maker": "GRANSAGA",
             "tags": [
@@ -1302,6 +1309,7 @@
             "r": 3
         },
         {
+            "n":"작은 빛이지만",
             "f": "小さな光だけど",
             "m": [
                 "小さな光だけど/小さな光だけど.mp3"
