@@ -69,14 +69,14 @@
                 "Happy Halloween/Camera.vmd",
                 "Happy Halloween/Motion.vmd"
             ],
-            "artist": "RIN (VOCALOID)",
+            "artist": "RIN(VOCALOID)",
             "another": [
                 "MIKU"
             ],
             "maker": "JUNKY",
             "tags": [
                 "JUNKY",
-                "RIN (VOCALOID)",
+                "RIN(VOCALOID)",
                 "MIKU",
                 "VOCALOID"
             ],
@@ -99,10 +99,10 @@
                 "SUPERCELL(RYO)",
                 "MIKU",
                 "VOCALOID",
-                "UNA (VOCALOID)"
+                "UNA(VOCALOID)"
             ],
             "another": [
-                "UNA (VOCALOID)"
+                "UNA(VOCALOID)"
             ],
             "raw": true,
             "r": 3
@@ -268,7 +268,7 @@
             "artist": "MIKU",
             "tags": [
                 "MIKU",
-                "RIN (VOCALOID)",
+                "RIN(VOCALOID)",
                 "VOCALOID"
             ],
             "raw": true,
@@ -337,11 +337,11 @@
                 "GRADUATION",
                 "SAKURA",
                 "HOLOLIVE",
-                "TOWA (HOLOLIVE)",
-                "MIKO (HOLOLIVE)",
-                "AKI (HOLOLIVE)",
-                "POLKA (HOLOLIVE)",
-                "IROHA (HOLOLIVE)"
+                "TOWA(HOLOLIVE)",
+                "MIKO(HOLOLIVE)",
+                "AKI(HOLOLIVE)",
+                "POLKA(HOLOLIVE)",
+                "IROHA(HOLOLIVE)"
             ],
             "raw": true,
             "r": 3
@@ -553,11 +553,11 @@
                 "WAVE/Camera (by 配布用).vmd",
                 "WAVE/Motion (by 配布用).vmd"
             ],
-            "artist": "LILY (VOCALOID)",
+            "artist": "LILY(VOCALOID)",
             "maker": "NIKI",
             "tags": [
                 "NIKI",
-                "LILY (VOCALOID)",
+                "LILY(VOCALOID)",
                 "VOCALOID"
             ],
             "raw": true,
@@ -698,13 +698,13 @@
                 "悠久のカタルシス/悠久のカタルシス (4スターズ Ver).mp3",
                 "悠久のカタルシス/悠久のカタルシス (4スターズ Ver).lrc"
             ],
-            "artist": "AYANAMI (アズールレーン),LAFFEY (アズールレーン),Z23 (アズールレーン),JAVELIN (アズールレーン)",
+            "artist": "AYANAMI(アズールレーン),LAFFEY(アズールレーン),Z23(アズールレーン),JAVELIN(アズールレーン)",
             "maker": "AZURLANE",
             "tags": [
-                "AYANAMI (アズールレーン)",
-                "LAFFEY (アズールレーン)",
-                "Z23 (アズールレーン)",
-                "JAVELIN (アズールレーン)",
+                "AYANAMI(アズールレーン)",
+                "LAFFEY(アズールレーン)",
+                "Z23(アズールレーン)",
+                "JAVELIN(アズールレーン)",
                 "AZURLANE",
                 "GAME"
             ],
@@ -822,11 +822,11 @@
             "m": [
                 "光るなら/光るなら.mp3"
             ],
-            "artist": "KAORI (四月は君の嘘)",
+            "artist": "KAORI(四月は君の嘘)",
             "maker": "GOOSEHOUSE",
             "tags": [
                 "四月は君の嘘",
-                "KAORI (四月は君の嘘)",
+                "KAORI(四月は君の嘘)",
                 "GOOSEHOUSE",
                 "ANIME"
             ],
@@ -839,11 +839,11 @@
             "m": [
                 "光るなら/冬のエピローグ.mp3"
             ],
-            "artist": "KAORI (四月は君の嘘)",
+            "artist": "KAORI(四月は君の嘘)",
             "maker": "GOOSEHOUSE",
             "tags": [
                 "四月は君の嘘",
-                "KAORI (四月は君の嘘)",
+                "KAORI(四月は君の嘘)",
                 "GOOSEHOUSE",
                 "ANIME"
             ],
@@ -908,7 +908,7 @@
                 "Snow halation/Snow halation.mp3"
             ],
             "artist": "MUS",
-            "maker": "BOHAN YU",
+            "maker": "BOHANYU",
             "another": [
                 "MIKU"
             ],
@@ -1022,11 +1022,11 @@
             "m": [
                 "WACCA/Let you DIVE!.mp3"
             ],
-            "artist": "ELIZABETH (WACCA)",
+            "artist": "ELIZABETH(WACCA)",
             "maker": "WACCA",
             "tags": [
                 "WACCA",
-                "ELIZABETH (WACCA)",
+                "ELIZABETH(WACCA)",
                 "GAME"
             ],
             "atrys": [
@@ -1041,11 +1041,11 @@
             "m": [
                 "WACCA/Ouverture.mp3"
             ],
-            "artist": "RIN (WACCA)",
+            "artist": "RIN(WACCA)",
             "maker": "WACCA",
             "tags": [
                 "WACCA",
-                "RIN (WACCA)",
+                "RIN(WACCA)",
                 "GAME"
             ],
             "atrys": [
@@ -1060,11 +1060,11 @@
             "m": [
                 "WACCA/with U.mp3"
             ],
-            "artist": "LILY (WACCA)",
+            "artist": "LILY(WACCA)",
             "maker": "WACCA",
             "tags": [
                 "WACCA",
-                "LILY (WACCA)",
+                "LILY(WACCA)",
                 "GAME"
             ],
             "atrys": [
@@ -1078,13 +1078,13 @@
             "m": [
                 "WACCA/DIVE with U.mp3"
             ],
-            "artist": "ELIZABETH (WACCA),LILY (WACCA),RIN (WACCA)",
+            "artist": "ELIZABETH(WACCA),LILY(WACCA),RIN(WACCA)",
             "maker": "WACCA",
             "tags": [
                 "WACCA",
-                "ELIZABETH (WACCA)",
-                "LILY (WACCA)",
-                "RIN (WACCA)",
+                "ELIZABETH(WACCA)",
+                "LILY(WACCA)",
+                "RIN(WACCA)",
                 "GAME"
             ],
             "atrys": [
@@ -1099,15 +1099,15 @@
             "m": [
                 "WACCA/ぺこみこ大戦争!!.mp3"
             ],
-            "artist": "PEKORA (HOLOLIVE),MIKO (HOLOLIVE)",
+            "artist": "PEKORA(HOLOLIVE),MIKO(HOLOLIVE)",
             "maker": "REDALiCE",
             "tags": [
                 "WACCA",
                 "REDALiCE",
                 "VTUBER",
                 "HOLOLIVE",
-                "PEKORA (HOLOLIVE)",
-                "MIKO (HOLOLIVE)",
+                "PEKORA(HOLOLIVE)",
+                "MIKO(HOLOLIVE)",
                 "GAME"
             ],
             "raw": true,
@@ -1119,11 +1119,11 @@
             "m": [
                 "サクラカゼ/サクラカゼ.mp3"
             ],
-            "artist": "MIKO (HOLOLIVE)",
+            "artist": "MIKO(HOLOLIVE)",
             "tags": [
                 "VTUBER",
                 "HOLOLIVE",
-                "MIKO (HOLOLIVE)",
+                "MIKO(HOLOLIVE)",
                 "SAKURA"
             ],
             "atrys": [
@@ -1140,11 +1140,11 @@
                 "Ha lle lu jah/Ha･lle･lu･jah.mp3",
                 "Ha lle lu jah/Ha･lle･lu･jah.lrc"
             ],
-            "artist": "Takahashi Nana",
+            "artist": "TakahashiNana",
             "maker": "SOUNDHOLIC",
             "tags": [
                 "SDVX",
-                "Takahashi Nana",
+                "TakahashiNana",
                 "SOUNDHOLIC",
                 "GAME"
             ],
@@ -1223,7 +1223,7 @@
             "tags": [
                 "JANGYENA",
                 "EVERSOUL",
-                "NISHA (ELSOWORD)"
+                "LABY(ELSOWORD)"
             ],
             "raw": true,
             "r": 3
@@ -1238,7 +1238,7 @@
             "tags": [
                 "JANGYENA",
                 "EVERSOUL",
-                "NISHA (ELSOWORD)"
+                "LABY(ELSOWORD)"
             ],
             "atrys": [
                 "EverSoul"
@@ -1303,7 +1303,7 @@
             "m": [
                 "GRANSAGA/별빛 쏟아지던 날의 너.mp3"
             ],
-            "artist": "QUYI (GRANSAGA)",
+            "artist": "QUYI(GRANSAGA)",
             "maker": "GRANSAGA",
             "tags": [
                 "JANGYENA",
@@ -1335,7 +1335,7 @@
             "m": [
                 "LINK LINK FEVER!!!/LINK LINK FEVER!!!.mp3"
             ],
-            "artist": "LINNKA (GROOVECOASTER)",
+            "artist": "LINNKA(GROOVECOASTER)",
             "tags": [
                 "GROOVECOASTER",
                 "TOYOTAMOE",
@@ -1350,10 +1350,10 @@
             "m": [
                 "サイコーハート／La Bella Patria／ツナガルコネクト/ツナガルコネクト.mp3"
             ],
-            "artist": "TENNOJIRINA (LOVELIVE)",
+            "artist": "TENNOJIRINA(LOVELIVE)",
             "maker": "DECO*27",
             "tags": [
-                "TENNOJIRINA (LOVELIVE)",
+                "TENNOJIRINA(LOVELIVE)",
                 "NIJISANJI",
                 "LOVELIVE",
                 "DECO*27"
@@ -1406,15 +1406,15 @@
             "m": [
                 "檄！帝国華撃団/檄！帝国華撃団.mp3"
             ],
-            "artist": "AYA (POPPIN'PARTY),KOKORO (POPPIN'PARTY)",
+            "artist": "AYA(POPPIN'PARTY),KOKORO(POPPIN'PARTY)",
             "maker": "POPPIN'PARTY",
             "tags": [
                 "BANGDREAM",
                 "POPPIN'PARTY",
                 "ITOUMIKU",
                 "MAESHIMAAMI",
-                "KOKORO (POPPIN'PARTY)",
-                "AYA (POPPIN'PARTY)"
+                "KOKORO(POPPIN'PARTY)",
+                "AYA(POPPIN'PARTY)"
             ],
             "raw": true,
             "r": 3
@@ -1599,13 +1599,13 @@
                 "冴えない彼女の育てかた/季節を抱きしめて (piano ver by 大藤史).mp3",
                 "冴えない彼女の育てかた/季節を抱きしめて - 大藤史.mp3"
             ],
-            "artist": "KATOUMEGUMI (SAEKANO)",
+            "artist": "KATOUMEGUMI(SAEKANO)",
             "another": [
                 "OTOFUMI"
             ],
             "maker": "SAEKANO",
             "tags": [
-                "KATOUMEGUMI (SAEKANO)",
+                "KATOUMEGUMI(SAEKANO)",
                 "YASUNOKIYONO",
                 "OTOFUMI",
                 "SAEKANO",
@@ -1658,10 +1658,10 @@
                 "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.mp3",
                 "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.lrc"
             ],
-            "artist": "LAFFEY (アズールレーン)",
+            "artist": "LAFFEY(アズールレーン)",
             "tags": [
                 "AZURLANE",
-                "LAFFEY (アズールレーン)",
+                "LAFFEY(アズールレーン)",
                 "NAGANAWAMARIA",
                 "ANIME",
                 "GAME"
@@ -1695,12 +1695,12 @@
                 "Aqours/BANZAI! digital trippers feat.初音ミク.mp3",
                 "Aqours/BANZAI! digital trippers feat.初音ミク.lrc"
             ],
-            "artist": "AQOURS (LOVELIVE),MIKU",
+            "artist": "AQOURS(LOVELIVE),MIKU",
             "tags": [
                 "VOCALOID",
                 "MIKU",
                 "LOVELIVE",
-                "AQOURS (LOVELIVE)"
+                "AQOURS(LOVELIVE)"
             ],
             "raw": true,
             "r": 3
@@ -1825,10 +1825,10 @@
                 "Tasty All Right!/Tasty All Right!.mp3",
                 "Tasty All Right!/Tasty All Right!.lrc"
             ],
-            "artist": "HANI (EXID)",
+            "artist": "HANI(EXID)",
             "tags": [
                 "EXID",
-                "HANI (EXID)",
+                "HANI(EXID)",
                 "GAME",
                 "TASTYSAGA"
             ],
@@ -1848,7 +1848,7 @@
                 "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3"
             ],
             "tags": [
-                "PRETTYHERB (JEONSOHEE)",
+                "PRETTYHERB(JEONSOHEE)",
                 "SEOLREIM",
                 "VTUBER",
                 "ANOHANA",
@@ -1865,13 +1865,13 @@
                 "WISHNESS/WISHNESS.mp3",
                 "WISHNESS/WISHNESS.lrc"
             ],
-            "artist": "AYANAMI (アズールレーン),LAFFEY (アズールレーン),Z23 (アズールレーン),JAVELIN (アズールレーン)",
+            "artist": "AYANAMI(アズールレーン),LAFFEY(アズールレーン),Z23(アズールレーン),JAVELIN(アズールレーン)",
             "maker": "AZURLANE",
             "tags": [
-                "AYANAMI (アズールレーン)",
-                "LAFFEY (アズールレーン)",
-                "Z23 (アズールレーン)",
-                "JAVELIN (アズールレーン)",
+                "AYANAMI(アズールレーン)",
+                "LAFFEY(アズールレーン)",
+                "Z23(アズールレーン)",
+                "JAVELIN(アズールレーン)",
                 "AZURLANE",
                 "GAME"
             ],
