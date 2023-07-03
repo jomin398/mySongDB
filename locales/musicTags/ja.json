@@ -136,5 +136,12 @@
   "AQOURS (LOVELIVE)": "AQOURS ({{LOVELIVE}})",
   "ATRI": "ATRI",
   "AKAOHIKARU": "赤尾ひかる",
-  "ACHICCOCHI": "あっちこっち"
+  "ACHICCOCHI": "あっちこっち",
+  "DORAEMON": "ドラえもん",
+  "STANDBYME": "STAND BY ME ({{DORAEMON}})",
+  "UNA (VOCALOID)": "音街ウナ ({{VOCALOID}})",
+  "ANOHANA": "あの花",
+  "PRETTYHERB": "PRETTYHERB ({{VTUBER}})",
+  "PRETTYHERB (JEONSOHEE)": "{{PRETTYHERB}}",
+  "SEOLREIM": "SEOLREIM ({{VTUBER}})"
 }

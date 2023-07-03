@@ -89,6 +89,7 @@
             "m": [
                 "Melt/Melt.mp3",
                 "Melt/Melt (ko ver by sodadayo20).mp3",
+                "Melt/Melt - 音街ウナ.mp3",
                 "Melt/Camera.vmd",
                 "Melt/Motion.vmd"
             ],
@@ -97,7 +98,11 @@
             "tags": [
                 "SUPERCELL(RYO)",
                 "MIKU",
-                "VOCALOID"
+                "VOCALOID",
+                "UNA (VOCALOID)"
+            ],
+            "another": [
+                "UNA (VOCALOID)"
             ],
             "raw": true,
             "r": 3
@@ -1309,7 +1314,7 @@
             "r": 3
         },
         {
-            "n":"작은 빛이지만",
+            "n": "작은 빛이지만",
             "f": "小さな光だけど",
             "m": [
                 "小さな光だけど/小さな光だけど.mp3"
@@ -1343,13 +1348,15 @@
             "n": "이어지는 커넥트",
             "f": "ツナガルコネクト",
             "m": [
-                "ツナガルコネクト/ツナガルコネクト.mp3"
+                "サイコーハート／La Bella Patria／ツナガルコネクト/ツナガルコネクト.mp3"
             ],
             "artist": "TENNOJIRINA (LOVELIVE)",
+            "maker": "DECO*27",
             "tags": [
                 "TENNOJIRINA (LOVELIVE)",
                 "NIJISANJI",
-                "LOVELIVE"
+                "LOVELIVE",
+                "DECO*27"
             ],
             "raw": true,
             "r": 3
@@ -1708,8 +1715,167 @@
             "album": "ATRI - My Dear Moments",
             "tags": [
                 "ATRI",
-                "AKAOHIKARU"
+                "AKAOHIKARU",
+                "ANIME"
             ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "아름다운 고향",
+            "f": "La Bella Patria",
+            "m": [
+                "サイコーハート／La Bella Patria／ツナガルコネクト/La Bella Patria.mp3"
+            ],
+            "tags": [
+                "LOVELIVE",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "최고의 하트",
+            "f": "サイコーハート",
+            "m": [
+                "サイコーハート／La Bella Patria／ツナガルコネクト/サイコーハート.mp3"
+            ],
+            "tags": [
+                "LOVELIVE",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "각성 ~교차하는 마음~",
+            "f": "覚醒~Alternative Heart~",
+            "m": [
+                "覚醒~Alternative Heart~/覚醒~Alternative Heart~.mp3",
+                "覚醒~Alternative Heart~/覚醒~Alternative Heart~.lrc"
+            ],
+            "artist": "ALTERNA",
+            "maker": "ALTERNA",
+            "tags": [
+                "ALTERNA",
+                "OKUBORUMI",
+                "GAME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "무지게 (STAND BY ME)",
+            "f": "虹",
+            "m": [
+                "虹/虹.mp3",
+                "虹/虹 - 初音ミク.mp3",
+                "虹/虹.lrc"
+            ],
+            "tags": [
+                "VOCALOID",
+                "MIKU",
+                "STANDBYME",
+                "DORAEMON",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "최악의 날이라 해도 당신이 좋아",
+            "f": "最悪な日でもあなたが好き",
+            "m": [
+                "最悪な日でもあなたが好き/最悪な日でもあなたが好き.mp3",
+                "最悪な日でもあなたが好き/最悪な日でもあなたが好き.lrc"
+            ],
+            "artist": "SERIZAWAYU",
+            "tags": [
+                "SERIZAWAYU",
+                "MAKAI",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "신×태양×썸머 파티",
+            "f": "神×太陽×サマーパーティ",
+            "m": [
+                "最悪な日でもあなたが好き/神×太陽×サマーパーティ.mp3"
+            ],
+            "artist": "SERIZAWAYU",
+            "tags": [
+                "FESTIVAL",
+                "SERIZAWAYU",
+                "ANIME"
+            ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "맛은 전부 다 맛있을거야!",
+            "f": "Tasty All Right!",
+            "m": [
+                "Tasty All Right!/Tasty All Right!.mp3",
+                "Tasty All Right!/Tasty All Right!.lrc"
+            ],
+            "artist": "HANI (EXID)",
+            "tags": [
+                "EXID",
+                "HANI (EXID)",
+                "GAME",
+                "TASTYSAGA"
+            ],
+            "atrys": [
+                "TASTYSAGA"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "비밀기지",
+            "f": "Secret base",
+            "m": [
+                "Secret base 〜君がくれたもの〜/Secret base.mp3",
+                "Secret base 〜君がくれたもの〜/Secret base - 설레임&쁘띠허브.mp3",
+                "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3"
+            ],
+            "tags": [
+                "PRETTYHERB (JEONSOHEE)",
+                "SEOLREIM",
+                "VTUBER",
+                "ANOHANA",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Wish Ness",
+            "f": "WISHNESS",
+            "m": [
+                "WISHNESS/WISHNESS.mp3",
+                "WISHNESS/WISHNESS.lrc"
+            ],
+            "artist": "AYANAMI (アズールレーン),LAFFEY (アズールレーン),Z23 (アズールレーン),JAVELIN (アズールレーン)",
+            "maker": "AZURLANE",
+            "tags": [
+                "AYANAMI (アズールレーン)",
+                "LAFFEY (アズールレーン)",
+                "Z23 (アズールレーン)",
+                "JAVELIN (アズールレーン)",
+                "AZURLANE",
+                "GAME"
+            ],
+            "lrc": true,
             "raw": true,
             "r": 3
         }
