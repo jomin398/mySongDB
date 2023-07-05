@@ -1,0 +1,18 @@
+{
+    "option": {
+        "option": "옵션",
+        "sortoption": "분류 방법",
+        "tags": "테그들",
+        "search": "검색",
+        "searchhint": "$t(gui:option.search)할 $t(gui:sort.title)을 여기에 입력"
+    },
+    "sort": {
+        "title": "곡명",
+        "genre": "장르",
+        "artist": "아티스트"
+    },
+    "button": {
+        "random": "렌덤",
+        "decidesubmit": "결정"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "option": {
+        "option": "オプション",
+        "sortoption": "分類方法",
+        "tags": "タグ",
+        "search": "検索",
+        "searchhint": "$t(gui:option.search)する $t(gui:sort.title)ここに入力"
+    },
+    "sort": {
+        "title": "曲名",
+        "genre": "ジャンル",
+        "artist": "アーティスト"
+    },
+    "button": {
+        "random": "レンダム",
+        "decidesubmit": "決定"
+    }
+}
