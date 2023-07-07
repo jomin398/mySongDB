@@ -809,9 +809,10 @@
             ],
             "tags": [
                 "MAHOU",
-                "GAME"
+                "GAME",
+                "SHIHO"
             ],
-            "artist": "Shiho",
+            "artist": "SHIHO",
             "lrc": true,
             "raw": true,
             "r": 3
@@ -1892,7 +1893,8 @@
                 "SIDSOUND",
                 "GAME",
                 "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)"
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
             ],
             "atrys": [
                 "SIDSOUND"
@@ -1935,7 +1937,8 @@
                 "SIDSOUND",
                 "GAME",
                 "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)"
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
             ],
             "atrys": [
                 "SIDSOUND"
@@ -1981,7 +1984,8 @@
                 "서량(SIDSOUND)",
                 "BANAMI(SQUAREMUSIQ)",
                 "LUCY(SQUAREMUSIQ)",
-                "VIN(SIDSOUND)"
+                "VIN(SIDSOUND)",
+                "SQUAREMUSIQ"
             ],
             "atrys": [
                 "SIDSOUND"
@@ -2003,7 +2007,8 @@
                 "SIDSOUND",
                 "GAME",
                 "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)"
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
             ],
             "atrys": [
                 "SIDSOUND"
@@ -2045,10 +2050,260 @@
             "tags": [
                 "SIDSOUND",
                 "GAME",
-                "BANAMI(SQUAREMUSIQ)"
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
             ],
             "atrys": [
                 "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Drawing In My Heart",
+            "f": "Drawing In My Heart",
+            "m": [
+                "SIDSOUND/Drawing In My Heart.mp3",
+                "SIDSOUND/Drawing In My Heart.lrc"
+            ],
+            "artist": "로리체슬(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "로리체슬(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Light breeze",
+            "f": "Light breeze",
+            "m": [
+                "SIDSOUND/Light breeze.mp3",
+                "SIDSOUND/Light breeze.lrc"
+            ],
+            "artist": "로리체슬(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "로리체슬(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "수성",
+            "f": "Mercury",
+            "m": [
+                "SIDSOUND/Mercury.mp3",
+                "SIDSOUND/Mercury.lrc"
+            ],
+            "artist": "BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Save Your Smile",
+            "f": "Save Your Smile",
+            "m": [
+                "SIDSOUND/Save Your Smile.mp3",
+                "SIDSOUND/Save Your Smile.lrc"
+            ],
+            "artist": "NARAE(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "NARAE(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "북극성",
+            "f": "Polaris",
+            "m": [
+                "SIDSOUND/Polaris.mp3",
+                "SIDSOUND/Polaris.lrc"
+            ],
+            "artist": "BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "날개",
+            "f": "날개",
+            "m": [
+                "SIDSOUND/날개.mp3",
+                "SIDSOUND/날개.lrc"
+            ],
+            "artist": "로리체슬(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "로리체슬(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "루돌프 캐롤",
+            "f": "루돌프 캐롤",
+            "m": [
+                "SIDSOUND/루돌프 캐롤.mp3",
+                "SIDSOUND/루돌프 캐롤.lrc"
+            ],
+            "artist": "ELIKA(SIDSOUND)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "ELIKA(SIDSOUND)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "이제부터 진검승부",
+            "f": "이제부터 진검승부",
+            "m": [
+                "SIDSOUND/이제부터 진검승부.mp3",
+                "SIDSOUND/이제부터 진검승부.lrc"
+            ],
+            "artist": "BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "하늬바람 높새바람",
+            "f": "하늬바람 높새바람",
+            "m": [
+                "SIDSOUND/하늬바람 높새바람.mp3",
+                "SIDSOUND/하늬바람 높새바람.lrc"
+            ],
+            "artist": "ELIKA(SIDSOUND)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "ELIKA(SIDSOUND)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "스마일",
+            "f": "Smile",
+            "m": [
+                "SIDSOUND/Smile.mp3",
+                "SIDSOUND/Smile - 初音ミク.mp3",
+                "SIDSOUND/Smile.lrc"
+            ],
+            "artist": "BANAMI(SQUAREMUSIQ)",
+            "maker": "MAPLESTORY",
+            "album": "Rising Star",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "BANAMI(SQUAREMUSIQ)",
+                "SQUAREMUSIQ",
+                "MIKU",
+                "VOCALOID",
+                "MAPLESTORY"
+            ],
+            "another": [
+                "MIKU"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "별빛",
+            "f": "STARLIGHT",
+            "m": [
+                "STARLIGHT/STARLIGHT.mp3",
+                "STARLIGHT/STARLIGHT.lrc"
+            ],
+            "artist": "LUCY(SQUAREMUSIQ)",
+            "maker": "SQUAREMUSIQ",
+            "tags": [
+                "SQUAREMUSIQ",
+                "GAME",
+                "LUCY(SQUAREMUSIQ)",
+                "꿈꾸는별빛의플레이아데스",
+                "THEME"
+            ],
+            "atrys": [
+                "SQUAREMUSIQ"
             ],
             "lrc": true,
             "raw": true,
