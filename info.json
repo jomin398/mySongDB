@@ -497,6 +497,9 @@
                 "VOCALOID",
                 "SUPERCELL(RYO)"
             ],
+            "atrys": [
+                "World is Mine"
+            ],
             "raw": true,
             "r": 3
         },
@@ -2280,7 +2283,8 @@
                 "MIKU"
             ],
             "atrys": [
-                "SIDSOUND"
+                "SIDSOUND",
+                "Smile feat.初音ミク"
             ],
             "lrc": true,
             "raw": true,
