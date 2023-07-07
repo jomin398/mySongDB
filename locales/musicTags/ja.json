@@ -143,5 +143,20 @@
   "ANOHANA": "あの花",
   "PRETTYHERB": "PRETTYHERB ($t(musicTags:VTUBER))",
   "PRETTYHERB(JEONSOHEE)": "$t(musicTags:PRETTYHERB)",
-  "SEOLREIM": "SEOLREIM ($t(musicTags:VTUBER))"
+  "SEOLREIM": "SEOLREIM ($t(musicTags:VTUBER))",
+  "QUYI(GRANSAGA)": "キュイ（$t(musicTags:GRANSAGA))",
+  "TRIPSHOTS": "TRIP SHOTS",
+  "BOHANYU": "BOHANYU",
+  "LINNKA(GROOVECOASTER)": "リンカ ($t(musicTags:GROOVECOASTER))",
+  "CUISINEDIMENSION": "料理次元",
+  "TASTYSAGA": "テスティ佐賀 (料理次元)",
+  "SIDSOUND": "シードサウンド",
+  "서량(SIDSOUND)": "서량 (シードサウンド)",
+  "SQUAREMUSIQ": "スクエアミュージック",
+  "LUCY(SQUAREMUSIQ)": "ルーシー (スクエアミュージック)",
+  "NARAE(SQUAREMUSIQ)": "ナレ(スクエアミュージック)",
+  "로리체슬(SQUAREMUSIQ)": "ロリチェスル(スクエアミュージック)",
+  "BANAMI": "장하연 (スクエアミュージック)",
+  "VIN(SIDSOUND)": "VIN (シードサウンド)",
+  "엔딩이후의세계": "エンディング後の世界"
 }

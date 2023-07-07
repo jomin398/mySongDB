@@ -1100,10 +1100,10 @@
                 "WACCA/ぺこみこ大戦争!!.mp3"
             ],
             "artist": "PEKORA(HOLOLIVE),MIKO(HOLOLIVE)",
-            "maker": "REDALiCE",
+            "maker": "REDALICE",
             "tags": [
                 "WACCA",
-                "REDALiCE",
+                "REDALICE",
                 "VTUBER",
                 "HOLOLIVE",
                 "PEKORA(HOLOLIVE)",
@@ -1140,11 +1140,11 @@
                 "Ha lle lu jah/Ha･lle･lu･jah.mp3",
                 "Ha lle lu jah/Ha･lle･lu･jah.lrc"
             ],
-            "artist": "TakahashiNana",
+            "artist": "TAKAHASHINANA",
             "maker": "SOUNDHOLIC",
             "tags": [
                 "SDVX",
-                "TakahashiNana",
+                "TAKAHASHINANA",
                 "SOUNDHOLIC",
                 "GAME"
             ],
@@ -1434,8 +1434,8 @@
                 "Super☆Affection/Super☆Affection.mp3",
                 "Super☆Affection/Super☆Affection.lrc"
             ],
-            "artist": "TAKAHASHIRIE,TANAKAMINAMI,OKUBORUMI,YUKIAOI,TOYAMANAO,SAKURAAYANE,HAYAMISAORI, KAWASUMIAYAKO,UEDAKANA,TANGESAKURA,KADOWAKIMAII,ENDOMASAAKI",
-            "maker": "FATE GRAND CANIVAL",
+            "artist": "TAKAHASHIRIE,TANAKAMINAMI,OKUBORUMI,YUKIAOI,TOYAMANAO,SAKURAAYANE,HAYAMISAORI,KAWASUMIAYAKO,UEDAKANA,TANGESAKURA,KADOWAKIMAII,ENDOMASAAKI",
+            "maker": "FATEGRANDCANIVAL",
             "tags": [
                 "FATE",
                 "CANIVAL",
@@ -1874,6 +1874,181 @@
                 "JAVELIN(アズールレーン)",
                 "AZURLANE",
                 "GAME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Prayer",
+            "f": "Prayer",
+            "m": [
+                "SIDSOUND/Prayer.mp3",
+                "SIDSOUND/Prayer.lrc"
+            ],
+            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)",
+                "BANAMI(SQUAREMUSIQ)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Selfishness",
+            "f": "Selfishness",
+            "m": [
+                "SIDSOUND/Selfishness.mp3",
+                "SIDSOUND/Selfishness.lrc"
+            ],
+            "artist": "서량(SIDSOUND)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "Shooting star",
+            "f": "Shooting star",
+            "m": [
+                "SIDSOUND/Shooting star.mp3",
+                "SIDSOUND/Shooting star.lrc"
+            ],
+            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)",
+                "BANAMI(SQUAREMUSIQ)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "그건 이상한 오후",
+            "f": "그건 이상한 오후",
+            "m": [
+                "SIDSOUND/그건 이상한 오후.mp3",
+                "SIDSOUND/그건 이상한 오후.lrc"
+            ],
+            "artist": "서량(SIDSOUND)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)",
+                "엔딩이후의세계"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "달리는 별빛처럼",
+            "f": "달리는 별빛처럼",
+            "m": [
+                "SIDSOUND/달리는 별빛처럼.mp3",
+                "SIDSOUND/달리는 별빛처럼.lrc"
+            ],
+            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ),LUCY(SQUAREMUSIQ),VIN(SIDSOUND)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)",
+                "BANAMI(SQUAREMUSIQ)",
+                "LUCY(SQUAREMUSIQ)",
+                "VIN(SIDSOUND)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "별에게 소원을",
+            "f": "별에게 소원을",
+            "m": [
+                "SIDSOUND/별에게 소원을.mp3",
+                "SIDSOUND/별에게 소원을.lrc"
+            ],
+            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)",
+                "BANAMI(SQUAREMUSIQ)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "비나리",
+            "f": "비나리",
+            "m": [
+                "SIDSOUND/비나리.mp3",
+                "SIDSOUND/비나리.lrc"
+            ],
+            "artist": "서량(SIDSOUND)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "서량(SIDSOUND)"
+            ],
+            "atrys": [
+                "SIDSOUND"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "n": "환상동화",
+            "f": "환상동화",
+            "m": [
+                "SIDSOUND/환상동화.mp3",
+                "SIDSOUND/환상동화.lrc"
+            ],
+            "artist": "BANAMI(SQUAREMUSIQ)",
+            "maker": "SIDSOUND",
+            "tags": [
+                "SIDSOUND",
+                "GAME",
+                "BANAMI(SQUAREMUSIQ)"
+            ],
+            "atrys": [
+                "SIDSOUND"
             ],
             "lrc": true,
             "raw": true,
