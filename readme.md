@@ -11,7 +11,7 @@ This `images` folder stores the cover image of MP3 files.
 `ロキ - ナナヲアカリ.mp3`,
 `ロキ.mp3`  
 파일명을 이렇게 해야되는 이유<sup id="a1">[[1]](#f1)</sup>  
-앨범이라 다른곡이 있다면?<sup id="a2">[[2]](#Q&A)</sup>
+앨범이라 다른곡이 있다면?<sup id="a2">[[엘범가이드]](#qa)</sup>
 1. 폴더를 생성.
 `/audios/ロキ` 라는 경로가 되도록
 2. 그 후 [info.json](./info.json) 을 편집.
@@ -42,7 +42,7 @@ This `images` folder stores the cover image of MP3 files.
 - `"raw": true` : 압축파일 인지 아닌지 표기
 - `"r": 3` : 저장소 번호
 - `tags` : 파일 검색, 분류에 쓰이는 태그들.
-- `artist` : 메인파일의 아티스트
+- `artist` : 메인파일의 아티스트, 여러명일 경우에는 쉼표 ( , ) 로 분리.
 
 #### 비 필수
 - `another` : 추가파일의 아티스트
