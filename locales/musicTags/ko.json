@@ -141,7 +141,7 @@
     "STANDBYME": "스텐 바이 미 ($t(musicTags:DORAEMON)} 극장판)",
     "UNA(VOCALOID)": "오토마치 우나 ($t(musicTags:VOCALOID))",
     "EXID": "EXID",
-    "HANI(EXID)": "HANI ($t(musicTags:EXID))",
+    "HANI(EXID)": "하니 ($t(musicTags:EXID))",
     "ANOHANA": "아노하나 (그날 꽃)",
     "PRETTYHERB": "쁘띠허브 ($t(musicTags:VTUBER))",
     "PRETTYHERB(JEONSOHEE)": "$t(musicTags:PRETTYHERB) (전소희)",
@@ -164,5 +164,6 @@
     "SHIHO": "시호",
     "ELIKA(SIDSOUND)": "엘리카 (SIDSOUND)",
     "MAPLESTORY": "메이플스토리",
-    "꿈꾸는별빛의플레이아데스": "꿈꾸는 별빛의 플레이아데스"
+    "꿈꾸는별빛의플레이아데스": "꿈꾸는 별빛의 플레이아데스",
+    "YUYUSHIKI": "유유시키"
 }
