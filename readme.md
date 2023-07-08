@@ -53,6 +53,7 @@ This `images` folder stores the cover image of MP3 files.
 1. Q: 앨범명이 `A Vol.1` 혹은 `A Disk.1` 이라면?
    혹은 `A Disk.2` 가 있다면?  
    A: `audios/A` 가 없다면 만들어서 해당 폴더에 하위 컨텐츠를 같이 둔다.
+   (`Disk`,`Vol` 같은 이름은 파일 조회시 오류를 발생.)
 2. Q: `아티스트`는 같은데 앨범은 여러게?  
    A: `audios/아티스트` 폴더를 만들어서 여러 앨범의 컨텐츠를 같이 둔다. 
 
