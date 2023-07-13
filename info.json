@@ -665,8 +665,8 @@
         {
             "n": "Link",
             "m": [
-                "Link (inst)/Link.mp3",
-                "Link (inst)/Link.lrc"
+                "Link/Link.mp3",
+                "Link/Link.lrc"
             ],
             "artist": "ALTERNA",
             "tags": [
