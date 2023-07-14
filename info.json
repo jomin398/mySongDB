@@ -1855,7 +1855,8 @@
             "m": [
                 "Secret base 〜君がくれたもの〜/Secret base.mp3",
                 "Secret base 〜君がくれたもの〜/Secret base - 설레임&쁘띠허브.mp3",
-                "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3"
+                "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3",
+                "Secret base 〜君がくれたもの〜/Secret base.lrc"
             ],
             "tags": [
                 "PRETTYHERB(JEONSOHEE)",
@@ -2330,6 +2331,65 @@
                 "YUYUSHIKI",
                 "OKUBORUMI",
                 "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "笑顔で Going Up",
+            "m": [
+                "もっと Be My Power&笑顔でgoing up/笑顔で Going Up.mp3",
+                "もっと Be My Power&笑顔でgoing up/笑顔で Going Up.lrc"
+            ],
+            "artist": "ITOUMIKU",
+            "album": "もっと Be My Power!/笑顔でgoing up!",
+            "tags": [
+                "ITOUMIKU",
+                "ALTERNA",
+                "GAME"
+            ],
+            "atrys": [
+                "もっと Be My Power&笑顔でgoing up"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "もっと Be My Power",
+            "m": [
+                "もっと Be My Power&笑顔でgoing up/もっと Be My Power.mp3",
+                "もっと Be My Power&笑顔でgoing up/もっと Be My Power.lrc"
+            ],
+            "album": "もっと Be My Power!/笑顔でgoing up!",
+            "artist": "TAKETATSUAYANA",
+            "tags": [
+                "TAKETATSUAYANA",
+                "ALTERNA",
+                "GAME"
+            ],
+            "atrys": [
+                "もっと Be My Power&笑顔でgoing up"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "私はNo 1！",
+            "m": [
+                "私はNo 1！/私はNo 1！.mp3",
+                "私はNo 1！/私はNo 1！.lrc"
+            ],
+            "artist": "SANDIEGO(アズールレーン)",
+            "album": "私はNo 1！",
+            "maker": "AZURLANE",
+            "tags": [
+                "ITOUASUKA",
+                "SANDIEGO(アズールレーン)",
+                "AZURLANE",
+                "GAME"
             ],
             "lrc": true,
             "raw": true,
