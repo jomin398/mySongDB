@@ -1220,7 +1220,8 @@
         {
             "f": "Shooting Star",
             "m": [
-                "EverSoul/Shooting Star.mp3"
+                "EverSoul/Shooting Star.mp3",
+                "EverSoul/Shooting Star.lrc"
             ],
             "artist": "JANGYENA",
             "maker": "EVERSOUL",
@@ -1229,6 +1230,7 @@
                 "EVERSOUL",
                 "LABY(ELSOWORD)"
             ],
+            "lrc": true,
             "raw": true,
             "r": 3
         },
@@ -1858,12 +1860,16 @@
                 "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3",
                 "Secret base 〜君がくれたもの〜/Secret base.lrc"
             ],
+            "artist": "KAYANOAI,TOMATSUHARUKA,HAYAMISAORI",
             "tags": [
                 "PRETTYHERB(JEONSOHEE)",
                 "SEOLREIM",
                 "VTUBER",
                 "ANOHANA",
-                "ANIME"
+                "ANIME",
+                "KAYANOAI",
+                "TOMATSUHARUKA",
+                "HAYAMISAORI"
             ],
             "lrc": true,
             "raw": true,
@@ -2390,6 +2396,81 @@
                 "SANDIEGO(アズールレーン)",
                 "AZURLANE",
                 "GAME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "木漏れ日のエール",
+            "m": [
+                "木漏れ日のエール/木漏れ日のエール.mp3",
+                "木漏れ日のエール/木漏れ日のエール.lrc"
+            ],
+            "artist": "MACHICO,ONISHISAORI",
+            "maker": "UMAMUSUME",
+            "album": "NIMATION DERBY Season 2 vol.2",
+            "tags": [
+                "UMAMUSUME",
+                "MACHICO",
+                "ONISHISAORI",
+                "ELIZABETH(WACCA)",
+                "GAME",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ささやかな祈り",
+            "m": [
+                "木漏れ日のエール/ささやかな祈り.mp3",
+                "木漏れ日のエール/ささやかな祈り.lrc"
+            ],
+            "artist": "IWAMIMANAKA",
+            "maker": "UMAMUSUME",
+            "album": "NIMATION DERBY Season 2 vol.2",
+            "tags": [
+                "UMAMUSUME",
+                "IWAMIMANAKA",
+                "GAME",
+                "ANIME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ヒバナ",
+            "m": [
+                "AndroidGirl/ヒバナ.mp3",
+                "AndroidGirl/ヒバナ.lrc"
+            ],
+            "artist": "MIKU",
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ゴーストルール",
+            "m": [
+                "GHOST/ゴーストルール.mp3",
+                "GHOST/ゴーストルール.lrc"
+            ],
+            "artist": "MIKU",
+            "tags": [
+                "MIKU",
+                "VOCALOID",
+                "DECO*27"
+            ],
+            "atrys": [
+                "GHOST"
             ],
             "lrc": true,
             "raw": true,
