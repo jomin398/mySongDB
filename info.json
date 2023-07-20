@@ -2741,6 +2741,248 @@
             "lrc": true,
             "raw": true,
             "r": 3
+        },
+        {
+            "f": "純情エモーショナル",
+            "m": [
+                "純情エモーショナル/純情エモーショナル.mp3",
+                "純情エモーショナル/純情エモーショナル.lrc"
+            ],
+            "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ)",
+            "tags": [
+                "ISESUMA",
+                "ANIME",
+                "ユミナ(高野麻里佳)",
+                "エルゼ(内田真礼)",
+                "リンゼ(福緒唯)",
+                "八重(赤﨑千夏)",
+                "スゥシィ(山下七海)",
+                "リーン(上坂すみれ)",
+                "KONOMARIKA",
+                "UCHIDAAYA",
+                "FUKUOYUI",
+                "AKASAKICHINATSU",
+                "YAMASHITANANAMI",
+                "UESAKASUMIRE",
+                "OST"
+            ],
+            "atrys": [
+                "リアルダイヤモンド／イセカイジュエリー"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ューリングラブ",
+            "m": [
+                "ューリングラブ/ューリングラブ.mp3",
+                "ューリングラブ/ューリングラブ.lrc"
+            ],
+            "artist": "NANAOAKARI",
+            "maker": "NAYUTAN",
+            "tags": [
+                "NANAOAKARI",
+                "ANIME",
+                "NAYUTAN"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ンルームシュガーライフ",
+            "m": [
+                "ューリングラブ/ンルームシュガーライフ.mp3",
+                "ューリングラブ/ンルームシュガーライフ - 湊あくあ.mp3",
+                "ューリングラブ/ンルームシュガーライフ.lrc"
+            ],
+            "artist": "NANAOAKARI",
+            "another": [
+                "湊あくあ(HOLOLIVE)"
+            ],
+            "tags": [
+                "NANAOAKARI",
+                "ANIME",
+                "湊あくあ(HOLOLIVE)",
+                "HOLOLIVE"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ピヨ",
+            "m": [
+                "ューリングラブ/ピヨ.mp3",
+                "ューリングラブ/ピヨ.lrc"
+            ],
+            "artist": "NANAOAKARI",
+            "tags": [
+                "NANAOAKARI",
+                "ANIME"
+            ],
+            "atrys": [
+                "ューリングラブ"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "ペダルハート",
+            "m": [
+                "ペダルハート/ペダルハート.mp3",
+                "ペダルハート/ペダルハート.lrc"
+            ],
+            "artist": "GUMI(VOCALOID)",
+            "maker": "DECO*27",
+            "tags": [
+                "DECO*27",
+                "GUMI(VOCALOID)",
+                "VOCALOID"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "クライングハート",
+            "m": [
+                "クライングハート/クライングハート.mp3",
+                "クライングハート/クライングハート.lrc"
+            ],
+            "artist": "花園めい,雨場つかさ",
+            "maker": "ノラと皇女と野良猫ハート",
+            "album": "ノラと皇女と野良猫ハート2 OP 「クライングハート」",
+            "tags": [
+                "花園めい",
+                "雨場つかさ",
+                "ANIME",
+                "ノラと皇女と野良猫ハート",
+                "ノラネコ",
+                "GAME",
+                "THEME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "アイル",
+            "m": [
+                "アイル/アイル.mp3",
+                "アイル/アイル.lrc"
+            ],
+            "artist": "JANGYENA",
+            "tags": [
+                "JANGYENA",
+                "ANIME",
+                "GAME",
+                "IDOLMASTER"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "あわい",
+            "m": [
+                "あわい/あわい.mp3",
+                "あわい/あわい.lrc"
+            ],
+            "artist": "KUMAKIANRI",
+            "album": "約束の七夜祭り",
+            "tags": [
+                "KUMAKIANRI",
+                "ANIME",
+                "約束の七夜祭り",
+                "THEME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Bad Apple",
+            "m": [
+                "Bad Apple/Bad Apple.mp3",
+                "Bad Apple/Bad Apple.lrc"
+            ],
+            "artist": "MIKU",
+            "maker": "東方PROJECT",
+            "tags": [
+                "MIKU",
+                "ANIME",
+                "東方PROJECT",
+                "OST"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Not A Hero",
+            "m": [
+                "Not A Hero/Not A Hero.mp3",
+                "Not A Hero/Not a Hero - 라라 (ko ver).mp3",
+                "Not A Hero/Not A Hero - 라라 (ko ver).lrc",
+                "Not A Hero/Not A Hero.lrc"
+            ],
+            "artist": "MITSUKINAKAE",
+            "another": [
+                "LARA(DREAMNOTE)"
+            ],
+            "maker": "キングスレイド",
+            "album": "King's RAID",
+            "tags": [
+                "LARA(DREAMNOTE)",
+                "MITSUKINAKAE",
+                "キングスレイド",
+                "GAME",
+                "OST"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Try Everything",
+            "m": [
+                "Try Everything/Try Everything.mp3",
+                "Try Everything/Try Everything (ko ver).mp3",
+                "Try Everything/Try Everything (ko ver).lrc",
+                "Try Everything/Try Everything.lrc"
+            ],
+            "artist": "SHAKIRA",
+            "maker": "ZOOTOPIA",
+            "tags": [
+                "SHAKIRA",
+                "ANIME",
+                "ZOOTOPIA",
+                "OST"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "恋のEveryDay HappyDay",
+            "m": [
+                "恋のEveryDay HappyDay/恋のEveryDay HappyDay.mp3",
+                "恋のEveryDay HappyDay/恋のEveryDay HappyDay.lrc"
+            ],
+            "artist": "TAKETATSUAYANA",
+            "maker": "デート・ア・ライブ",
+            "tags": [
+                "TAKETATSUAYANA",
+                "ANIME",
+                "デート・ア・ライブ",
+                "OST"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
         }
     ]
 }
