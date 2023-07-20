@@ -172,5 +172,21 @@
     "SANDIEGO(アズールレーン)": "센디에이고 ($t(musicTags:AZURLANE))",
     "IWAMIMANAKA": "이와미 마나카",
     "KAYANOAI": "카야노 아이",
-    "TOMATSUHARUKA": "토마츠 하루카"
+    "TOMATSUHARUKA": "토마츠 하루카",
+    "ユミナ(高野麻里佳)": "유미나($t(musicTags:KONOMARIKA))",
+    "エルゼ(内田真礼)": "에르제($t(musicTags:UCHIDAAYA))",
+    "リンゼ(福緒唯)": "린제($t(musicTags:FUKUOYUI))",
+    "八重(赤﨑千夏)": "야에($t(musicTags:AKASAKICHINATSU))",
+    "スゥシィ(山下七海)": "스우시($t(musicTags:YAMASHITANANAMI))",
+    "リーン(上坂すみれ)": "린($t(musicTags:UESAKASUMIRE))",
+    "ルーシア(高木美佑)": "루시아($t(musicTags:TAKAGIMIYU))",
+    "ヒルデガルド(芹澤優)": "힐데($t(musicTags:SERIZAWAYU))",
+    "桜(久保田未夢)": "사쿠라($t(musicTags:KUBOTAMIYU))",
+    "KONOMARIKA": "코노 마리카",
+    "FUKUOYUI": "후쿠오 유이",
+    "AKASAKICHINATSU": "아카사키 치나츠",
+    "YAMASHITANANAMI": "야마시타 나나미",
+    "UESAKASUMIRE": "우에사카 스미레",
+    "TAKAGIMIYU": "타카기 미유",
+    "KUBOTAMIYU": "쿠보타 미유"
 }

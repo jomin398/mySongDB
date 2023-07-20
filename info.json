@@ -189,6 +189,7 @@
             "n": "Tell Your World",
             "m": [
                 "Tell Your World/Tell Your World.mp3",
+                "Tell Your World/Tell Your World (ko ver by sodadayo20).mp3",
                 "Tell Your World/Camera.vmd",
                 "Tell Your World/Motion.vmd"
             ],
@@ -260,6 +261,8 @@
             "n": "너의 색으로 물들어",
             "f": "君色に染まる",
             "m": [
+                "君色に染まる/君色に染まる.mp3",
+                "君色に染まる/君色に染まる.lrc",
                 "君色に染まる/君色に染まる (ko ver by sodadayo20).mp3",
                 "君色に染まる/Camera.vmd",
                 "君色に染まる/Motion (big).vmd",
@@ -271,6 +274,7 @@
                 "RIN(VOCALOID)",
                 "VOCALOID"
             ],
+            "lrc": true,
             "raw": true,
             "r": 3
         },
@@ -445,6 +449,8 @@
             "f": "エイリアンエイリアン",
             "m": [
                 "エイリアンエイリアン/エイリアンエイリアン.mp3",
+                "エイリアンエイリアン/エイリアンエイリアン.lrc",
+                "エイリアンエイリアン/エイリアンエイリアン - ミク&えむ&寧々.mp3",
                 "エイリアンエイリアン/Camera (by えいちゃん).vmd",
                 "エイリアンエイリアン/Motion (LIVE ver. by 配布用).vmd"
             ],
@@ -455,6 +461,7 @@
                 "VOCALOID",
                 "NAYUTAN"
             ],
+            "lrc": true,
             "raw": true,
             "r": 3
         },
@@ -824,7 +831,8 @@
             "n": "빛난다면",
             "f": "光るなら",
             "m": [
-                "光るなら/光るなら.mp3"
+                "光るなら/光るなら.mp3",
+                "光るなら/光るなら.lrc"
             ],
             "artist": "KAORI(四月は君の嘘)",
             "maker": "GOOSEHOUSE",
@@ -834,6 +842,7 @@
                 "GOOSEHOUSE",
                 "ANIME"
             ],
+            "lrc": true,
             "raw": true,
             "r": 3
         },
@@ -841,7 +850,8 @@
             "n": "겨울의 에필로그",
             "f": "冬のエピローグ",
             "m": [
-                "光るなら/冬のエピローグ.mp3"
+                "光るなら/冬のエピローグ.mp3",
+                "光るなら/冬のエピローグ.lrc"
             ],
             "artist": "KAORI(四月は君の嘘)",
             "maker": "GOOSEHOUSE",
@@ -851,6 +861,7 @@
                 "GOOSEHOUSE",
                 "ANIME"
             ],
+            "lrc": true,
             "raw": true,
             "r": 3
         },
@@ -949,6 +960,7 @@
             "f": "勘違い性反希望症",
             "m": [
                 "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.mp3",
+                "勘違い性反希望症/勘違い性反希望症 (ko ver by sodadayo20).mp3",
                 "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.lrc"
             ],
             "artist": "MIKU",
@@ -1360,6 +1372,7 @@
             "maker": "DECO*27",
             "tags": [
                 "TENNOJIRINA(LOVELIVE)",
+                "TANAKACHIEMI",
                 "NIJISANJI",
                 "LOVELIVE",
                 "DECO*27"
@@ -2471,6 +2484,259 @@
             ],
             "atrys": [
                 "GHOST"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "イセカイジュエリー",
+            "m": [
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー.lrc",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - エルゼ.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - スゥ.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ヒルデガルド.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ユミナ.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - リーン.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - リンゼ.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ルーシア.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - 八重.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - 桜.mp3"
+            ],
+            "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ),ルーシア(高木美佑),ヒルデガルド(芹澤優),桜(久保田未夢)",
+            "tags": [
+                "ISESUMA",
+                "ANIME",
+                "ユミナ(高野麻里佳)",
+                "エルゼ(内田真礼)",
+                "リンゼ(福緒唯)",
+                "八重(赤﨑千夏)",
+                "スゥシィ(山下七海)",
+                "リーン(上坂すみれ)",
+                "ルーシア(高木美佑)",
+                "ヒルデガルド(芹澤優)",
+                "桜(久保田未夢)",
+                "KONOMARIKA",
+                "UCHIDAAYA",
+                "FUKUOYUI",
+                "AKASAKICHINATSU",
+                "YAMASHITANANAMI",
+                "UESAKASUMIRE",
+                "TAKAGIMIYU",
+                "SERIZAWAYU",
+                "KUBOTAMIYU",
+                "OST"
+            ],
+            "atrys": [
+                "リアルダイヤモンド／イセカイジュエリー"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "リアルダイヤモンド",
+            "m": [
+                "リアルダイヤモンド／イセカイジュエリー/リアルダイヤモンド.mp3",
+                "リアルダイヤモンド／イセカイジュエリー/リアルダイヤモンド.lrc"
+            ],
+            "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ),ルーシア(高木美佑),ヒルデガルド(芹澤優),桜(久保田未夢)",
+            "tags": [
+                "ISESUMA",
+                "ANIME",
+                "ユミナ(高野麻里佳)",
+                "エルゼ(内田真礼)",
+                "リンゼ(福緒唯)",
+                "八重(赤﨑千夏)",
+                "スゥシィ(山下七海)",
+                "リーン(上坂すみれ)",
+                "ルーシア(高木美佑)",
+                "ヒルデガルド(芹澤優)",
+                "桜(久保田未夢)",
+                "KONOMARIKA",
+                "UCHIDAAYA",
+                "FUKUOYUI",
+                "AKASAKICHINATSU",
+                "YAMASHITANANAMI",
+                "UESAKASUMIRE",
+                "TAKAGIMIYU",
+                "SERIZAWAYU",
+                "KUBOTAMIYU",
+                "OST"
+            ],
+            "atrys": [
+                "リアルダイヤモンド／イセカイジュエリー"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "For you～月の光が降り注ぐテラス",
+            "m": [
+                "光るなら/For you～月の光が降り注ぐテラス.mp3",
+                "光るなら/For you～月の光が降り注ぐテラス.lrc"
+            ],
+            "artist": "澤部椿(佐倉綾音)",
+            "maker": "GOOSEHOUSE",
+            "tags": [
+                "四月は君の嘘",
+                "澤部椿(佐倉綾音)",
+                "GOOSEHOUSE",
+                "ANIME"
+            ],
+            "atrys": [
+                "光るなら"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "My Truth～ロンド・カプリチオーソ",
+            "m": [
+                "光るなら/My Truth～ロンド・カプリチオーソ.mp3",
+                "光るなら/My Truth～ロンド・カプリチオーソ.lrc"
+            ],
+            "artist": "KAORI(四月は君の嘘)",
+            "maker": "GOOSEHOUSE",
+            "tags": [
+                "四月は君の嘘",
+                "KAORI(四月は君の嘘)",
+                "GOOSEHOUSE",
+                "ANIME"
+            ],
+            "atrys": [
+                "光るなら"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Sentimental Rain～愛の悲しみ",
+            "m": [
+                "光るなら/Sentimental Rain～愛の悲しみ.mp3",
+                "光るなら/Sentimental Rain～愛の悲しみ.lrc"
+            ],
+            "artist": "有馬公生(花江夏樹)",
+            "maker": "GOOSEHOUSE",
+            "tags": [
+                "四月は君の嘘",
+                "有馬公生(花江夏樹)",
+                "GOOSEHOUSE",
+                "ANIME"
+            ],
+            "atrys": [
+                "光るなら"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "愛言葉 IV",
+            "m": [
+                "愛言葉 IV/愛言葉 IV.mp3",
+                "愛言葉 IV/愛言葉 IV.lrc"
+            ],
+            "artist": "MIKU",
+            "maker": "DECO*27",
+            "tags": [
+                "DECO*27",
+                "MIKU",
+                "VOCALOID"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "最高速 Fall in Love",
+            "m": [
+                "最高速 Fall in Love/最高速 Fall in Love.mp3",
+                "最高速 Fall in Love/最高速 Fall in Love.lrc"
+            ],
+            "artist": "ミーア(雨宮天),パピ(小澤亜李),セントレア(相川奈都姫),スー(野村真悠華),メロ(山崎はるか),ラクネラ(中村桜)",
+            "album": "モンスター娘のいる日常",
+            "tags": [
+                "MONMUSU",
+                "ANIME",
+                "ミーア(雨宮天)",
+                "パピ(小澤亜李)",
+                "セントレア(相川奈都姫)",
+                "スー(野村真悠華)",
+                "メロ(山崎はるか)",
+                "ラクネラ(中村桜)"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "アナログハート",
+            "m": [
+                "アナログハート/アナログハート.mp3",
+                "アナログハート/アナログハート.lrc"
+            ],
+            "artist": "TENNOJIRINA(LOVELIVE)",
+            "album": "アナログハート",
+            "tags": [
+                "TENNOJIRINA(LOVELIVE)",
+                "TANAKACHIEMI",
+                "NIJISANJI",
+                "LOVELIVE",
+                "ANIME"
+            ]
+        },
+        {
+            "f": "Target for Love",
+            "m": [
+                "BlueArchive/Target for Love.mp3",
+                "BlueArchive/Target for Love (en ver).mp3",
+                "BlueArchive/Target for Love - GawrGura (en ver).mp3",
+                "BlueArchive/Target for Love - GawrGura (en ver).lrc",
+                "BlueArchive/Target For Love - 初音ミク.mp3",
+                "BlueArchive/Target for Love.lrc"
+            ],
+            "artist": "이진아",
+            "another": [
+                "MIKU",
+                "GAWRGURA(HOLOLIVE)",
+                "天童アリス(TANAKAMINAMI)"
+            ],
+            "album": "Target for Love",
+            "tags": [
+                "MIKU",
+                "GAWRGURA(HOLOLIVE)",
+                "天童アリス(TANAKAMINAMI)",
+                "ANIME",
+                "GAME",
+                "BLUEARCHIVE",
+                "HOLOLIVE",
+                "VOCALOID"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Clear Morning",
+            "m": [
+                "BlueArchive/Clear Morning.mp3",
+                "BlueArchive/Clear Morning.lrc"
+            ],
+            "album": "Target for Love",
+            "artist": "OGURAYUI",
+            "tags": [
+                "OGURAYUI",
+                "ANIME",
+                "GAME",
+                "BLUEARCHIVE"
+            ],
+            "atrys": [
+                "Target for Love"
             ],
             "lrc": true,
             "raw": true,
