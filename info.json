@@ -2983,6 +2983,31 @@
             "lrc": true,
             "raw": true,
             "r": 3
+        },
+        {
+            "f": "神のまにまに",
+            "n": "신의 뜻대로",
+            "m": [
+                "神のまにまに/神のまにまに.mp3",
+                "神のまにまに/神のまにまに.lrc",
+                "神のまにまに/神のまにまに - 鳳えむ.mp3",
+                "神のまにまに/motion.vmd"
+            ],
+            "artist": "MIKU,GUMI(VOCALOID),RIN(VOCALOID)",
+            "another": [
+                "OTORIEMU"
+            ],
+            "maker": "れるりり",
+            "tags": [
+                "MIKU",
+                "GUMI(VOCALOID)",
+                "RIN(VOCALOID)",
+                "OTORIEMU",
+                "VOCALOID"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
         }
     ]
 }
