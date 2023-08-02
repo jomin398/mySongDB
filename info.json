@@ -3064,7 +3064,7 @@
                 "Azurlane Anime/まひるいろシエスタ.mp3",
                 "Azurlane Anime/まひるいろシエスタ.lrc"
             ],
-            "artist": "Aurora(榊原ゆい)",
+            "artist": "AURORA(AZURLANE)",
             "maker": "AZURLANE",
             "album": "Longing for!／まひるいろシエスタ",
             "tags": [
@@ -3092,7 +3092,9 @@
                 "鹿乃(VTUBER)",
                 "AZURLANE"
             ],
-            "atrys": "光の道標",
+            "atrys": [
+                "光の道標"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3111,7 +3113,9 @@
                 "AZURLANE",
                 "VTUBER"
             ],
-            "atrys": "光の道標",
+            "atrys": [
+                "光の道標"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3129,7 +3133,9 @@
                 "HAYAMISAORI",
                 "AZURLANE"
             ],
-            "atrys": "Azurlane Anime",
+            "atrys": [
+                "Azurlane Anime"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3146,7 +3152,9 @@
                 "ENDOAYA",
                 "AZURLANE"
             ],
-            "atrys": "Azurlane Anime",
+            "atrys": [
+                "Azurlane Anime"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3160,7 +3168,9 @@
             "artist": "霜月はるか",
             "maker": "PRINCESSEVANGILE",
             "album": "Princess Evangile",
-            "atrys": "Princess Evangile",
+            "atrys": [
+                "Princess Evangile"
+            ],
             "tags": [
                 "PRINCESSEVANGILE",
                 "THEME",
@@ -3186,7 +3196,9 @@
                 "AiRI",
                 "GAME"
             ],
-            "atrys": "Princess Evangile",
+            "atrys": [
+                "Princess Evangile"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3204,7 +3216,9 @@
                 "GRADUATION",
                 "GAME"
             ],
-            "atrys": "Princess Evangile",
+            "atrys": [
+                "Princess Evangile"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3265,7 +3279,9 @@
                 "恋愛フロップス",
                 "ANIME"
             ],
-            "atrys": "恋愛フロップス",
+            "atrys": [
+                "恋愛フロップス"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3283,7 +3299,9 @@
                 "恋愛フロップス",
                 "ANIME"
             ],
-            "atrys": "恋愛フロップス",
+            "atrys": [
+                "恋愛フロップス"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3301,7 +3319,9 @@
                 "恋愛フロップス",
                 "ANIME"
             ],
-            "atrys": "恋愛フロップス",
+            "atrys": [
+                "恋愛フロップス"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
