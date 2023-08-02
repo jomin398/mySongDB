@@ -3051,7 +3051,9 @@
                 "LOVELIVE",
                 "AZURLANE"
             ],
-            "atrys": "Longing for!／まひるいろシエスタ",
+            "atrys": [
+                "Longing for!／まひるいろシエスタ"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
@@ -3070,7 +3072,9 @@
                 "榊原ゆい",
                 "AZURLANE"
             ],
-            "atrys": "Longing for!／まひるいろシエスタ",
+            "atrys": [
+                "Longing for!／まひるいろシエスタ"
+            ],
             "lrc": true,
             "raw": true,
             "r": 3
