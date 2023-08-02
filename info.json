@@ -3008,6 +3008,31 @@
             "lrc": true,
             "raw": true,
             "r": 3
+        },
+        {
+            "f": "へタクソな恋",
+            "n": "서투른 사랑",
+            "m": [
+                "へタクソな恋/へタクソな恋.mp3",
+                "へタクソな恋/へタクソな恋.lrc"
+            ],
+            "artist": "小日向千虎(VTUBER)",
+            "maker": "ASAPROJECT",
+            "album": "コイバナ恋愛",
+            "tags": [
+                "小日向千虎(VTUBER)",
+                "コイバナ",
+                "コイバナ恋愛",
+                "OST",
+                "ASAPROJECT",
+                "VTUBER"
+            ],
+            "atrys": [
+                "コイバナ恋愛"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
         }
     ]
 }
