@@ -3033,6 +3033,196 @@
             "lrc": true,
             "raw": true,
             "r": 3
+        },
+        {
+            "f": "Longing for",
+            "m": [
+                "Azurlane Anime/Longing for.mp3",
+                "Azurlane Anime/Longing for.lrc"
+            ],
+            "artist": "新田恵海",
+            "maker": "AZURLANE",
+            "album": "Longing for!／まひるいろシエスタ",
+            "tags": [
+                "高坂穂乃果(LOVELIVE)",
+                "新田恵海",
+                "LOVELIVE",
+                "AZURLANE"
+            ],
+            "atrys": "Longing for!／まひるいろシエスタ",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "まひるいろシエスタ",
+            "m": [
+                "Azurlane Anime/まひるいろシエスタ.mp3",
+                "Azurlane Anime/まひるいろシエスタ.lrc"
+            ],
+            "artist": "Aurora(榊原ゆい)",
+            "maker": "AZURLANE",
+            "album": "Longing for!／まひるいろシエスタ",
+            "tags": [
+                "AURORA(AZURLANE)",
+                "榊原ゆい",
+                "AZURLANE"
+            ],
+            "atrys": "Longing for!／まひるいろシエスタ",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "CAFUNÉ",
+            "m": [
+                "Azurlane Anime/CAFUNÉ.mp3",
+                "Azurlane Anime/CAFUNÉ.lrc"
+            ],
+            "artist": "鹿乃(VTUBER)",
+            "maker": "AZURLANE",
+            "album": "光の道標",
+            "tags": [
+                "鹿乃(VTUBER)",
+                "AZURLANE"
+            ],
+            "atrys": "光の道標",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "光の道標",
+            "m": [
+                "Azurlane Anime/光の道標.mp3",
+                "Azurlane Anime/光の道標.lrc"
+            ],
+            "artist": "鹿乃(VTUBER)",
+            "maker": "AZURLANE",
+            "album": "光の道標",
+            "tags": [
+                "鹿乃(VTUBER)",
+                "AZURLANE",
+                "VTUBER"
+            ],
+            "atrys": "光の道標",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "自由の暁",
+            "m": [
+                "Azurlane Anime/自由の暁.mp3",
+                "Azurlane Anime/自由の暁.lrc"
+            ],
+            "artist": "HAYAMISAORI",
+            "maker": "AZURLANE",
+            "album": "Azurlane Original Sound Track",
+            "tags": [
+                "HAYAMISAORI",
+                "AZURLANE"
+            ],
+            "atrys": "Azurlane Anime",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "海へ捧げるレミニセンス",
+            "m": [
+                "Azurlane Anime/海へ捧げるレミニセンス.mp3"
+            ],
+            "artist": "ENDOAYA",
+            "maker": "AZURLANE",
+            "album": "Azurlane Original Sound Track",
+            "tags": [
+                "ENDOAYA",
+                "AZURLANE"
+            ],
+            "atrys": "Azurlane Anime",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "勇気の魔法",
+            "m": [
+                "Princess Evangile/勇気の魔法.mp3",
+                "Princess Evangile/勇気の魔法.lrc"
+            ],
+            "artist": "霜月はるか",
+            "maker": "PRINCESSEVANGILE",
+            "album": "Princess Evangile",
+            "atrys": "Princess Evangile",
+            "tags": [
+                "PRINCESSEVANGILE",
+                "THEME",
+                "霜月はるか",
+                "GAME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "桜が見てた",
+            "m": [
+                "Princess Evangile/桜が見てた.mp3",
+                "Princess Evangile/桜が見てた.lrc"
+            ],
+            "artist": "AiRI",
+            "maker": "PRINCESSEVANGILE",
+            "album": "Princess Evangile",
+            "tags": [
+                "PRINCESSEVANGILE",
+                "THEME",
+                "AiRI",
+                "GAME"
+            ],
+            "atrys": "Princess Evangile",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "蛍の光",
+            "m": [
+                "Princess Evangile/蛍の光.mp3",
+                "Princess Evangile/蛍の光.lrc"
+            ],
+            "maker": "PRINCESSEVANGILE",
+            "album": "Princess Evangile",
+            "tags": [
+                "PRINCESSEVANGILE",
+                "GRADUATION",
+                "GAME"
+            ],
+            "atrys": "Princess Evangile",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Lullaby for Salvation",
+            "m": [
+                "Lullaby for Salvation/Lullaby for Salvation.mp3",
+                "Lullaby for Salvation/Lullaby for Salvation.lrc"
+            ],
+            "artist": "INAGAWAERI",
+            "maker": "WORLDFLIPPER",
+            "album": "Lullaby for Salvation / ディーバ・メディア",
+            "tags": [
+                "INAGAWAERI",
+                "WORLDFLIPPER",
+                "IDOLMASTER",
+                "OGAMITAMAKI(IDOLMASTER)",
+                "GAME",
+                "THEME"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
         }
     ]
 }
