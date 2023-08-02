@@ -2852,12 +2852,14 @@
                 "クライングハート/クライングハート.mp3",
                 "クライングハート/クライングハート.lrc"
             ],
-            "artist": "花園めい,雨場つかさ",
+            "artist": "HANAZONOMEI,AMEBATSUKASA",
             "maker": "ノラと皇女と野良猫ハート",
             "album": "ノラと皇女と野良猫ハート2 OP 「クライングハート」",
             "tags": [
-                "花園めい",
-                "雨場つかさ",
+                "HANAZONOMEI",
+                "ISHIGAMISHIZUKA",
+                "AMEBATSUKASA",
+                "HATANAKAMARIE",
                 "ANIME",
                 "ノラと皇女と野良猫ハート",
                 "ノラネコ",
@@ -3220,6 +3222,82 @@
                 "GAME",
                 "THEME"
             ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "あっちでこっちで",
+            "m": [
+                "恋の花びらをね/あっちでこっちで.mp3",
+                "恋の花びらをね/あっちでこっちで.lrc"
+            ],
+            "artist": "OKUBORUMI",
+            "tags": [
+                "OKUBORUMI",
+                "ANIME"
+            ],
+            "atrys": [
+                "恋の花びらをね"
+            ],
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Flop Around",
+            "m": [
+                "恋愛フロップス/Flop Around.mp3",
+                "恋愛フロップス/Flop Around.lrc"
+            ],
+            "maker": "恋愛フロップス",
+            "album": "恋愛フロップス",
+            "tags": [
+                "ITOUMIKU",
+                "TAKAHASHIRIE",
+                "TAKETATSUAYANA",
+                "KANEMOTOHISAKO",
+                "KONOMARIKA",
+                "恋愛フロップス",
+                "ANIME"
+            ],
+            "atrys": "恋愛フロップス",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "With You",
+            "m": [
+                "恋愛フロップス/With You.mp3",
+                "恋愛フロップス/With You.lrc"
+            ],
+            "maker": "恋愛フロップス",
+            "album": "恋愛フロップス",
+            "tags": [
+                "ITOUMIKU",
+                "恋愛フロップス",
+                "ANIME"
+            ],
+            "atrys": "恋愛フロップス",
+            "lrc": true,
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f": "Lost in the white",
+            "m": [
+                "恋愛フロップス/Lost in the white.mp3",
+                "恋愛フロップス/Lost in the white.lrc"
+            ],
+            "maker": "恋愛フロップス",
+            "album": "恋愛フロップス",
+            "tags": [
+                "ITOUMIKU",
+                "恋愛フロップス",
+                "ANIME"
+            ],
+            "atrys": "恋愛フロップス",
             "lrc": true,
             "raw": true,
             "r": 3
