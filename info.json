@@ -3325,6 +3325,27 @@
             "lrc": true,
             "raw": true,
             "r": 3
+        },
+        {
+            "f":"テオ",
+            "m":[
+                "テオ/[初音ミク] テオ.mp3",
+                "テオ/motion.vmd",
+                "テオ/camera.vmd"
+            ],
+            "maker": "OMOI",
+            "album": "ファーストワルツ",
+            "tags":[
+                "MIKU",
+                "VOCALOID",
+                "OMOI"
+            ],
+            "atrys":[
+                "Omoi",
+                "Teo"
+            ],
+            "raw": true,
+            "r": 3
         }
     ]
 }
