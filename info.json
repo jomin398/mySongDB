@@ -149,9 +149,9 @@
                 "Start Dash/Start Dash!!.mp3",
                 "Start Dash/Start Dash!! (by sodadayo20).mp3",
                 "Start Dash/Camera by roosjuh14290.vmd",
-                "Start Dash/Motion ことりモーション.vmd",
-                "Start Dash/Motion うみモーション.vmd",
-                "Start Dash/Motion ほのかモーション.vmd"
+                "Start Dash/Motion ことり.vmd",
+                "Start Dash/Motion うみ.vmd",
+                "Start Dash/Motion ほのか.vmd"
             ],
             "artist": "MUS",
             "another": [
@@ -3335,6 +3335,9 @@
             ],
             "maker": "OMOI",
             "album": "ファーストワルツ",
+            "artist":[
+                "MIKU"
+            ],
             "tags":[
                 "MIKU",
                 "VOCALOID",
@@ -3344,6 +3347,31 @@
                 "Omoi",
                 "Teo"
             ],
+            "raw": true,
+            "r": 3
+        },
+        {
+            "f":"我儘姫",
+            "m":[
+                "我儘姫/[えむ ミク ねね] 我儘姫.mp3",
+                "我儘姫/[初音ミク] 我儘姫.mp3",
+                "我儘姫/lyrics.lrc",
+                "我儘姫/motion1 by DIBU.vmd",
+                "我儘姫/motion2 by DIBU.vmd",
+                "我儘姫/camera by DIBU.vmd"
+            ],
+            "maker": "ふじを様",
+            "artist":[
+                "MIKU"
+            ],
+            "tags":[
+                "MIKU",
+                "VOCALOID"
+            ],
+            "atrys":[
+                "我儘姫"
+            ],
+            "lrc": true,
             "raw": true,
             "r": 3
         }
