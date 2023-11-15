@@ -250,5 +250,12 @@
   "KANEMOTOHISAKO": "金元寿子",
   "恋愛フロップス": "恋愛フロップス",
   "OMOI": "Omoi",
-  "ふじを様": "ふじを様"
+  "ふじを様": "ふじを様",
+  "柊マグネタイト": "柊マグネタイト",
+  "PROJECTSEKAI": "プロジェクトセカイ",
+  "PJSK": "プロセカ ($t(musicTags:PROJECTSEKAI))",
+  "AKITO(PJSK)": "あきと($t(musicTags:PJSK))",
+  "AN(PJSK)": "あん($t(musicTags:PJSK))",
+  "KOHANE(PJSK)": "こはね($t(musicTags:PJSK))",
+  "TOUYA(PJSK)": "よや($t(musicTags:PJSK))"
 }
