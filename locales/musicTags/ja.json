@@ -257,5 +257,10 @@
   "AKITO(PJSK)": "あきと($t(musicTags:PJSK))",
   "AN(PJSK)": "あん($t(musicTags:PJSK))",
   "KOHANE(PJSK)": "こはね($t(musicTags:PJSK))",
-  "TOUYA(PJSK)": "よや($t(musicTags:PJSK))"
+  "TOUYA(PJSK)": "よや($t(musicTags:PJSK))",
+  "AQUA(HOLOLIVE)": "湊あくあ ($t(musicTags:HOLOLIVE))",
+  "烏屋茶房": "烏屋茶房",
+  "アカリ(HOLOLIVE)": "ミライアカリ ($t(musicTags:HOLOLIVE))",
+  "シロ(HOLOLIVE)": "電脳少女シロ ($t(musicTags:HOLOLIVE))",
+  "美兎(HOLOLIVE)": "月ノ美兎 ($t(musicTags:HOLOLIVE))"
 }

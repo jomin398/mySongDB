@@ -1,2454 +1,2531 @@
 {
-    "t": "SongDB",
-    "disable": ["No Exit Orion", "ほうき星"],
-    "b": [
-        null,
-        null,
-        null,
-        "https://raw.githack.com/jomin398/mySongDB/master/audios/"
-    ],
-    "d": [{
-            "n": "당신에게",
-            "f": "Dear",
-            "m": [
-                "Dear/Dear.mp3",
-                "Dear/lyrics.lrc",
-                "Dear/Motion.vmd",
-                "Dear/Camera.vmd"
-            ],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "유리구슬",
-            "f": "Glass Bead",
-            "m": [
-                "Glass Bead/Glass Bead.mp3",
-                "Glass Bead/Glass Bead.lrc",
-                "Glass Bead/Camera by LadieAlien.vmd",
-                "Glass Bead/Motion by LadieAlien.vmd"
-            ],
-            "artist": "GIRLFRIEND",
-            "tags": ["KPOP", "GIRLFRIEND"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "시간을 달려서",
-            "f": "Rough",
-            "m": ["Rough/Rough.mp3", "Rough/Camera.vmd", "Rough/Motion.vmd"],
-            "artist": "GIRLFRIEND",
-            "tags": ["KPOP", "GIRLFRIEND"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Happy Halloween",
-            "m": [
-                "Happy Halloween/Happy Halloween.mp3",
-                "Happy Halloween/Happy Halloween (ko ver by sodadayo20).mp3",
-                "Happy Halloween/Camera.vmd",
-                "Happy Halloween/Motion.vmd"
-            ],
-            "artist": "RIN(VOCALOID)",
-            "another": ["MIKU"],
-            "maker": "JUNKY",
-            "tags": ["JUNKY", "RIN(VOCALOID)", "MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "メルト",
-            "f": "Melt",
-            "m": [
-                "Melt/Melt.mp3",
-                "Melt/Melt (ko ver by sodadayo20).mp3",
-                "Melt/Melt - 音街ウナ.mp3",
-                "Melt/Camera.vmd",
-                "Melt/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "SUPERCELL(RYO)",
-            "tags": ["SUPERCELL(RYO)", "MIKU", "VOCALOID", "UNA(VOCALOID)"],
-            "another": ["UNA(VOCALOID)"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "ツギハギスタッカート",
-            "f": "Patchwork Staccato",
-            "m": [
-                "Patchwork Staccato/Patchwork Staccato.mp3",
-                "Patchwork Staccato/Patchwork Staccato (ko ver by sodadayo20).mp3",
-                "Patchwork Staccato/Camera by kip.vmd",
-                "Patchwork Staccato/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Snow Fairy Story",
-            "m": [
-                "Snow Fairy Story (ko ver by sodadayo20).mp3",
-                "Snow Fairy Story/Snow Fairy Story.mp3",
-                "Snow Fairy Story/Camera by 永瀬律 (りつ).vmd",
-                "Snow Fairy Story/Motion by まいてぃ.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "40MP",
-            "tags": ["MIKU", "VOCALOID", "SNOW", "40MP"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Start Dash",
-            "m": [
-                "Start Dash/Start Dash!!.mp3",
-                "Start Dash/Start Dash!! (by sodadayo20).mp3",
-                "Start Dash/Camera by roosjuh14290.vmd",
-                "Start Dash/Motion ことり.vmd",
-                "Start Dash/Motion うみ.vmd",
-                "Start Dash/Motion ほのか.vmd"
-            ],
-            "artist": "MUS",
-            "another": ["MIKU"],
-            "maker": "LOVELIVE",
-            "tags": ["MIKU", "VOCALOID", "MUS", "LOVELIVE", "µ's"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "롤리폴리",
-            "f": "Roly poly",
-            "m": [
-                "Roly poly/Roly Poly.mp3",
-                "Roly poly/Roly Poly.lrc",
-                "Roly poly/Camera.vmd",
-                "Roly poly/Motion.vmd"
-            ],
-            "artist": "TARA",
-            "tags": ["KPOP", "TARA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Tell Your World",
-            "m": [
-                "Tell Your World/Tell Your World.mp3",
-                "Tell Your World/Tell Your World (ko ver by sodadayo20).mp3",
-                "Tell Your World/Camera.vmd",
-                "Tell Your World/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "LIVETUNE(KZ)",
-            "tags": ["MIKU", "VOCALOID", "LIVETUNE(KZ)"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "LIKEY",
-            "f": "LIKEY",
-            "m": [
-                "LIKEY/LIKEY.mp3",
-                "LIKEY/Camera by Ayano01Tateyama.vmd",
-                "LIKEY/Motion.vmd"
-            ],
-            "artist": "TWICE",
-            "tags": ["KPOP", "TWICE"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "wavefile",
-            "f": "wavefile",
-            "m": [
-                "wavefile/[初音ミク] wavefile (short ver by LamazeP).mp3",
-                "wavefile/Camera (short ver).vmd",
-                "wavefile/Motion (short ver).vmd",
-                "wavefile/[初音ミク] WAVEFILE (full ver by LamazeP).mp3",
-                "wavefile/Motion (full ver by hino).vmd"
-            ],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "atrys": ["wavefile"],
-            "raw": true,
-            "r": 3,
-            "offset": 530
-        },
-        {
-            "n": "Yellow",
-            "m": [
-                "Yellow/Yellow (by kz).mp3",
-                "Yellow/Yellow (by kz).lrc",
-                "Yellow/Camera.vmd",
-                "Yellow/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "LIVETUNE(KZ)",
-            "tags": ["MIKU", "VOCALOID", "LIVETUNE(KZ)"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "너의 색으로 물들어",
-            "f": "君色に染まる",
-            "m": [
-                "君色に染まる/君色に染まる.mp3",
-                "君色に染まる/君色に染まる.lrc",
-                "君色に染まる/君色に染まる (ko ver by sodadayo20).mp3",
-                "君色に染まる/Camera.vmd",
-                "君色に染まる/Motion (big).vmd",
-                "君色に染まる/Motion (small).vmd"
-            ],
-            "artist": "MIKU",
-            "tags": ["MIKU", "RIN(VOCALOID)", "VOCALOID"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "금요일의 아침인사",
-            "f": "金曜日のおはよう",
-            "m": [
-                "金曜日のおはよう/金曜日のおはよう - 雨宮天.mp3",
-                "金曜日のおはよう/金曜日のおはよう - 初音ミク.mp3",
-                "金曜日のおはよう/金曜日のおはよう.lrc",
-                "金曜日のおはよう/Camera (big).vmd",
-                "金曜日のおはよう/Camera (small).vmd",
-                "金曜日のおはよう/Motion.vmd"
-            ],
-            "artist": "AMAMIYASORA",
-            "another": ["MIKU"],
-            "tags": ["AMAMIYASORA", "MIKU", "VOCALOID", "HONEYWORKS"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "사랑의 말 3",
-            "f": "愛言葉Ⅲ",
-            "m": [
-                "愛言葉Ⅲ/愛言葉Ⅲ.mp3",
-                "愛言葉Ⅲ/愛言葉Ⅲ (ko ver by sodadayo20).mp3",
-                "愛言葉Ⅲ/Camera.vmd",
-                "愛言葉Ⅲ/Motion by 足太ぺんたさん.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "DECO*27",
-            "tags": ["MIKU", "VOCALOID", "DECO*27"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "벛꽃의 비",
-            "f": "桜ノ雨",
-            "m": [
-                "桜ノ雨/桜ノ雨 (ver Ko by sodadayo20).mp3",
-                "桜ノ雨/桜ノ雨 - ホロライブ.mp3",
-                "桜ノ雨/桜ノ雨.mp3",
-                "桜ノ雨/Camera.vmd",
-                "桜ノ雨/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "another": ["HOLOLIVE"],
-            "tags": [
-                "MIKU",
-                "VOCALOID",
-                "GRADUATION",
-                "SAKURA",
-                "HOLOLIVE",
-                "TOWA(HOLOLIVE)",
-                "MIKO(HOLOLIVE)",
-                "AKI(HOLOLIVE)",
-                "POLKA(HOLOLIVE)",
-                "IROHA(HOLOLIVE)"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "천본앵",
-            "f": "千本桜",
-            "m": [
-                "千本桜/千本桜 by sodadayo20.mp3",
-                "千本桜/千本桜 by 黒うさP.mp3",
-                "千本桜/Camera.vmd",
-                "千本桜/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "WHITEFLAME",
-            "tags": ["MIKU", "VOCALOID", "SAKURA", "WHITEFLAME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Ray",
-            "m": [
-                "Ray/Ray (ko ver by sodadayo20).mp3",
-                "Ray/Ray.mp3",
-                "Ray/Camera.vmd",
-                "Ray/Motion.vmd",
-                "Ray/Ray.lrc"
-            ],
-            "artist": "MIKU",
-            "maker": "DECO*27",
-            "tags": ["MIKU", "VOCALOID", "DECO*27"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "사랑 받지 못해도 너가 있어서",
-            "f": "愛されなくても君がいる",
-            "m": [
-                "愛されなくても君がいる/愛されなくても君がいる.mp3",
-                "愛されなくても君がいる/Camera by hosino.vmd",
-                "愛されなくても君がいる/Motion by hosino.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "PINOCCHIOP",
-            "tags": ["MIKU", "VOCALOID", "PINOCCHIOP"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "다다다 천사",
-            "f": "ダダダダ天使",
-            "m": [
-                "ダダダダ天使/ダダダダ天使.mp3",
-                "ダダダダ天使/camera.vmd",
-                "ダダダダ天使/Motion.vmd"
-            ],
-            "artist": "NANAOAKARI",
-            "maker": "NAYUTAN",
-            "tags": ["NANAOAKARI", "NAYUTAN", "TENSI"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "태양계 디스코",
-            "f": "太陽系デスコ",
-            "m": [
-                "太陽系デスコ/太陽系デスコ.mp3",
-                "太陽系デスコ/camera.vmd",
-                "太陽系デスコ/motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "NAYUTAN",
-            "tags": ["MIKU", "VOCALOID", "NAYUTAN"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "에일리언 에일리언",
-            "f": "エイリアンエイリアン",
-            "m": [
-                "エイリアンエイリアン/エイリアンエイリアン.mp3",
-                "エイリアンエイリアン/エイリアンエイリアン.lrc",
-                "エイリアンエイリアン/エイリアンエイリアン - ミク&えむ&寧々.mp3",
-                "エイリアンエイリアン/Camera (by えいちゃん).vmd",
-                "エイリアンエイリアン/Motion (LIVE ver. by 配布用).vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "NAYUTAN",
-            "tags": ["MIKU", "VOCALOID", "NAYUTAN"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "귀여워서 미안해",
-            "f": "可愛くてごめん",
-            "m": [
-                "可愛くてごめん/可愛くてごめん.mp3",
-                "可愛くてごめん/可愛くてごめん (by sodadayo20).mp3",
-                "可愛くてごめん/Camera.vmd",
-                "可愛くてごめん/Motion (by はかり).vmd"
-            ],
-            "artist": "HAYAMISAORI",
-            "another": ["MIKU"],
-            "maker": "HONEYWORKS",
-            "tags": ["HAYAMISAORI", "MIKU", "VOCALOID", "HONEYWORKS"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "World is Mine",
-            "f": "ワールドイズマイン",
-            "m": [
-                "ワールドイズマイン/ワールドイズマイン.mp3",
-                "ワールドイズマイン/ワールドイズマイン (ko ver by sodadayo20)",
-                "ワールドイズマイン/Camera (by mobiusP).vmd",
-                "ワールドイズマイン/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "SUPERCELL(RYO)",
-            "tags": ["MIKU", "VOCALOID", "SUPERCELL(RYO)"],
-            "atrys": ["World is Mine"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "포지티브 퍼레이드",
-            "f": "ポジティブパレード",
-            "m": [
-                "ポジティブパレード/ポジティブパレード.mp3",
-                "ポジティブパレード/ポジティブパレード.lrc",
-                "ポジティブパレード/Camera (by なつき).vmd",
-                "ポジティブパレード/Motion (by なつき).vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "DECO*27",
-            "tags": ["MIKU", "VOCALOID", "DECO*27", "FESTIVAL", "PARADE"],
-            "atrys": ["ポジティブ・パレード", "Positive Parade"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "내일의 밤하늘 초계반",
-            "f": "アスノヨゾラ哨戒班",
-            "m": [
-                "アスノヨゾラ哨戒班/アスノヨゾラ哨戒班 (by sodadayo20).mp3",
-                "アスノヨゾラ哨戒班/アスノヨゾラ哨戒班 - ナナヲアカリ.mp3",
-                "アスノヨゾラ哨戒班/Camera (by なつき).vmd",
-                "アスノヨゾラ哨戒班/Motion (by なつき).vmd"
-            ],
-            "artist": "MIKU",
-            "another": ["NANAOAKARI"],
-            "tags": ["MIKU", "VOCALOID", "ORANGESTAR"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "WAVE",
-            "m": [
-                "WAVE/WAVE.mp3",
-                "WAVE/Camera (by 配布用).vmd",
-                "WAVE/Motion (by 配布用).vmd"
-            ],
-            "artist": "LILY(VOCALOID)",
-            "maker": "NIKI",
-            "tags": ["NIKI", "LILY(VOCALOID)", "VOCALOID"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "ねこみみスイッチ",
-            "m": [
-                "ねこみみスイッチ/ねこみみスイッチ.mp3",
-                "ねこみみスイッチ/Camera.vmd",
-                "ねこみみスイッチ/Motion.vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "DANIWELLP",
-            "tags": ["MIKU", "VOCALOID", "NEKO", "DANIWELLP"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "스타라이트 스노우",
-            "f": "スターナイトスノウ",
-            "m": [
-                "スターナイトスノウ/スターナイトスノウ.mp3",
-                "スターナイトスノウ/Camera (by 秋狐＠女子力P).vmd",
-                "スターナイトスノウ/Motion (by 配布用).vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "ORANGESTAR",
-            "tags": ["MIKU", "VOCALOID", "ORANGESTAR", "SNOW"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "좋아! 눈! 진심 매직",
-            "f": "好き！雪！本気マジック",
-            "m": [
-                "好き！雪！本気マジック/好き！雪！本気マジック.mp3",
-                "好き！雪！本気マジック/Camera (by 結莉).vmd",
-                "好き！雪！本気マジック/Motion (by 配布用).vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "MITCHIEM",
-            "tags": ["MIKU", "VOCALOID", "MITCHIEM", "SNOW"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "[Miku] 울려퍼져라! (히비카세)",
-            "f": "ヒビカセ",
-            "m": [
-                "ヒビカセ/ヒビカセ.mp3",
-                "ヒビカセ/Camera (by seitsuki).vmd",
-                "ヒビカセ/Motion (by Seto).vmd"
-            ],
-            "artist": "MIKU",
-            "maker": "GIGA",
-            "tags": ["MIKU", "VOCALOID", "GIGA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "[幾田りら] 아이돌! (최애의 아이)",
-            "f": "アイドル [推しの子]",
-            "m": [
-                "アイドル [推しの子]/アイドル.mp3",
-                "アイドル [推しの子]/Camera (by イ短調).vmd",
-                "アイドル [推しの子]/Motion (by イ短調).vmd"
-            ],
-            "maker": "YOASOBI",
-            "tags": ["HOSINOAI", "OSINOKO", "YOASOBI", "ANIME"],
-            "atrys": ["推しの子", "アイドル"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Link",
-            "m": ["Link/Link.mp3", "Link/Link.lrc"],
-            "artist": "ALTERNA",
-            "tags": ["ALTERNA", "GAME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Lunaria",
-            "m": [
-                "Lunaria/Lunaria.mp3",
-                "Lunaria/Lunaria (ko).mp3",
-                "Lunaria/Lunaria.lrc",
-                "Lunaria/Lunaria (ko).lrc"
-            ],
-            "artist": "ALTERNA",
-            "tags": ["ALTERNA", "GAME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "유구한 카타르시스 (4인 합창 Ver)",
-            "f": "悠久のカタルシス (4スターズ Ver)",
-            "m": [
-                "悠久のカタルシス/悠久のカタルシス (4スターズ Ver).mp3",
-                "悠久のカタルシス/悠久のカタルシス (4スターズ Ver).lrc"
-            ],
-            "artist": "AYANAMI(アズールレーン),LAFFEY(アズールレーン),Z23(アズールレーン),JAVELIN(アズールレーン)",
-            "maker": "AZURLANE",
-            "tags": [
-                "AYANAMI(アズールレーン)",
-                "LAFFEY(アズールレーン)",
-                "Z23(アズールレーン)",
-                "JAVELIN(アズールレーン)",
-                "AZURLANE",
-                "GAME"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Don't Stay",
-            "f": "Don't Stay",
-            "m": ["Don't Stay/Don't Stay.mp3", "Don't Stay/Don't Stay.lrc"],
-            "artist": "LINKINPARK",
-            "maker": "DJMAX",
-            "tags": ["GIRLFRONT", "LINKINPARK", "DJMAX", "GAME"],
-            "atrys": ["GF DJMAX"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "FirstKiss",
-            "f": "FirstKiss",
-            "m": ["FirstKiss/FirstKiss.mp3", "FirstKiss/FirstKiss.lrc"],
-            "artist": "HWANGJUNGMI",
-            "maker": "DJMAX",
-            "tags": ["HWANGJUNGMI", "GIRLFRONT", "DJMAX", "GAME"],
-            "atrys": ["GF DJMAX"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Frontline",
-            "f": "Frontline",
-            "m": ["Frontline/Frontline.mp3", "Frontline/Frontline.lrc"],
-            "artist": "GURIRI",
-            "maker": "GIRLFRONT",
-            "tags": ["GURIRI", "GIRLFRONT", "VTUBER", "GAME"],
-            "atrys": ["GF DJMAX"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Only For You",
-            "f": "Only For You",
-            "m": ["Only For You/Only For You.mp3", "Only For You/Only For You.lrc"],
-            "artist": "LEEJEAE",
-            "maker": "DJMAX",
-            "tags": ["LEEJEAE", "GIRLFRONT", "DJMAX", "GAME"],
-            "atrys": ["GF DJMAX"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "샤이닝스타",
-            "f": "シャイニングスター",
-            "m": [
-                "シャイニングスター/シャイニングスター.mp3",
-                "シャイニングスター/シャイニングスター.lrc"
-            ],
-            "tags": ["MAHOU", "GAME", "SHIHO"],
-            "artist": "SHIHO",
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "빛난다면",
-            "f": "光るなら",
-            "m": ["光るなら/光るなら.mp3", "光るなら/光るなら.lrc"],
-            "artist": "KAORI(四月は君の嘘)",
-            "maker": "GOOSEHOUSE",
-            "tags": ["四月は君の嘘", "KAORI(四月は君の嘘)", "GOOSEHOUSE", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "겨울의 에필로그",
-            "f": "冬のエピローグ",
-            "m": ["光るなら/冬のエピローグ.mp3", "光るなら/冬のエピローグ.lrc"],
-            "artist": "KAORI(四月は君の嘘)",
-            "maker": "GOOSEHOUSE",
-            "tags": ["四月は君の嘘", "KAORI(四月は君の嘘)", "GOOSEHOUSE", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "모두 미쿠미쿠하게 해줄게♪",
-            "f": "みんなみくみくにしてあげる♪",
-            "m": [
-                "みんなみくみくにしてあげる/みんなみくみくにしてあげる♪ (ja).mp3",
-                "みんなみくみくにしてあげる/みんなみくみくにしてあげる♪ (ko by sodadayo20).mp3"
-            ],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3,
-            "atrys": [
-                "みくみくにしてあげる♪【してやんよ】",
-                "みくみくにしてあげる♪",
-                "みんなみくみくにしてあげる"
-            ]
-        },
-        {
-            "n": "사운드",
-            "f": "サウンド",
-            "m": ["サウンド/サウンド.mp3"],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "손에 손잡고",
-            "f": "Hand in Hand",
-            "m": ["Hand in Hand/Hand in Hand.mp3"],
-            "artist": "MIKU",
-            "maker": "LIVETUNE(KZ)",
-            "tags": ["MIKU", "VOCALOID", "LIVETUNE(KZ)"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "스노우 할레이션",
-            "f": "Snow halation",
-            "m": [
-                "Snow halation/Snow Halation (ko ver by jomin398).mp3",
-                "Snow halation/Snow halation.mp3",
-                "Snow halation/Hanayo (Short ver).vmd",
-                "Snow halation/Honoka (Short ver).vmd",
-                "Snow halation/Kotori (Short ver).vmd",
-                "Snow halation/Maki (Short ver).vmd",
-                "Snow halation/Nico (Short ver).vmd",
-                "Snow halation/Nozomi (Short ver).vmd",
-                "Snow halation/Rin (Short ver).vmd",
-                "Snow halation/Umi (Short ver).vmd",
-                "Snow halation/Camera (Short ver).vmd",
-                "Snow halation/Eri (Short ver).vmd"
-            ],
-            "artist": "MUS",
-            "maker": "BOHANYU",
-            "another": ["MIKU"],
-            "raw": true,
-            "r": 3,
-            "tags": ["MIKU", "VOCALOID", "MUS", "µ's", "SNOW"]
-        },
-        {
-            "n": "패키지",
-            "f": "Packaged",
-            "m": [
-                "Packaged/Packaged (ko ver by sodadayo20).mp3",
-                "Packaged/Packaged.mp3"
-            ],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3,
-            "atrys": ["サウンド"]
-        },
-        {
-            "n": "착각성 반 희망증",
-            "f": "勘違い性反希望症",
-            "m": [
-                "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.mp3",
-                "勘違い性反希望症/勘違い性反希望症 (ko ver by sodadayo20).mp3",
-                "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.lrc"
-            ],
-            "artist": "MIKU",
-            "maker": "DECO*27",
-            "tags": ["MIKU", "VOCALOID", "DECO*27"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "밤을 달리다",
-            "f": "夜に駆ける",
-            "m": ["夜に駆ける/夜に駆ける.mp3"],
-            "maker": "YOASOBI",
-            "tags": ["VOCALOID", "YOASOBI"],
-            "raw": true,
-            "r": 3,
-            "atrys": ["[YOASOBI] 夜に駆ける"]
-        },
-        {
-            "n": "튜링 러브",
-            "f": "チューリングラブ",
-            "m": [
-                "チューリングラブ/チューリングラブ (by sodadayo20).mp3",
-                "チューリングラブ/チューリングラブ.mp3",
-                "チューリングラブ/チューリングラブ.lrc"
-            ],
-            "artist": "NANAOAKARI",
-            "maker": "NAYUTAN",
-            "another": ["MIKU"],
-            "tags": ["MIKU", "VOCALOID", "NANAOAKARI", "NAYUTAN", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "방해쟁이 2",
-            "f": "おじゃま虫Ⅱ",
-            "m": ["おじゃま虫Ⅱ/おじゃま虫Ⅱ.mp3", "おじゃま虫Ⅱ/おじゃま虫Ⅱ.lrc"],
-            "artist": "MIKU",
-            "maker": "DECO*27",
-            "tags": ["MIKU", "VOCALOID", "DECO*27"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Let you DIVE!",
-            "m": ["WACCA/Let you DIVE!.mp3"],
-            "artist": "ELIZABETH(WACCA)",
-            "maker": "WACCA",
-            "tags": ["WACCA", "ELIZABETH(WACCA)", "GAME"],
-            "atrys": ["WACCA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "어드밴쳐 (Ouverture)",
-            "f": "Ouverture",
-            "m": ["WACCA/Ouverture.mp3"],
-            "artist": "RIN(WACCA)",
-            "maker": "WACCA",
-            "tags": ["WACCA", "RIN(WACCA)", "GAME"],
-            "atrys": ["WACCA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "With U",
-            "f": "with U",
-            "m": ["WACCA/with U.mp3"],
-            "artist": "LILY(WACCA)",
-            "maker": "WACCA",
-            "tags": ["WACCA", "LILY(WACCA)", "GAME"],
-            "atrys": ["WACCA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "DIVE with U",
-            "m": ["WACCA/DIVE with U.mp3"],
-            "artist": "ELIZABETH(WACCA),LILY(WACCA),RIN(WACCA)",
-            "maker": "WACCA",
-            "tags": [
-                "WACCA",
-                "ELIZABETH(WACCA)",
-                "LILY(WACCA)",
-                "RIN(WACCA)",
-                "GAME"
-            ],
-            "atrys": ["WACCA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "페코미코 대전쟁!!",
-            "f": "ぺこみこ大戦争!!",
-            "m": ["WACCA/ぺこみこ大戦争!!.mp3"],
-            "artist": "PEKORA(HOLOLIVE),MIKO(HOLOLIVE)",
-            "maker": "REDALICE",
-            "tags": [
-                "WACCA",
-                "REDALICE",
-                "VTUBER",
-                "HOLOLIVE",
-                "PEKORA(HOLOLIVE)",
-                "MIKO(HOLOLIVE)",
-                "GAME"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "벛꽃 바람",
-            "f": "サクラカゼ",
-            "m": ["サクラカゼ/サクラカゼ.mp3"],
-            "artist": "MIKO(HOLOLIVE)",
-            "tags": ["VTUBER", "HOLOLIVE", "MIKO(HOLOLIVE)", "SAKURA"],
-            "atrys": ["桜風", "桜カゼ"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Ha･lle･lu･jah",
-            "f": "Ha lle lu jah",
-            "m": [
-                "Ha lle lu jah/Ha･lle･lu･jah.mp3",
-                "Ha lle lu jah/Ha･lle･lu･jah.lrc"
-            ],
-            "artist": "TAKAHASHINANA",
-            "maker": "SOUNDHOLIC",
-            "tags": ["SDVX", "TAKAHASHINANA", "SOUNDHOLIC", "GAME"],
-            "atrys": ["Ha lle lu jah"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "두근콩닥★유성우",
-            "f": "ときめき★メテオストライク",
-            "m": [
-                "ときめき★メテオストライク/ときめき★メテオストライク (Short ver).mp3"
-            ],
-            "artist": "MINASEMINAMI",
-            "tags": ["MINASEMINAMI", "GAME"],
-            "atrys": ["ときめき メテオストライク"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "로키",
-            "f": "ロキ",
-            "m": ["ロキ/ロキ.mp3", "ロキ/ロキ - ナナヲアカリ.mp3"],
-            "artist": "MIKU",
-            "another": ["NANAOAKARI"],
-            "tags": ["MIKU", "VOCALOID", "NANAOAKARI"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ほうき星",
-            "m": [
-                "ほうき星/ほうき星.mp3",
-                "ほうき星/ほうき星 (ja ver by Tripshots)",
-                "ほうき星/ほうき星 (ko ver by sodadayo20).mp3"
-            ],
-            "artist": "YOUNHA",
-            "another": ["MIKU"],
-            "maker": "TRIPSHOTS",
-            "tags": ["MIKU", "VOCALOID", "HOUKIBOSHI", "YOUNHA", "TRIPSHORTS"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Shooting Star",
-            "m": ["EverSoul/Shooting Star.mp3", "EverSoul/Shooting Star.lrc"],
-            "artist": "JANGYENA",
-            "maker": "EVERSOUL",
-            "tags": ["JANGYENA", "EVERSOUL", "LABY(ELSOWORD)"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "花になって",
-            "m": ["EverSoul/꽃이 되어.mp3"],
-            "artist": "JANGYENA",
-            "maker": "EVERSOUL",
-            "tags": ["JANGYENA", "EVERSOUL", "LABY(ELSOWORD)"],
-            "atrys": ["EverSoul"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "댄스 로봇 댄스",
-            "f": "ダンスロボットダンス",
-            "m": [
-                "ダンスロボットダンス/ダンスロボットダンス.mp3",
-                "ダンスロボットダンス/ダンスロボットダンス - ナナヲアカリ"
-            ],
-            "artist": "MIKU",
-            "another": ["NANAOAKARI"],
-            "maker": "NAYUTAN",
-            "tags": ["MIKU", "VOCALOID", "NAYUTAN", "NANAOAKARI"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "사랑이 있는 듯 없는 듯 있어",
-            "f": "アイがあるようでないようである",
-            "m": [
-                "アイがあるようでないようである/アイがあるようでないようである.mp3"
-            ],
-            "artist": "NANAOAKARI",
-            "maker": "NAYUTAN",
-            "tags": ["NAYUTAN", "NANAOAKARI"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "디스코뮤성인",
-            "f": "ディスコミュ星人",
-            "m": ["ディスコミュ星人/ディスコミュ星人.mp3"],
-            "artist": "NANAOAKARI",
-            "maker": "NAYUTAN",
-            "tags": ["NAYUTAN", "NANAOAKARI"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "별빛 쏟아지던 날의 너",
-            "f": "Falling starlights",
-            "m": ["GRANSAGA/별빛 쏟아지던 날의 너.mp3"],
-            "artist": "QUYI(GRANSAGA)",
-            "maker": "GRANSAGA",
-            "tags": ["JANGYENA", "GRANSAGA", "GAME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "작은 빛이지만",
-            "f": "小さな光だけど",
-            "m": ["小さな光だけど/小さな光だけど.mp3"],
-            "artist": "MIKU",
-            "maker": "ICHINOSELUPO",
-            "tags": ["MIKU", "VOCALOID", "ICHINOSELUPO"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "링크 링크 피버!!!",
-            "f": "LINK LINK FEVER!!!",
-            "m": ["LINK LINK FEVER!!!/LINK LINK FEVER!!!.mp3"],
-            "artist": "LINNKA(GROOVECOASTER)",
-            "tags": ["GROOVECOASTER", "TOYOTAMOE", "GAME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "이어지는 커넥트",
-            "f": "ツナガルコネクト",
-            "m": [
-                "サイコーハート／La Bella Patria／ツナガルコネクト/ツナガルコネクト.mp3"
-            ],
-            "artist": "TENNOJIRINA(LOVELIVE)",
-            "maker": "DECO*27",
-            "tags": [
-                "TENNOJIRINA(LOVELIVE)",
-                "TANAKACHIEMI",
-                "NIJISANJI",
-                "LOVELIVE",
-                "DECO*27"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "전전전생",
-            "f": "前前前世",
-            "m": ["前前前世/前前前世.mp3"],
-            "artist": "RADWIMPS",
-            "tags": ["RADWIMPS", "KIMINAMA", "KIMINONAMAEWA"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "너랑 나 (AGF2022 테마곡)",
-            "f": "YOU&I (AGF2022)",
-            "m": ["AGF/YOU&I (AGF2022).mp3", "AGF/YOU&I (AGF2022).lrc"],
-            "artist": "RAON",
-            "maker": "AGF",
-            "tags": ["AGF", "RAON", "ANIME", "GAME", "EXTRA", "THEME", "FESTIVAL"],
-            "atrys": ["AGF"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "격! 제국화격단",
-            "f": "檄！帝国華撃団",
-            "m": ["檄！帝国華撃団/檄！帝国華撃団.mp3"],
-            "artist": "AYA(POPPIN'PARTY),KOKORO(POPPIN'PARTY)",
-            "maker": "POPPIN'PARTY",
-            "tags": [
-                "BANGDREAM",
-                "POPPIN'PARTY",
-                "ITOUMIKU",
-                "MAESHIMAAMI",
-                "KOKORO(POPPIN'PARTY)",
-                "AYA(POPPIN'PARTY)"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "INSIDE IDENTITY",
-            "m": [
-                "INSIDE IDENTITY/INSIDE IDENTITY.mp3",
-                "INSIDE IDENTITY/INSIDE IDENTITY.lrc"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Super☆Affection",
-            "m": [
-                "Super☆Affection/Super☆Affection.mp3",
-                "Super☆Affection/Super☆Affection.lrc"
-            ],
-            "artist": "TAKAHASHIRIE,TANAKAMINAMI,OKUBORUMI,YUKIAOI,TOYAMANAO,SAKURAAYANE,HAYAMISAORI,KAWASUMIAYAKO,UEDAKANA,TANGESAKURA,KADOWAKIMAII,ENDOMASAAKI",
-            "maker": "FATEGRANDCANIVAL",
-            "tags": [
-                "FATE",
-                "CANIVAL",
-                "FESTIVAL",
-                "OST",
-                "TAKAHASHIRIE",
-                "TANAKAMINAMI",
-                "OKUBORUMI",
-                "YUKIAOI",
-                "TOYAMANAO",
-                "SAKURAAYANE",
-                "HAYAMISAORI",
-                "KAWASUMIAYAKO",
-                "UEDAKANA",
-                "TANGESAKURA",
-                "KADOWAKIMAII",
-                "ENDOMASAAKI"
-            ],
-            "atrys": ["Super Affection"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Make debut!",
-            "artist": "MACHICO,ONISHISAORI",
-            "maker": "UMAMUSUME",
-            "album": "ウマ娘 プリティーダービー Make debut!",
-            "m": [
-                "ウマ娘 プリティーダービー Make debut!/Make debut!.mp3",
-                "ウマ娘 プリティーダービー Make debut!/Make debut!.lrc"
-            ],
-            "tags": [
-                "UMAMUSUME",
-                "MACHICO",
-                "OHASHIAYAKA",
-                "KIMURACHISA",
-                "UEDAHITOMI",
-                "ONISHISAORI"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "七色の景色",
-            "artist": "MACHICO,ONISHISAORI",
-            "maker": "UMAMUSUME",
-            "album": "ウマ娘 プリティーダービー Make debut!",
-            "m": ["ウマ娘 プリティーダービー Make debut/七色の景色.mp3"],
-            "tags": [
-                "UMAMUSUME",
-                "MACHICO",
-                "OHASHIAYAKA",
-                "KIMURACHISA",
-                "UEDAHITOMI",
-                "ONISHISAORI",
-                "GAME",
-                "ANIME"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "心想い",
-            "album": "TVアニメ 「プリンセスコネクト!ReDive」 心想い ～ココロオモイ～",
-            "m": [
-                "プリンセスコネクト!ReDive/心想い.mp3",
-                "プリンセスコネクト!ReDive/心想い.lrc"
-            ],
-            "tags": ["PRINCESSCONNECTREDIVE", "PRINCONE", "GAME", "ANIME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Preview",
-            "m": ["Preview/Preview.mp3"],
-            "artist": "UCHIDAAYA",
-            "album": "Preview／内田彩",
-            "tags": ["UCHIDAAYA", "ANIME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "恋の花びらをね",
-            "m": [
-                "恋の花びらをね/恋の花びらをね.mp3",
-                "恋の花びらをね/恋の花びらをね.lrc"
-            ],
-            "artist": "OKUBORUMI",
-            "tags": ["OKUBORUMI", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "片瀬てれりこ研究所のテーマ",
-            "m": ["恋の花びらをね/片瀬てれりこ研究所のテーマ.mp3"],
-            "tags": ["ANIME"],
-            "atrys": ["恋の花びらをね"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "キラメキサイクル",
-            "m": ["恋の花びらをね/キラメキサイクル.mp3"],
-            "tags": ["ANIME"],
-            "atrys": ["恋の花びらをね"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "きゅぴーん☆アイドル宣言",
-            "m": [
-                "きゅぴーん☆アイドル宣言/きゅぴーん☆アイドル宣言.mp3",
-                "きゅぴーん☆アイドル宣言/きゅぴーん☆アイドル宣言.lrc"
-            ],
-            "artist": "OKUBORUMI",
-            "maker": "ALTERNA",
-            "album": "きゅぴーん☆アイドル宣言「オルタナティブガルーズ」キャラクターソング",
-            "tags": ["ALTERNA", "SAKURA", "OKUBORUMI", "GAME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "계절을 끌어안고서",
-            "f": "季節を抱きしめて",
-            "m": [
-                "冴えない彼女の育てかた/季節を抱きしめて.mp3",
-                "冴えない彼女の育てかた/季節を抱きしめて (piano ver by 大藤史).mp3",
-                "冴えない彼女の育てかた/季節を抱きしめて - 大藤史.mp3"
-            ],
-            "artist": "KATOUMEGUMI(SAEKANO)",
-            "another": ["OTOFUMI"],
-            "maker": "SAEKANO",
-            "tags": [
-                "KATOUMEGUMI(SAEKANO)",
-                "YASUNOKIYONO",
-                "OTOFUMI",
-                "SAEKANO",
-                "ANIME",
-                "GAME",
-                "KISETSUWODAKISIMETE"
-            ],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "타임 리미트",
-            "f": "タイムリミット",
-            "m": ["タイムリミット/タイムリミット.mp3"],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3,
-            "atrys": ["サウンド"]
-        },
-        {
-            "n": "하얀 편지",
-            "f": "white Letter",
-            "m": ["white Letter/white Letter.mp3", "white Letter/white Letter.lrc"],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "raw": true,
-            "r": 3,
-            "atrys": ["サウンド"]
-        },
-        {
-            "n": "소원",
-            "f": "Wish",
-            "m": [
-                "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.mp3",
-                "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.lrc"
-            ],
-            "artist": "LAFFEY(アズールレーン)",
-            "tags": [
-                "AZURLANE",
-                "LAFFEY(アズールレーン)",
-                "NAGANAWAMARIA",
-                "ANIME",
-                "GAME"
-            ],
-            "raw": true,
-            "r": 3,
-            "atrys": ["BNA", "AZURLANE"]
-        },
-        {
-            "n": "데비 큐트~",
-            "f": "デビきゅー",
-            "m": ["デビきゅー/デビきゅー.mp3", "デビきゅー/デビきゅー.lrc"],
-            "artist": "SERIZAWAYU",
-            "tags": ["SERIZAWAYU", "ANIME", "MAHOU", "MAKAI"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "BANZAI! digital trippers feat.初音ミク",
-            "m": [
-                "Aqours/BANZAI! digital trippers feat.初音ミク.mp3",
-                "Aqours/BANZAI! digital trippers feat.初音ミク.lrc"
-            ],
-            "artist": "AQOURS(LOVELIVE),MIKU",
-            "tags": ["VOCALOID", "MIKU", "LOVELIVE", "AQOURS(LOVELIVE)"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Dear Moments",
-            "artist": "ATRI",
-            "m": ["AkaoHikaru/Dear Moments.mp3", "AkaoHikaru/Dear Moments.lrc"],
-            "album": "ATRI - My Dear Moments",
-            "tags": ["ATRI", "AKAOHIKARU", "ANIME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "아름다운 고향",
-            "f": "La Bella Patria",
-            "m": [
-                "サイコーハート／La Bella Patria／ツナガルコネクト/La Bella Patria.mp3"
-            ],
-            "tags": ["LOVELIVE", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "최고의 하트",
-            "f": "サイコーハート",
-            "m": [
-                "サイコーハート／La Bella Patria／ツナガルコネクト/サイコーハート.mp3"
-            ],
-            "tags": ["LOVELIVE", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "각성 ~교차하는 마음~",
-            "f": "覚醒~Alternative Heart~",
-            "m": [
-                "覚醒~Alternative Heart~/覚醒~Alternative Heart~.mp3",
-                "覚醒~Alternative Heart~/覚醒~Alternative Heart~.lrc"
-            ],
-            "artist": "ALTERNA",
-            "maker": "ALTERNA",
-            "tags": ["ALTERNA", "OKUBORUMI", "GAME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "무지게 (STAND BY ME)",
-            "f": "虹",
-            "m": ["虹/虹.mp3", "虹/虹 - 初音ミク.mp3", "虹/虹.lrc"],
-            "tags": ["VOCALOID", "MIKU", "STANDBYME", "DORAEMON", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "최악의 날이라 해도 당신이 좋아",
-            "f": "最悪な日でもあなたが好き",
-            "m": [
-                "最悪な日でもあなたが好き/最悪な日でもあなたが好き.mp3",
-                "最悪な日でもあなたが好き/最悪な日でもあなたが好き - 初音ミク.mp3",
-                "最悪な日でもあなたが好き/最悪な日でもあなたが好き.lrc"
-            ],
-            "artist": "SERIZAWAYU",
-            "another": ["MIKU"],
-            "tags": ["SERIZAWAYU", "MAKAI", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "신×태양×썸머 파티",
-            "f": "神×太陽×サマーパーティ",
-            "m": ["最悪な日でもあなたが好き/神×太陽×サマーパーティ.mp3"],
-            "artist": "SERIZAWAYU",
-            "tags": ["FESTIVAL", "SERIZAWAYU", "ANIME"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "맛은 전부 다 맛있을거야!",
-            "f": "Tasty All Right!",
-            "m": [
-                "Tasty All Right!/Tasty All Right!.mp3",
-                "Tasty All Right!/Tasty All Right!.lrc"
-            ],
-            "artist": "HANI(EXID)",
-            "tags": ["EXID", "HANI(EXID)", "GAME", "TASTYSAGA"],
-            "atrys": ["TASTYSAGA"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "비밀기지",
-            "f": "Secret base",
-            "m": [
-                "Secret base 〜君がくれたもの〜/Secret base.mp3",
-                "Secret base 〜君がくれたもの〜/Secret base - 설레임&쁘띠허브.mp3",
-                "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3",
-                "Secret base 〜君がくれたもの〜/Secret base.lrc"
-            ],
-            "artist": "KAYANOAI,TOMATSUHARUKA,HAYAMISAORI",
-            "tags": [
-                "PRETTYHERB(JEONSOHEE)",
-                "SEOLREIM",
-                "VTUBER",
-                "ANOHANA",
-                "ANIME",
-                "KAYANOAI",
-                "TOMATSUHARUKA",
-                "HAYAMISAORI"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Wish Ness",
-            "f": "WISHNESS",
-            "m": ["WISHNESS/WISHNESS.mp3", "WISHNESS/WISHNESS.lrc"],
-            "artist": "AYANAMI(アズールレーン),LAFFEY(アズールレーン),Z23(アズールレーン),JAVELIN(アズールレーン)",
-            "maker": "AZURLANE",
-            "tags": [
-                "AYANAMI(アズールレーン)",
-                "LAFFEY(アズールレーン)",
-                "Z23(アズールレーン)",
-                "JAVELIN(アズールレーン)",
-                "AZURLANE",
-                "GAME"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Prayer",
-            "f": "Prayer",
-            "m": ["SIDSOUND/Prayer.mp3", "SIDSOUND/Prayer.lrc"],
-            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": [
-                "SIDSOUND",
-                "GAME",
-                "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)",
-                "SQUAREMUSIQ"
-            ],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Selfishness",
-            "f": "Selfishness",
-            "m": ["SIDSOUND/Selfishness.mp3", "SIDSOUND/Selfishness.lrc"],
-            "artist": "서량(SIDSOUND)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "서량(SIDSOUND)"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Shooting star",
-            "f": "Shooting star",
-            "m": ["SIDSOUND/Shooting star.mp3", "SIDSOUND/Shooting star.lrc"],
-            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": [
-                "SIDSOUND",
-                "GAME",
-                "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)",
-                "SQUAREMUSIQ"
-            ],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "그건 이상한 오후",
-            "f": "그건 이상한 오후",
-            "m": ["SIDSOUND/그건 이상한 오후.mp3", "SIDSOUND/그건 이상한 오후.lrc"],
-            "artist": "서량(SIDSOUND)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "서량(SIDSOUND)", "엔딩이후의세계"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "달리는 별빛처럼",
-            "f": "달리는 별빛처럼",
-            "m": ["SIDSOUND/달리는 별빛처럼.mp3", "SIDSOUND/달리는 별빛처럼.lrc"],
-            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ),LUCY(SQUAREMUSIQ),VIN(SIDSOUND)",
-            "maker": "SIDSOUND",
-            "tags": [
-                "SIDSOUND",
-                "GAME",
-                "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)",
-                "LUCY(SQUAREMUSIQ)",
-                "VIN(SIDSOUND)",
-                "SQUAREMUSIQ"
-            ],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "별에게 소원을",
-            "f": "별에게 소원을",
-            "m": ["SIDSOUND/별에게 소원을.mp3", "SIDSOUND/별에게 소원을.lrc"],
-            "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": [
-                "SIDSOUND",
-                "GAME",
-                "서량(SIDSOUND)",
-                "BANAMI(SQUAREMUSIQ)",
-                "SQUAREMUSIQ"
-            ],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "비나리",
-            "f": "비나리",
-            "m": ["SIDSOUND/비나리.mp3", "SIDSOUND/비나리.lrc"],
-            "artist": "서량(SIDSOUND)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "서량(SIDSOUND)"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "환상동화",
-            "f": "환상동화",
-            "m": ["SIDSOUND/환상동화.mp3", "SIDSOUND/환상동화.lrc"],
-            "artist": "BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Drawing In My Heart",
-            "f": "Drawing In My Heart",
-            "m": [
-                "SIDSOUND/Drawing In My Heart.mp3",
-                "SIDSOUND/Drawing In My Heart.lrc"
-            ],
-            "artist": "로리체슬(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "로리체슬(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Light breeze",
-            "f": "Light breeze",
-            "m": ["SIDSOUND/Light breeze.mp3", "SIDSOUND/Light breeze.lrc"],
-            "artist": "로리체슬(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "로리체슬(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "수성",
-            "f": "Mercury",
-            "m": ["SIDSOUND/Mercury.mp3", "SIDSOUND/Mercury.lrc"],
-            "artist": "BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Save Your Smile",
-            "f": "Save Your Smile",
-            "m": ["SIDSOUND/Save Your Smile.mp3", "SIDSOUND/Save Your Smile.lrc"],
-            "artist": "NARAE(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "NARAE(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "북극성",
-            "f": "Polaris",
-            "m": ["SIDSOUND/Polaris.mp3", "SIDSOUND/Polaris.lrc"],
-            "artist": "BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "날개",
-            "f": "날개",
-            "m": ["SIDSOUND/날개.mp3", "SIDSOUND/날개.lrc"],
-            "artist": "로리체슬(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "로리체슬(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "루돌프 캐롤",
-            "f": "루돌프 캐롤",
-            "m": ["SIDSOUND/루돌프 캐롤.mp3", "SIDSOUND/루돌프 캐롤.lrc"],
-            "artist": "ELIKA(SIDSOUND)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "ELIKA(SIDSOUND)"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "이제부터 진검승부",
-            "f": "이제부터 진검승부",
-            "m": ["SIDSOUND/이제부터 진검승부.mp3", "SIDSOUND/이제부터 진검승부.lrc"],
-            "artist": "BANAMI(SQUAREMUSIQ)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "하늬바람 높새바람",
-            "f": "하늬바람 높새바람",
-            "m": ["SIDSOUND/하늬바람 높새바람.mp3", "SIDSOUND/하늬바람 높새바람.lrc"],
-            "artist": "ELIKA(SIDSOUND)",
-            "maker": "SIDSOUND",
-            "tags": ["SIDSOUND", "GAME", "ELIKA(SIDSOUND)"],
-            "atrys": ["SIDSOUND"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "스마일",
-            "f": "Smile",
-            "m": [
-                "SIDSOUND/Smile.mp3",
-                "SIDSOUND/Smile - 初音ミク.mp3",
-                "SIDSOUND/Smile.lrc"
-            ],
-            "artist": "BANAMI(SQUAREMUSIQ)",
-            "maker": "MAPLESTORY",
-            "album": "Rising Star",
-            "tags": [
-                "SIDSOUND",
-                "GAME",
-                "BANAMI(SQUAREMUSIQ)",
-                "SQUAREMUSIQ",
-                "MIKU",
-                "VOCALOID",
-                "MAPLESTORY"
-            ],
-            "another": ["MIKU"],
-            "atrys": ["SIDSOUND", "Smile feat.初音ミク"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "별빛",
-            "f": "STARLIGHT",
-            "m": ["STARLIGHT/STARLIGHT.mp3", "STARLIGHT/STARLIGHT.lrc"],
-            "artist": "LUCY(SQUAREMUSIQ)",
-            "maker": "SQUAREMUSIQ",
-            "tags": [
-                "SQUAREMUSIQ",
-                "GAME",
-                "LUCY(SQUAREMUSIQ)",
-                "꿈꾸는별빛의플레이아데스",
-                "THEME"
-            ],
-            "atrys": ["SQUAREMUSIQ"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "HappyDays☆",
-            "m": ["HappyDays☆/HappyDays☆.mp3", "HappyDays☆/HappyDays☆.lrc"],
-            "artist": "OKUBORUMI",
-            "tags": ["YUYUSHIKI", "OKUBORUMI", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "笑顔で Going Up",
-            "m": [
-                "もっと Be My Power&笑顔でgoing up/笑顔で Going Up.mp3",
-                "もっと Be My Power&笑顔でgoing up/笑顔で Going Up.lrc"
-            ],
-            "artist": "ITOUMIKU",
-            "album": "もっと Be My Power!/笑顔でgoing up!",
-            "tags": ["ITOUMIKU", "ALTERNA", "GAME"],
-            "atrys": ["もっと Be My Power&笑顔でgoing up"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "もっと Be My Power",
-            "m": [
-                "もっと Be My Power&笑顔でgoing up/もっと Be My Power.mp3",
-                "もっと Be My Power&笑顔でgoing up/もっと Be My Power.lrc"
-            ],
-            "album": "もっと Be My Power!/笑顔でgoing up!",
-            "artist": "TAKETATSUAYANA",
-            "tags": ["TAKETATSUAYANA", "ALTERNA", "GAME"],
-            "atrys": ["もっと Be My Power&笑顔でgoing up"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "私はNo 1！",
-            "m": ["私はNo 1！/私はNo 1！.mp3", "私はNo 1！/私はNo 1！.lrc"],
-            "artist": "SANDIEGO(アズールレーン)",
-            "album": "私はNo 1！",
-            "maker": "AZURLANE",
-            "tags": ["ITOUASUKA", "SANDIEGO(アズールレーン)", "AZURLANE", "GAME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "木漏れ日のエール",
-            "m": [
-                "木漏れ日のエール/木漏れ日のエール.mp3",
-                "木漏れ日のエール/木漏れ日のエール.lrc"
-            ],
-            "artist": "MACHICO,ONISHISAORI",
-            "maker": "UMAMUSUME",
-            "album": "NIMATION DERBY Season 2 vol.2",
-            "tags": [
-                "UMAMUSUME",
-                "MACHICO",
-                "ONISHISAORI",
-                "ELIZABETH(WACCA)",
-                "GAME",
-                "ANIME"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ささやかな祈り",
-            "m": [
-                "木漏れ日のエール/ささやかな祈り.mp3",
-                "木漏れ日のエール/ささやかな祈り.lrc"
-            ],
-            "artist": "IWAMIMANAKA",
-            "maker": "UMAMUSUME",
-            "album": "NIMATION DERBY Season 2 vol.2",
-            "tags": ["UMAMUSUME", "IWAMIMANAKA", "GAME", "ANIME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ヒバナ",
-            "m": ["AndroidGirl/ヒバナ.mp3", "AndroidGirl/ヒバナ.lrc"],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID", "DECO*27"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ゴーストルール",
-            "m": ["GHOST/ゴーストルール.mp3", "GHOST/ゴーストルール.lrc"],
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID", "DECO*27"],
-            "atrys": ["GHOST"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "イセカイジュエリー",
-            "m": [
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー.lrc",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - エルゼ.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - スゥ.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ヒルデガルド.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ユミナ.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - リーン.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - リンゼ.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ルーシア.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - 八重.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - 桜.mp3"
-            ],
-            "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ),ルーシア(高木美佑),ヒルデガルド(芹澤優),桜(久保田未夢)",
-            "tags": [
-                "ISESUMA",
-                "ANIME",
-                "ユミナ(高野麻里佳)",
-                "エルゼ(内田真礼)",
-                "リンゼ(福緒唯)",
-                "八重(赤﨑千夏)",
-                "スゥシィ(山下七海)",
-                "リーン(上坂すみれ)",
-                "ルーシア(高木美佑)",
-                "ヒルデガルド(芹澤優)",
-                "桜(久保田未夢)",
-                "KONOMARIKA",
-                "UCHIDAAYA",
-                "FUKUOYUI",
-                "AKASAKICHINATSU",
-                "YAMASHITANANAMI",
-                "UESAKASUMIRE",
-                "TAKAGIMIYU",
-                "SERIZAWAYU",
-                "KUBOTAMIYU",
-                "OST"
-            ],
-            "atrys": ["リアルダイヤモンド／イセカイジュエリー"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "リアルダイヤモンド",
-            "m": [
-                "リアルダイヤモンド／イセカイジュエリー/リアルダイヤモンド.mp3",
-                "リアルダイヤモンド／イセカイジュエリー/リアルダイヤモンド.lrc"
-            ],
-            "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ),ルーシア(高木美佑),ヒルデガルド(芹澤優),桜(久保田未夢)",
-            "tags": [
-                "ISESUMA",
-                "ANIME",
-                "ユミナ(高野麻里佳)",
-                "エルゼ(内田真礼)",
-                "リンゼ(福緒唯)",
-                "八重(赤﨑千夏)",
-                "スゥシィ(山下七海)",
-                "リーン(上坂すみれ)",
-                "ルーシア(高木美佑)",
-                "ヒルデガルド(芹澤優)",
-                "桜(久保田未夢)",
-                "KONOMARIKA",
-                "UCHIDAAYA",
-                "FUKUOYUI",
-                "AKASAKICHINATSU",
-                "YAMASHITANANAMI",
-                "UESAKASUMIRE",
-                "TAKAGIMIYU",
-                "SERIZAWAYU",
-                "KUBOTAMIYU",
-                "OST"
-            ],
-            "atrys": ["リアルダイヤモンド／イセカイジュエリー"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "For you～月の光が降り注ぐテラス",
-            "m": [
-                "光るなら/For you～月の光が降り注ぐテラス.mp3",
-                "光るなら/For you～月の光が降り注ぐテラス.lrc"
-            ],
-            "artist": "澤部椿(佐倉綾音)",
-            "maker": "GOOSEHOUSE",
-            "tags": ["四月は君の嘘", "澤部椿(佐倉綾音)", "GOOSEHOUSE", "ANIME"],
-            "atrys": ["光るなら"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "My Truth～ロンド・カプリチオーソ",
-            "m": [
-                "光るなら/My Truth～ロンド・カプリチオーソ.mp3",
-                "光るなら/My Truth～ロンド・カプリチオーソ.lrc"
-            ],
-            "artist": "KAORI(四月は君の嘘)",
-            "maker": "GOOSEHOUSE",
-            "tags": ["四月は君の嘘", "KAORI(四月は君の嘘)", "GOOSEHOUSE", "ANIME"],
-            "atrys": ["光るなら"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Sentimental Rain～愛の悲しみ",
-            "m": [
-                "光るなら/Sentimental Rain～愛の悲しみ.mp3",
-                "光るなら/Sentimental Rain～愛の悲しみ.lrc"
-            ],
-            "artist": "有馬公生(花江夏樹)",
-            "maker": "GOOSEHOUSE",
-            "tags": ["四月は君の嘘", "有馬公生(花江夏樹)", "GOOSEHOUSE", "ANIME"],
-            "atrys": ["光るなら"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "愛言葉 IV",
-            "m": ["愛言葉 IV/愛言葉 IV.mp3", "愛言葉 IV/愛言葉 IV.lrc"],
-            "artist": "MIKU",
-            "maker": "DECO*27",
-            "tags": ["DECO*27", "MIKU", "VOCALOID"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "最高速 Fall in Love",
-            "m": [
-                "最高速 Fall in Love/最高速 Fall in Love.mp3",
-                "最高速 Fall in Love/最高速 Fall in Love.lrc"
-            ],
-            "artist": "ミーア(雨宮天),パピ(小澤亜李),セントレア(相川奈都姫),スー(野村真悠華),メロ(山崎はるか),ラクネラ(中村桜)",
-            "album": "モンスター娘のいる日常",
-            "tags": [
-                "MONMUSU",
-                "ANIME",
-                "ミーア(雨宮天)",
-                "パピ(小澤亜李)",
-                "セントレア(相川奈都姫)",
-                "スー(野村真悠華)",
-                "メロ(山崎はるか)",
-                "ラクネラ(中村桜)"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "アナログハート",
-            "m": [
-                "アナログハート/アナログハート.mp3",
-                "アナログハート/アナログハート.lrc"
-            ],
-            "artist": "TENNOJIRINA(LOVELIVE)",
-            "album": "アナログハート",
-            "tags": [
-                "TENNOJIRINA(LOVELIVE)",
-                "TANAKACHIEMI",
-                "NIJISANJI",
-                "LOVELIVE",
-                "ANIME"
-            ]
-        },
-        {
-            "f": "Target for Love",
-            "m": [
-                "BlueArchive/Target for Love.mp3",
-                "BlueArchive/Target for Love (en ver).mp3",
-                "BlueArchive/Target for Love - GawrGura (en ver).mp3",
-                "BlueArchive/Target for Love - GawrGura (en ver).lrc",
-                "BlueArchive/Target For Love - 初音ミク.mp3",
-                "BlueArchive/Target for Love.lrc"
-            ],
-            "artist": "이진아",
-            "another": ["MIKU", "GAWRGURA(HOLOLIVE)", "天童アリス(TANAKAMINAMI)"],
-            "album": "Target for Love",
-            "tags": [
-                "MIKU",
-                "GAWRGURA(HOLOLIVE)",
-                "天童アリス(TANAKAMINAMI)",
-                "ANIME",
-                "GAME",
-                "BLUEARCHIVE",
-                "HOLOLIVE",
-                "VOCALOID"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Clear Morning",
-            "m": ["BlueArchive/Clear Morning.mp3", "BlueArchive/Clear Morning.lrc"],
-            "album": "Target for Love",
-            "artist": "OGURAYUI",
-            "tags": ["OGURAYUI", "ANIME", "GAME", "BLUEARCHIVE"],
-            "atrys": ["Target for Love"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "純情エモーショナル",
-            "m": [
-                "純情エモーショナル/純情エモーショナル.mp3",
-                "純情エモーショナル/純情エモーショナル.lrc"
-            ],
-            "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ)",
-            "tags": [
-                "ISESUMA",
-                "ANIME",
-                "ユミナ(高野麻里佳)",
-                "エルゼ(内田真礼)",
-                "リンゼ(福緒唯)",
-                "八重(赤﨑千夏)",
-                "スゥシィ(山下七海)",
-                "リーン(上坂すみれ)",
-                "KONOMARIKA",
-                "UCHIDAAYA",
-                "FUKUOYUI",
-                "AKASAKICHINATSU",
-                "YAMASHITANANAMI",
-                "UESAKASUMIRE",
-                "OST"
-            ],
-            "atrys": ["リアルダイヤモンド／イセカイジュエリー"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ューリングラブ",
-            "m": [
-                "ューリングラブ/ューリングラブ.mp3",
-                "ューリングラブ/ューリングラブ.lrc"
-            ],
-            "artist": "NANAOAKARI",
-            "maker": "NAYUTAN",
-            "tags": ["NANAOAKARI", "ANIME", "NAYUTAN"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ンルームシュガーライフ",
-            "m": [
-                "ューリングラブ/ンルームシュガーライフ.mp3",
-                "ューリングラブ/ンルームシュガーライフ - 湊あくあ.mp3",
-                "ューリングラブ/ンルームシュガーライフ.lrc"
-            ],
-            "artist": "NANAOAKARI",
-            "another": ["湊あくあ(HOLOLIVE)"],
-            "tags": ["NANAOAKARI", "ANIME", "湊あくあ(HOLOLIVE)", "HOLOLIVE"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ピヨ",
-            "m": ["ューリングラブ/ピヨ.mp3", "ューリングラブ/ピヨ.lrc"],
-            "artist": "NANAOAKARI",
-            "tags": ["NANAOAKARI", "ANIME"],
-            "atrys": ["ューリングラブ"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "ペダルハート",
-            "m": ["ペダルハート/ペダルハート.mp3", "ペダルハート/ペダルハート.lrc"],
-            "artist": "GUMI(VOCALOID)",
-            "maker": "DECO*27",
-            "tags": ["DECO*27", "GUMI(VOCALOID)", "VOCALOID"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "クライングハート",
-            "m": [
-                "クライングハート/クライングハート.mp3",
-                "クライングハート/クライングハート.lrc"
-            ],
-            "artist": "HANAZONOMEI,AMEBATSUKASA",
-            "maker": "ノラと皇女と野良猫ハート",
-            "album": "ノラと皇女と野良猫ハート2 OP 「クライングハート」",
-            "tags": [
-                "HANAZONOMEI",
-                "ISHIGAMISHIZUKA",
-                "AMEBATSUKASA",
-                "HATANAKAMARIE",
-                "ANIME",
-                "ノラと皇女と野良猫ハート",
-                "ノラネコ",
-                "GAME",
-                "THEME"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "アイル",
-            "m": ["アイル/アイル.mp3", "アイル/アイル.lrc"],
-            "artist": "JANGYENA",
-            "tags": ["JANGYENA", "ANIME", "GAME", "IDOLMASTER"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "あわい",
-            "m": ["あわい/あわい.mp3", "あわい/あわい.lrc"],
-            "artist": "KUMAKIANRI",
-            "album": "約束の七夜祭り",
-            "tags": ["KUMAKIANRI", "ANIME", "約束の七夜祭り", "THEME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Bad Apple",
-            "m": ["Bad Apple/Bad Apple.mp3", "Bad Apple/Bad Apple.lrc"],
-            "artist": "MIKU",
-            "maker": "東方PROJECT",
-            "tags": ["MIKU", "ANIME", "東方PROJECT", "OST"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Not A Hero",
-            "m": [
-                "Not A Hero/Not A Hero.mp3",
-                "Not A Hero/Not a Hero - 라라 (ko ver).mp3",
-                "Not A Hero/Not A Hero - 라라 (ko ver).lrc",
-                "Not A Hero/Not A Hero.lrc"
-            ],
-            "artist": "MITSUKINAKAE",
-            "another": ["LARA(DREAMNOTE)"],
-            "maker": "キングスレイド",
-            "album": "King's RAID",
-            "tags": [
-                "LARA(DREAMNOTE)",
-                "MITSUKINAKAE",
-                "キングスレイド",
-                "GAME",
-                "OST"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Try Everything",
-            "m": [
-                "Try Everything/Try Everything.mp3",
-                "Try Everything/Try Everything (ko ver).mp3",
-                "Try Everything/Try Everything (ko ver).lrc",
-                "Try Everything/Try Everything.lrc"
-            ],
-            "artist": "SHAKIRA",
-            "maker": "ZOOTOPIA",
-            "tags": ["SHAKIRA", "ANIME", "ZOOTOPIA", "OST"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "恋のEveryDay HappyDay",
-            "m": [
-                "恋のEveryDay HappyDay/恋のEveryDay HappyDay.mp3",
-                "恋のEveryDay HappyDay/恋のEveryDay HappyDay.lrc"
-            ],
-            "artist": "TAKETATSUAYANA",
-            "maker": "デート・ア・ライブ",
-            "tags": ["TAKETATSUAYANA", "ANIME", "デート・ア・ライブ", "OST"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "神のまにまに",
-            "n": "신의 뜻대로",
-            "m": [
-                "神のまにまに/神のまにまに.mp3",
-                "神のまにまに/神のまにまに.lrc",
-                "神のまにまに/神のまにまに - 鳳えむ.mp3",
-                "神のまにまに/motion.vmd"
-            ],
-            "artist": "MIKU,GUMI(VOCALOID),RIN(VOCALOID)",
-            "another": ["OTORIEMU"],
-            "maker": "れるりり",
-            "tags": [
-                "MIKU",
-                "GUMI(VOCALOID)",
-                "RIN(VOCALOID)",
-                "OTORIEMU",
-                "VOCALOID"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "へタクソな恋",
-            "n": "서투른 사랑",
-            "m": ["へタクソな恋/へタクソな恋.mp3", "へタクソな恋/へタクソな恋.lrc"],
-            "artist": "小日向千虎(VTUBER)",
-            "maker": "ASAPROJECT",
-            "album": "コイバナ恋愛",
-            "tags": [
-                "小日向千虎(VTUBER)",
-                "コイバナ",
-                "コイバナ恋愛",
-                "OST",
-                "ASAPROJECT",
-                "VTUBER"
-            ],
-            "atrys": ["コイバナ恋愛"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Longing for",
-            "m": ["Azurlane Anime/Longing for.mp3", "Azurlane Anime/Longing for.lrc"],
-            "artist": "新田恵海",
-            "maker": "AZURLANE",
-            "album": "Longing for!／まひるいろシエスタ",
-            "tags": ["高坂穂乃果(LOVELIVE)", "新田恵海", "LOVELIVE", "AZURLANE"],
-            "atrys": ["Longing for!／まひるいろシエスタ"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "まひるいろシエスタ",
-            "m": [
-                "Azurlane Anime/まひるいろシエスタ.mp3",
-                "Azurlane Anime/まひるいろシエスタ.lrc"
-            ],
-            "artist": "AURORA(AZURLANE)",
-            "maker": "AZURLANE",
-            "album": "Longing for!／まひるいろシエスタ",
-            "tags": ["AURORA(AZURLANE)", "榊原ゆい", "AZURLANE"],
-            "atrys": ["Longing for!／まひるいろシエスタ"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "CAFUNÉ",
-            "m": ["Azurlane Anime/CAFUNÉ.mp3", "Azurlane Anime/CAFUNÉ.lrc"],
-            "artist": "鹿乃(VTUBER)",
-            "maker": "AZURLANE",
-            "album": "光の道標",
-            "tags": ["鹿乃(VTUBER)", "AZURLANE"],
-            "atrys": ["光の道標"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "光の道標",
-            "m": ["Azurlane Anime/光の道標.mp3", "Azurlane Anime/光の道標.lrc"],
-            "artist": "鹿乃(VTUBER)",
-            "maker": "AZURLANE",
-            "album": "光の道標",
-            "tags": ["鹿乃(VTUBER)", "AZURLANE", "VTUBER"],
-            "atrys": ["光の道標"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "自由の暁",
-            "m": ["Azurlane Anime/自由の暁.mp3", "Azurlane Anime/自由の暁.lrc"],
-            "artist": "HAYAMISAORI",
-            "maker": "AZURLANE",
-            "album": "Azurlane Original Sound Track",
-            "tags": ["HAYAMISAORI", "AZURLANE"],
-            "atrys": ["Azurlane Anime"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "海へ捧げるレミニセンス",
-            "m": ["Azurlane Anime/海へ捧げるレミニセンス.mp3"],
-            "artist": "ENDOAYA",
-            "maker": "AZURLANE",
-            "album": "Azurlane Original Sound Track",
-            "tags": ["ENDOAYA", "AZURLANE"],
-            "atrys": ["Azurlane Anime"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "勇気の魔法",
-            "m": [
-                "Princess Evangile/勇気の魔法.mp3",
-                "Princess Evangile/勇気の魔法.lrc"
-            ],
-            "artist": "霜月はるか",
-            "maker": "PRINCESSEVANGILE",
-            "album": "Princess Evangile",
-            "atrys": ["Princess Evangile"],
-            "tags": ["PRINCESSEVANGILE", "THEME", "霜月はるか", "GAME"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "桜が見てた",
-            "m": [
-                "Princess Evangile/桜が見てた.mp3",
-                "Princess Evangile/桜が見てた.lrc"
-            ],
-            "artist": "AiRI",
-            "maker": "PRINCESSEVANGILE",
-            "album": "Princess Evangile",
-            "tags": ["PRINCESSEVANGILE", "THEME", "AiRI", "GAME"],
-            "atrys": ["Princess Evangile"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "蛍の光",
-            "m": ["Princess Evangile/蛍の光.mp3", "Princess Evangile/蛍の光.lrc"],
-            "maker": "PRINCESSEVANGILE",
-            "album": "Princess Evangile",
-            "tags": ["PRINCESSEVANGILE", "GRADUATION", "GAME"],
-            "atrys": ["Princess Evangile"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Lullaby for Salvation",
-            "m": [
-                "Lullaby for Salvation/Lullaby for Salvation.mp3",
-                "Lullaby for Salvation/Lullaby for Salvation.lrc"
-            ],
-            "artist": "INAGAWAERI",
-            "maker": "WORLDFLIPPER",
-            "album": "Lullaby for Salvation / ディーバ・メディア",
-            "tags": [
-                "INAGAWAERI",
-                "WORLDFLIPPER",
-                "IDOLMASTER",
-                "OGAMITAMAKI(IDOLMASTER)",
-                "GAME",
-                "THEME"
-            ],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "あっちでこっちで",
-            "m": [
-                "恋の花びらをね/あっちでこっちで.mp3",
-                "恋の花びらをね/あっちでこっちで.lrc"
-            ],
-            "artist": "OKUBORUMI",
-            "tags": ["OKUBORUMI", "ANIME"],
-            "atrys": ["恋の花びらをね"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Flop Around",
-            "m": ["恋愛フロップス/Flop Around.mp3", "恋愛フロップス/Flop Around.lrc"],
-            "maker": "恋愛フロップス",
-            "album": "恋愛フロップス",
-            "tags": [
-                "ITOUMIKU",
-                "TAKAHASHIRIE",
-                "TAKETATSUAYANA",
-                "KANEMOTOHISAKO",
-                "KONOMARIKA",
-                "恋愛フロップス",
-                "ANIME"
-            ],
-            "atrys": ["恋愛フロップス"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "With You",
-            "m": ["恋愛フロップス/With You.mp3", "恋愛フロップス/With You.lrc"],
-            "maker": "恋愛フロップス",
-            "album": "恋愛フロップス",
-            "tags": ["ITOUMIKU", "恋愛フロップス", "ANIME"],
-            "atrys": ["恋愛フロップス"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "Lost in the white",
-            "m": [
-                "恋愛フロップス/Lost in the white.mp3",
-                "恋愛フロップス/Lost in the white.lrc"
-            ],
-            "maker": "恋愛フロップス",
-            "album": "恋愛フロップス",
-            "tags": ["ITOUMIKU", "恋愛フロップス", "ANIME"],
-            "atrys": ["恋愛フロップス"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "テオ",
-            "m": ["テオ/[初音ミク] テオ.mp3", "テオ/motion.vmd", "テオ/camera.vmd"],
-            "maker": "OMOI",
-            "album": "ファーストワルツ",
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID", "OMOI"],
-            "atrys": ["Omoi", "Teo"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "f": "我儘姫",
-            "m": [
-                "我儘姫/[えむ ミク ねね] 我儘姫.mp3",
-                "我儘姫/[初音ミク] 我儘姫.mp3",
-                "我儘姫/lyrics.lrc",
-                "我儘姫/motion1 by DIBU.vmd",
-                "我儘姫/motion2 by DIBU.vmd",
-                "我儘姫/camera by DIBU.vmd"
-            ],
-            "maker": "ふじを様",
-            "artist": "MIKU",
-            "tags": ["MIKU", "VOCALOID"],
-            "atrys": ["我儘姫"],
-            "lrc": true,
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "여름비",
-            "f": "SummerRain",
-            "m": [
-                "SummerRain/[GFriend] SummerRain (short ver).mp3",
-                "SummerRain/camera (short ver).vmd",
-                "SummerRain/motion (short ver).vmd"
-            ],
-            "artist": "GIRLFRIEND",
-            "tags": ["KPOP", "GIRLFRIEND"],
-            "raw": true,
-            "r": 3
-        },
-        {
-            "n": "Realize",
-            "f": "リアライズ",
-            "m": [
-                "リアライズ/camera (short ver by PJSK).vmd",
-                "リアライズ/miku motion (short ver by PJSK).vmd",
-                "リアライズ/akito motion (short ver by PJSK).vmd",
-                "リアライズ/an motion (short ver by PJSK).vmd",
-                "リアライズ/kohane motion (short ver by PJSK).vmd",
-                "リアライズ/touya motion (short ver by PJSK).vmd",
-                "リアライズ/リアライズ (short ver by 柊マグネタイト).mp3"
-            ],
-            "maker": "柊マグネタイト",
-            "artist": "MIKU,AKITO(PJSK),AN(PJSK),KOHANE(PJSK),TOUYA(PJSK)",
-            "tags": [
-                "VOCALOID",
-                "PJSK",
-                "MIKU",
-                "AKITO(PJSK)",
-                "AN(PJSK)",
-                "KOHANE(PJSK)",
-                "TOUYA(PJSK)"
-            ],
-            "atrys": ["リアライズ"],
-            "raw": true,
-            "r": 3
-        }
-    ]
+  "t": "SongDB",
+  "disable": ["No Exit Orion", "ほうき星"],
+  "b": [
+    null,
+    null,
+    null,
+    "https://raw.githack.com/jomin398/mySongDB/master/audios/"
+  ],
+  "d": [
+    {
+      "n": "당신에게",
+      "f": "Dear",
+      "m": [
+        "Dear/Dear.mp3",
+        "Dear/lyrics.lrc",
+        "Dear/Motion.vmd",
+        "Dear/Camera.vmd"
+      ],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "유리구슬",
+      "f": "Glass Bead",
+      "m": [
+        "Glass Bead/Glass Bead.mp3",
+        "Glass Bead/Glass Bead.lrc",
+        "Glass Bead/Camera by LadieAlien.vmd",
+        "Glass Bead/Motion by LadieAlien.vmd"
+      ],
+      "artist": "GIRLFRIEND",
+      "tags": ["KPOP", "GIRLFRIEND"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "시간을 달려서",
+      "f": "Rough",
+      "m": ["Rough/Rough.mp3", "Rough/Camera.vmd", "Rough/Motion.vmd"],
+      "artist": "GIRLFRIEND",
+      "tags": ["KPOP", "GIRLFRIEND"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Happy Halloween",
+      "m": [
+        "Happy Halloween/Happy Halloween.mp3",
+        "Happy Halloween/Happy Halloween (ko ver by sodadayo20).mp3",
+        "Happy Halloween/Camera.vmd",
+        "Happy Halloween/Motion.vmd"
+      ],
+      "artist": "RIN(VOCALOID)",
+      "another": ["MIKU"],
+      "maker": "JUNKY",
+      "tags": ["JUNKY", "RIN(VOCALOID)", "MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "メルト",
+      "f": "Melt",
+      "m": [
+        "Melt/Melt.mp3",
+        "Melt/Melt (ko ver by sodadayo20).mp3",
+        "Melt/Melt - 音街ウナ.mp3",
+        "Melt/Camera.vmd",
+        "Melt/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "SUPERCELL(RYO)",
+      "tags": ["SUPERCELL(RYO)", "MIKU", "VOCALOID", "UNA(VOCALOID)"],
+      "another": ["UNA(VOCALOID)"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "ツギハギスタッカート",
+      "f": "Patchwork Staccato",
+      "m": [
+        "Patchwork Staccato/Patchwork Staccato.mp3",
+        "Patchwork Staccato/Patchwork Staccato (ko ver by sodadayo20).mp3",
+        "Patchwork Staccato/Camera by kip.vmd",
+        "Patchwork Staccato/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Snow Fairy Story",
+      "m": [
+        "Snow Fairy Story (ko ver by sodadayo20).mp3",
+        "Snow Fairy Story/Snow Fairy Story.mp3",
+        "Snow Fairy Story/Camera by 永瀬律 (りつ).vmd",
+        "Snow Fairy Story/Motion by まいてぃ.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "40MP",
+      "tags": ["MIKU", "VOCALOID", "SNOW", "40MP"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Start Dash",
+      "m": [
+        "Start Dash/Start Dash!!.mp3",
+        "Start Dash/Start Dash!! (by sodadayo20).mp3",
+        "Start Dash/Camera by roosjuh14290.vmd",
+        "Start Dash/Motion ことり.vmd",
+        "Start Dash/Motion うみ.vmd",
+        "Start Dash/Motion ほのか.vmd"
+      ],
+      "artist": "MUS",
+      "another": ["MIKU"],
+      "maker": "LOVELIVE",
+      "tags": ["MIKU", "VOCALOID", "MUS", "LOVELIVE", "µ's"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "롤리폴리",
+      "f": "Roly poly",
+      "m": [
+        "Roly poly/Roly Poly.mp3",
+        "Roly poly/Roly Poly.lrc",
+        "Roly poly/Camera.vmd",
+        "Roly poly/Motion.vmd"
+      ],
+      "artist": "TARA",
+      "tags": ["KPOP", "TARA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Tell Your World",
+      "m": [
+        "Tell Your World/Tell Your World.mp3",
+        "Tell Your World/Tell Your World (ko ver by sodadayo20).mp3",
+        "Tell Your World/Camera.vmd",
+        "Tell Your World/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "LIVETUNE(KZ)",
+      "tags": ["MIKU", "VOCALOID", "LIVETUNE(KZ)"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "LIKEY",
+      "f": "LIKEY",
+      "m": [
+        "LIKEY/LIKEY.mp3",
+        "LIKEY/Camera by Ayano01Tateyama.vmd",
+        "LIKEY/Motion.vmd"
+      ],
+      "artist": "TWICE",
+      "tags": ["KPOP", "TWICE"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "wavefile",
+      "f": "wavefile",
+      "m": [
+        "wavefile/[初音ミク] wavefile (short ver by LamazeP).mp3",
+        "wavefile/Camera (short ver).vmd",
+        "wavefile/Motion (short ver).vmd",
+        "wavefile/[初音ミク] WAVEFILE (full ver by LamazeP).mp3",
+        "wavefile/Motion (full ver by hino).vmd"
+      ],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "atrys": ["wavefile"],
+      "raw": true,
+      "r": 3,
+      "offset": 530
+    },
+    {
+      "n": "Yellow",
+      "m": [
+        "Yellow/Yellow (by kz).mp3",
+        "Yellow/Yellow (by kz).lrc",
+        "Yellow/Camera.vmd",
+        "Yellow/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "LIVETUNE(KZ)",
+      "tags": ["MIKU", "VOCALOID", "LIVETUNE(KZ)"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "너의 색으로 물들어",
+      "f": "君色に染まる",
+      "m": [
+        "君色に染まる/君色に染まる.mp3",
+        "君色に染まる/君色に染まる.lrc",
+        "君色に染まる/君色に染まる (ko ver by sodadayo20).mp3",
+        "君色に染まる/Camera.vmd",
+        "君色に染まる/Motion (big).vmd",
+        "君色に染まる/Motion (small).vmd"
+      ],
+      "artist": "MIKU",
+      "tags": ["MIKU", "RIN(VOCALOID)", "VOCALOID"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "금요일의 아침인사",
+      "f": "金曜日のおはよう",
+      "m": [
+        "金曜日のおはよう/金曜日のおはよう - 雨宮天.mp3",
+        "金曜日のおはよう/金曜日のおはよう - 初音ミク.mp3",
+        "金曜日のおはよう/金曜日のおはよう.lrc",
+        "金曜日のおはよう/Camera (big).vmd",
+        "金曜日のおはよう/Camera (small).vmd",
+        "金曜日のおはよう/Motion.vmd"
+      ],
+      "artist": "AMAMIYASORA",
+      "another": ["MIKU"],
+      "tags": ["AMAMIYASORA", "MIKU", "VOCALOID", "HONEYWORKS"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "사랑의 말 3",
+      "f": "愛言葉Ⅲ",
+      "m": [
+        "愛言葉Ⅲ/愛言葉Ⅲ.mp3",
+        "愛言葉Ⅲ/愛言葉Ⅲ (ko ver by sodadayo20).mp3",
+        "愛言葉Ⅲ/Camera.vmd",
+        "愛言葉Ⅲ/Motion by 足太ぺんたさん.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "DECO*27",
+      "tags": ["MIKU", "VOCALOID", "DECO*27"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "벛꽃의 비",
+      "f": "桜ノ雨",
+      "m": [
+        "桜ノ雨/桜ノ雨 (ver Ko by sodadayo20).mp3",
+        "桜ノ雨/桜ノ雨 - ホロライブ.mp3",
+        "桜ノ雨/桜ノ雨.mp3",
+        "桜ノ雨/Camera.vmd",
+        "桜ノ雨/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "another": ["HOLOLIVE"],
+      "tags": [
+        "MIKU",
+        "VOCALOID",
+        "GRADUATION",
+        "SAKURA",
+        "HOLOLIVE",
+        "TOWA(HOLOLIVE)",
+        "MIKO(HOLOLIVE)",
+        "AKI(HOLOLIVE)",
+        "POLKA(HOLOLIVE)",
+        "IROHA(HOLOLIVE)"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "천본앵",
+      "f": "千本桜",
+      "m": [
+        "千本桜/千本桜 by sodadayo20.mp3",
+        "千本桜/千本桜 by 黒うさP.mp3",
+        "千本桜/Camera.vmd",
+        "千本桜/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "WHITEFLAME",
+      "tags": ["MIKU", "VOCALOID", "SAKURA", "WHITEFLAME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Ray",
+      "m": [
+        "Ray/Ray (ko ver by sodadayo20).mp3",
+        "Ray/Ray.mp3",
+        "Ray/Camera.vmd",
+        "Ray/Motion.vmd",
+        "Ray/Ray.lrc"
+      ],
+      "artist": "MIKU",
+      "maker": "DECO*27",
+      "tags": ["MIKU", "VOCALOID", "DECO*27"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "사랑 받지 못해도 너가 있어서",
+      "f": "愛されなくても君がいる",
+      "m": [
+        "愛されなくても君がいる/愛されなくても君がいる.mp3",
+        "愛されなくても君がいる/Camera by hosino.vmd",
+        "愛されなくても君がいる/Motion by hosino.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "PINOCCHIOP",
+      "tags": ["MIKU", "VOCALOID", "PINOCCHIOP"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "다다다 천사",
+      "f": "ダダダダ天使",
+      "m": [
+        "ダダダダ天使/ダダダダ天使.mp3",
+        "ダダダダ天使/camera.vmd",
+        "ダダダダ天使/Motion.vmd"
+      ],
+      "artist": "NANAOAKARI",
+      "maker": "NAYUTAN",
+      "tags": ["NANAOAKARI", "NAYUTAN", "TENSI"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "태양계 디스코",
+      "f": "太陽系デスコ",
+      "m": [
+        "太陽系デスコ/太陽系デスコ.mp3",
+        "太陽系デスコ/camera.vmd",
+        "太陽系デスコ/motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "NAYUTAN",
+      "tags": ["MIKU", "VOCALOID", "NAYUTAN"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "에일리언 에일리언",
+      "f": "エイリアンエイリアン",
+      "m": [
+        "エイリアンエイリアン/エイリアンエイリアン.mp3",
+        "エイリアンエイリアン/エイリアンエイリアン.lrc",
+        "エイリアンエイリアン/エイリアンエイリアン - ミク&えむ&寧々.mp3",
+        "エイリアンエイリアン/Camera (by えいちゃん).vmd",
+        "エイリアンエイリアン/Motion (LIVE ver. by 配布用).vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "NAYUTAN",
+      "tags": ["MIKU", "VOCALOID", "NAYUTAN"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "귀여워서 미안해",
+      "f": "可愛くてごめん",
+      "m": [
+        "可愛くてごめん/可愛くてごめん.mp3",
+        "可愛くてごめん/可愛くてごめん (by sodadayo20).mp3",
+        "可愛くてごめん/Camera.vmd",
+        "可愛くてごめん/Motion (by はかり).vmd"
+      ],
+      "artist": "HAYAMISAORI",
+      "another": ["MIKU"],
+      "maker": "HONEYWORKS",
+      "tags": ["HAYAMISAORI", "MIKU", "VOCALOID", "HONEYWORKS"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "World is Mine",
+      "f": "ワールドイズマイン",
+      "m": [
+        "ワールドイズマイン/ワールドイズマイン.mp3",
+        "ワールドイズマイン/ワールドイズマイン (ko ver by sodadayo20)",
+        "ワールドイズマイン/Camera (by mobiusP).vmd",
+        "ワールドイズマイン/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "SUPERCELL(RYO)",
+      "tags": ["MIKU", "VOCALOID", "SUPERCELL(RYO)"],
+      "atrys": ["World is Mine"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "포지티브 퍼레이드",
+      "f": "ポジティブパレード",
+      "m": [
+        "ポジティブパレード/ポジティブパレード.mp3",
+        "ポジティブパレード/ポジティブパレード.lrc",
+        "ポジティブパレード/Camera (by なつき).vmd",
+        "ポジティブパレード/Motion (by なつき).vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "DECO*27",
+      "tags": ["MIKU", "VOCALOID", "DECO*27", "FESTIVAL", "PARADE"],
+      "atrys": ["ポジティブ・パレード", "Positive Parade"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "내일의 밤하늘 초계반",
+      "f": "アスノヨゾラ哨戒班",
+      "m": [
+        "アスノヨゾラ哨戒班/アスノヨゾラ哨戒班 (by sodadayo20).mp3",
+        "アスノヨゾラ哨戒班/アスノヨゾラ哨戒班 - ナナヲアカリ.mp3",
+        "アスノヨゾラ哨戒班/Camera (by なつき).vmd",
+        "アスノヨゾラ哨戒班/Motion (by なつき).vmd"
+      ],
+      "artist": "MIKU",
+      "another": ["NANAOAKARI"],
+      "tags": ["MIKU", "VOCALOID", "ORANGESTAR"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "WAVE",
+      "m": [
+        "WAVE/WAVE.mp3",
+        "WAVE/Camera (by 配布用).vmd",
+        "WAVE/Motion (by 配布用).vmd"
+      ],
+      "artist": "LILY(VOCALOID)",
+      "maker": "NIKI",
+      "tags": ["NIKI", "LILY(VOCALOID)", "VOCALOID"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "ねこみみスイッチ",
+      "m": [
+        "ねこみみスイッチ/ねこみみスイッチ.mp3",
+        "ねこみみスイッチ/Camera.vmd",
+        "ねこみみスイッチ/Motion.vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "DANIWELLP",
+      "tags": ["MIKU", "VOCALOID", "NEKO", "DANIWELLP"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "스타라이트 스노우",
+      "f": "スターナイトスノウ",
+      "m": [
+        "スターナイトスノウ/スターナイトスノウ.mp3",
+        "スターナイトスノウ/Camera (by 秋狐＠女子力P).vmd",
+        "スターナイトスノウ/Motion (by 配布用).vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "ORANGESTAR",
+      "tags": ["MIKU", "VOCALOID", "ORANGESTAR", "SNOW"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "좋아! 눈! 진심 매직",
+      "f": "好き！雪！本気マジック",
+      "m": [
+        "好き！雪！本気マジック/好き！雪！本気マジック.mp3",
+        "好き！雪！本気マジック/Camera (by 結莉).vmd",
+        "好き！雪！本気マジック/Motion (by 配布用).vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "MITCHIEM",
+      "tags": ["MIKU", "VOCALOID", "MITCHIEM", "SNOW"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "[Miku] 울려퍼져라! (히비카세)",
+      "f": "ヒビカセ",
+      "m": [
+        "ヒビカセ/ヒビカセ.mp3",
+        "ヒビカセ/Camera (by seitsuki).vmd",
+        "ヒビカセ/Motion (by Seto).vmd"
+      ],
+      "artist": "MIKU",
+      "maker": "GIGA",
+      "tags": ["MIKU", "VOCALOID", "GIGA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "[幾田りら] 아이돌! (최애의 아이)",
+      "f": "アイドル [推しの子]",
+      "m": [
+        "アイドル [推しの子]/アイドル.mp3",
+        "アイドル [推しの子]/Camera (by イ短調).vmd",
+        "アイドル [推しの子]/Motion (by イ短調).vmd"
+      ],
+      "maker": "YOASOBI",
+      "tags": ["HOSINOAI", "OSINOKO", "YOASOBI", "ANIME"],
+      "atrys": ["推しの子", "アイドル"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Link",
+      "m": ["Link/Link.mp3", "Link/Link.lrc"],
+      "artist": "ALTERNA",
+      "tags": ["ALTERNA", "GAME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Lunaria",
+      "m": [
+        "Lunaria/Lunaria.mp3",
+        "Lunaria/Lunaria (ko).mp3",
+        "Lunaria/Lunaria.lrc",
+        "Lunaria/Lunaria (ko).lrc"
+      ],
+      "artist": "ALTERNA",
+      "tags": ["ALTERNA", "GAME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "유구한 카타르시스 (4인 합창 Ver)",
+      "f": "悠久のカタルシス (4スターズ Ver)",
+      "m": [
+        "悠久のカタルシス/悠久のカタルシス (4スターズ Ver).mp3",
+        "悠久のカタルシス/悠久のカタルシス (4スターズ Ver).lrc"
+      ],
+      "artist": "AYANAMI(アズールレーン),LAFFEY(アズールレーン),Z23(アズールレーン),JAVELIN(アズールレーン)",
+      "maker": "AZURLANE",
+      "tags": [
+        "AYANAMI(アズールレーン)",
+        "LAFFEY(アズールレーン)",
+        "Z23(アズールレーン)",
+        "JAVELIN(アズールレーン)",
+        "AZURLANE",
+        "GAME"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Don't Stay",
+      "f": "Don't Stay",
+      "m": ["Don't Stay/Don't Stay.mp3", "Don't Stay/Don't Stay.lrc"],
+      "artist": "LINKINPARK",
+      "maker": "DJMAX",
+      "tags": ["GIRLFRONT", "LINKINPARK", "DJMAX", "GAME"],
+      "atrys": ["GF DJMAX"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "FirstKiss",
+      "f": "FirstKiss",
+      "m": ["FirstKiss/FirstKiss.mp3", "FirstKiss/FirstKiss.lrc"],
+      "artist": "HWANGJUNGMI",
+      "maker": "DJMAX",
+      "tags": ["HWANGJUNGMI", "GIRLFRONT", "DJMAX", "GAME"],
+      "atrys": ["GF DJMAX"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Frontline",
+      "f": "Frontline",
+      "m": ["Frontline/Frontline.mp3", "Frontline/Frontline.lrc"],
+      "artist": "GURIRI",
+      "maker": "GIRLFRONT",
+      "tags": ["GURIRI", "GIRLFRONT", "VTUBER", "GAME"],
+      "atrys": ["GF DJMAX"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Only For You",
+      "f": "Only For You",
+      "m": ["Only For You/Only For You.mp3", "Only For You/Only For You.lrc"],
+      "artist": "LEEJEAE",
+      "maker": "DJMAX",
+      "tags": ["LEEJEAE", "GIRLFRONT", "DJMAX", "GAME"],
+      "atrys": ["GF DJMAX"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "샤이닝스타",
+      "f": "シャイニングスター",
+      "m": [
+        "シャイニングスター/シャイニングスター.mp3",
+        "シャイニングスター/シャイニングスター.lrc"
+      ],
+      "tags": ["MAHOU", "GAME", "SHIHO"],
+      "artist": "SHIHO",
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "빛난다면",
+      "f": "光るなら",
+      "m": ["光るなら/光るなら.mp3", "光るなら/光るなら.lrc"],
+      "artist": "KAORI(四月は君の嘘)",
+      "maker": "GOOSEHOUSE",
+      "tags": ["四月は君の嘘", "KAORI(四月は君の嘘)", "GOOSEHOUSE", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "겨울의 에필로그",
+      "f": "冬のエピローグ",
+      "m": ["光るなら/冬のエピローグ.mp3", "光るなら/冬のエピローグ.lrc"],
+      "artist": "KAORI(四月は君の嘘)",
+      "maker": "GOOSEHOUSE",
+      "tags": ["四月は君の嘘", "KAORI(四月は君の嘘)", "GOOSEHOUSE", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "모두 미쿠미쿠하게 해줄게♪",
+      "f": "みんなみくみくにしてあげる♪",
+      "m": [
+        "みんなみくみくにしてあげる/みんなみくみくにしてあげる♪ (ja).mp3",
+        "みんなみくみくにしてあげる/みんなみくみくにしてあげる♪ (ko by sodadayo20).mp3"
+      ],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3,
+      "atrys": [
+        "みくみくにしてあげる♪【してやんよ】",
+        "みくみくにしてあげる♪",
+        "みんなみくみくにしてあげる"
+      ]
+    },
+    {
+      "n": "사운드",
+      "f": "サウンド",
+      "m": ["サウンド/サウンド.mp3"],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "손에 손잡고",
+      "f": "Hand in Hand",
+      "m": ["Hand in Hand/Hand in Hand.mp3"],
+      "artist": "MIKU",
+      "maker": "LIVETUNE(KZ)",
+      "tags": ["MIKU", "VOCALOID", "LIVETUNE(KZ)"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "스노우 할레이션",
+      "f": "Snow halation",
+      "m": [
+        "Snow halation/Snow Halation (ko ver by jomin398).mp3",
+        "Snow halation/Snow halation.mp3",
+        "Snow halation/Hanayo (Short ver).vmd",
+        "Snow halation/Honoka (Short ver).vmd",
+        "Snow halation/Kotori (Short ver).vmd",
+        "Snow halation/Maki (Short ver).vmd",
+        "Snow halation/Nico (Short ver).vmd",
+        "Snow halation/Nozomi (Short ver).vmd",
+        "Snow halation/Rin (Short ver).vmd",
+        "Snow halation/Umi (Short ver).vmd",
+        "Snow halation/Camera (Short ver).vmd",
+        "Snow halation/Eri (Short ver).vmd"
+      ],
+      "artist": "MUS",
+      "maker": "BOHANYU",
+      "another": ["MIKU"],
+      "raw": true,
+      "r": 3,
+      "tags": ["MIKU", "VOCALOID", "MUS", "µ's", "SNOW"]
+    },
+    {
+      "n": "패키지",
+      "f": "Packaged",
+      "m": [
+        "Packaged/Packaged (ko ver by sodadayo20).mp3",
+        "Packaged/Packaged.mp3"
+      ],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3,
+      "atrys": ["サウンド"]
+    },
+    {
+      "n": "착각성 반 희망증",
+      "f": "勘違い性反希望症",
+      "m": [
+        "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.mp3",
+        "勘違い性反希望症/勘違い性反希望症 (ko ver by sodadayo20).mp3",
+        "勘違い性反希望症/勘違い性反希望症 feat. 初音ミク.lrc"
+      ],
+      "artist": "MIKU",
+      "maker": "DECO*27",
+      "tags": ["MIKU", "VOCALOID", "DECO*27"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "밤을 달리다",
+      "f": "夜に駆ける",
+      "m": ["夜に駆ける/夜に駆ける.mp3"],
+      "maker": "YOASOBI",
+      "tags": ["VOCALOID", "YOASOBI"],
+      "raw": true,
+      "r": 3,
+      "atrys": ["[YOASOBI] 夜に駆ける"]
+    },
+    {
+      "n": "튜링 러브",
+      "f": "チューリングラブ",
+      "m": [
+        "チューリングラブ/チューリングラブ (by sodadayo20).mp3",
+        "チューリングラブ/チューリングラブ.mp3",
+        "チューリングラブ/チューリングラブ.lrc"
+      ],
+      "artist": "NANAOAKARI",
+      "maker": "NAYUTAN",
+      "another": ["MIKU"],
+      "tags": ["MIKU", "VOCALOID", "NANAOAKARI", "NAYUTAN", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "방해쟁이 2",
+      "f": "おじゃま虫Ⅱ",
+      "m": ["おじゃま虫Ⅱ/おじゃま虫Ⅱ.mp3", "おじゃま虫Ⅱ/おじゃま虫Ⅱ.lrc"],
+      "artist": "MIKU",
+      "maker": "DECO*27",
+      "tags": ["MIKU", "VOCALOID", "DECO*27"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Let you DIVE!",
+      "m": ["WACCA/Let you DIVE!.mp3"],
+      "artist": "ELIZABETH(WACCA)",
+      "maker": "WACCA",
+      "tags": ["WACCA", "ELIZABETH(WACCA)", "GAME"],
+      "atrys": ["WACCA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "어드밴쳐 (Ouverture)",
+      "f": "Ouverture",
+      "m": ["WACCA/Ouverture.mp3"],
+      "artist": "RIN(WACCA)",
+      "maker": "WACCA",
+      "tags": ["WACCA", "RIN(WACCA)", "GAME"],
+      "atrys": ["WACCA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "With U",
+      "f": "with U",
+      "m": ["WACCA/with U.mp3"],
+      "artist": "LILY(WACCA)",
+      "maker": "WACCA",
+      "tags": ["WACCA", "LILY(WACCA)", "GAME"],
+      "atrys": ["WACCA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "DIVE with U",
+      "m": ["WACCA/DIVE with U.mp3"],
+      "artist": "ELIZABETH(WACCA),LILY(WACCA),RIN(WACCA)",
+      "maker": "WACCA",
+      "tags": [
+        "WACCA",
+        "ELIZABETH(WACCA)",
+        "LILY(WACCA)",
+        "RIN(WACCA)",
+        "GAME"
+      ],
+      "atrys": ["WACCA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "페코미코 대전쟁!!",
+      "f": "ぺこみこ大戦争!!",
+      "m": ["WACCA/ぺこみこ大戦争!!.mp3"],
+      "artist": "PEKORA(HOLOLIVE),MIKO(HOLOLIVE)",
+      "maker": "REDALICE",
+      "tags": [
+        "WACCA",
+        "REDALICE",
+        "VTUBER",
+        "HOLOLIVE",
+        "PEKORA(HOLOLIVE)",
+        "MIKO(HOLOLIVE)",
+        "GAME"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "벛꽃 바람",
+      "f": "サクラカゼ",
+      "m": ["サクラカゼ/サクラカゼ.mp3"],
+      "artist": "MIKO(HOLOLIVE)",
+      "tags": ["VTUBER", "HOLOLIVE", "MIKO(HOLOLIVE)", "SAKURA"],
+      "atrys": ["桜風", "桜カゼ"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Ha･lle･lu･jah",
+      "f": "Ha lle lu jah",
+      "m": [
+        "Ha lle lu jah/Ha･lle･lu･jah.mp3",
+        "Ha lle lu jah/Ha･lle･lu･jah.lrc"
+      ],
+      "artist": "TAKAHASHINANA",
+      "maker": "SOUNDHOLIC",
+      "tags": ["SDVX", "TAKAHASHINANA", "SOUNDHOLIC", "GAME"],
+      "atrys": ["Ha lle lu jah"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "두근콩닥★유성우",
+      "f": "ときめき★メテオストライク",
+      "m": [
+        "ときめき★メテオストライク/ときめき★メテオストライク (Short ver).mp3"
+      ],
+      "artist": "MINASEMINAMI",
+      "tags": ["MINASEMINAMI", "GAME"],
+      "atrys": ["ときめき メテオストライク"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "로키",
+      "f": "ロキ",
+      "m": ["ロキ/ロキ.mp3", "ロキ/ロキ - ナナヲアカリ.mp3"],
+      "artist": "MIKU",
+      "another": ["NANAOAKARI"],
+      "tags": ["MIKU", "VOCALOID", "NANAOAKARI"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ほうき星",
+      "m": [
+        "ほうき星/ほうき星.mp3",
+        "ほうき星/ほうき星 (ja ver by Tripshots)",
+        "ほうき星/ほうき星 (ko ver by sodadayo20).mp3"
+      ],
+      "artist": "YOUNHA",
+      "another": ["MIKU"],
+      "maker": "TRIPSHOTS",
+      "tags": ["MIKU", "VOCALOID", "HOUKIBOSHI", "YOUNHA", "TRIPSHORTS"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Shooting Star",
+      "m": ["EverSoul/Shooting Star.mp3", "EverSoul/Shooting Star.lrc"],
+      "artist": "JANGYENA",
+      "maker": "EVERSOUL",
+      "tags": ["JANGYENA", "EVERSOUL", "LABY(ELSOWORD)"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "花になって",
+      "m": ["EverSoul/꽃이 되어.mp3"],
+      "artist": "JANGYENA",
+      "maker": "EVERSOUL",
+      "tags": ["JANGYENA", "EVERSOUL", "LABY(ELSOWORD)"],
+      "atrys": ["EverSoul"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "댄스 로봇 댄스",
+      "f": "ダンスロボットダンス",
+      "m": [
+        "ダンスロボットダンス/ダンスロボットダンス.mp3",
+        "ダンスロボットダンス/ダンスロボットダンス - ナナヲアカリ"
+      ],
+      "artist": "MIKU",
+      "another": ["NANAOAKARI"],
+      "maker": "NAYUTAN",
+      "tags": ["MIKU", "VOCALOID", "NAYUTAN", "NANAOAKARI"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "사랑이 있는 듯 없는 듯 있어",
+      "f": "アイがあるようでないようである",
+      "m": [
+        "アイがあるようでないようである/アイがあるようでないようである.mp3"
+      ],
+      "artist": "NANAOAKARI",
+      "maker": "NAYUTAN",
+      "tags": ["NAYUTAN", "NANAOAKARI"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "디스코뮤성인",
+      "f": "ディスコミュ星人",
+      "m": ["ディスコミュ星人/ディスコミュ星人.mp3"],
+      "artist": "NANAOAKARI",
+      "maker": "NAYUTAN",
+      "tags": ["NAYUTAN", "NANAOAKARI"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "별빛 쏟아지던 날의 너",
+      "f": "Falling starlights",
+      "m": ["GRANSAGA/별빛 쏟아지던 날의 너.mp3"],
+      "artist": "QUYI(GRANSAGA)",
+      "maker": "GRANSAGA",
+      "tags": ["JANGYENA", "GRANSAGA", "GAME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "작은 빛이지만",
+      "f": "小さな光だけど",
+      "m": ["小さな光だけど/小さな光だけど.mp3"],
+      "artist": "MIKU",
+      "maker": "ICHINOSELUPO",
+      "tags": ["MIKU", "VOCALOID", "ICHINOSELUPO"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "링크 링크 피버!!!",
+      "f": "LINK LINK FEVER!!!",
+      "m": ["LINK LINK FEVER!!!/LINK LINK FEVER!!!.mp3"],
+      "artist": "LINNKA(GROOVECOASTER)",
+      "tags": ["GROOVECOASTER", "TOYOTAMOE", "GAME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "이어지는 커넥트",
+      "f": "ツナガルコネクト",
+      "m": [
+        "サイコーハート／La Bella Patria／ツナガルコネクト/ツナガルコネクト.mp3"
+      ],
+      "artist": "TENNOJIRINA(LOVELIVE)",
+      "maker": "DECO*27",
+      "tags": [
+        "TENNOJIRINA(LOVELIVE)",
+        "TANAKACHIEMI",
+        "NIJISANJI",
+        "LOVELIVE",
+        "DECO*27"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "전전전생",
+      "f": "前前前世",
+      "m": ["前前前世/前前前世.mp3"],
+      "artist": "RADWIMPS",
+      "tags": ["RADWIMPS", "KIMINAMA", "KIMINONAMAEWA"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "너랑 나 (AGF2022 테마곡)",
+      "f": "YOU&I (AGF2022)",
+      "m": ["AGF/YOU&I (AGF2022).mp3", "AGF/YOU&I (AGF2022).lrc"],
+      "artist": "RAON",
+      "maker": "AGF",
+      "tags": ["AGF", "RAON", "ANIME", "GAME", "EXTRA", "THEME", "FESTIVAL"],
+      "atrys": ["AGF"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "격! 제국화격단",
+      "f": "檄！帝国華撃団",
+      "m": ["檄！帝国華撃団/檄！帝国華撃団.mp3"],
+      "artist": "AYA(POPPIN'PARTY),KOKORO(POPPIN'PARTY)",
+      "maker": "POPPIN'PARTY",
+      "tags": [
+        "BANGDREAM",
+        "POPPIN'PARTY",
+        "ITOUMIKU",
+        "MAESHIMAAMI",
+        "KOKORO(POPPIN'PARTY)",
+        "AYA(POPPIN'PARTY)"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "INSIDE IDENTITY",
+      "m": [
+        "INSIDE IDENTITY/INSIDE IDENTITY.mp3",
+        "INSIDE IDENTITY/INSIDE IDENTITY.lrc"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Super☆Affection",
+      "m": [
+        "Super☆Affection/Super☆Affection.mp3",
+        "Super☆Affection/Super☆Affection.lrc"
+      ],
+      "artist": "TAKAHASHIRIE,TANAKAMINAMI,OKUBORUMI,YUKIAOI,TOYAMANAO,SAKURAAYANE,HAYAMISAORI,KAWASUMIAYAKO,UEDAKANA,TANGESAKURA,KADOWAKIMAII,ENDOMASAAKI",
+      "maker": "FATEGRANDCANIVAL",
+      "tags": [
+        "FATE",
+        "CANIVAL",
+        "FESTIVAL",
+        "OST",
+        "TAKAHASHIRIE",
+        "TANAKAMINAMI",
+        "OKUBORUMI",
+        "YUKIAOI",
+        "TOYAMANAO",
+        "SAKURAAYANE",
+        "HAYAMISAORI",
+        "KAWASUMIAYAKO",
+        "UEDAKANA",
+        "TANGESAKURA",
+        "KADOWAKIMAII",
+        "ENDOMASAAKI"
+      ],
+      "atrys": ["Super Affection"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Make debut!",
+      "artist": "MACHICO,ONISHISAORI",
+      "maker": "UMAMUSUME",
+      "album": "ウマ娘 プリティーダービー Make debut!",
+      "m": [
+        "ウマ娘 プリティーダービー Make debut!/Make debut!.mp3",
+        "ウマ娘 プリティーダービー Make debut!/Make debut!.lrc"
+      ],
+      "tags": [
+        "UMAMUSUME",
+        "MACHICO",
+        "OHASHIAYAKA",
+        "KIMURACHISA",
+        "UEDAHITOMI",
+        "ONISHISAORI"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "七色の景色",
+      "artist": "MACHICO,ONISHISAORI",
+      "maker": "UMAMUSUME",
+      "album": "ウマ娘 プリティーダービー Make debut!",
+      "m": ["ウマ娘 プリティーダービー Make debut/七色の景色.mp3"],
+      "tags": [
+        "UMAMUSUME",
+        "MACHICO",
+        "OHASHIAYAKA",
+        "KIMURACHISA",
+        "UEDAHITOMI",
+        "ONISHISAORI",
+        "GAME",
+        "ANIME"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "心想い",
+      "album": "TVアニメ 「プリンセスコネクト!ReDive」 心想い ～ココロオモイ～",
+      "m": [
+        "プリンセスコネクト!ReDive/心想い.mp3",
+        "プリンセスコネクト!ReDive/心想い.lrc"
+      ],
+      "tags": ["PRINCESSCONNECTREDIVE", "PRINCONE", "GAME", "ANIME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Preview",
+      "m": ["Preview/Preview.mp3"],
+      "artist": "UCHIDAAYA",
+      "album": "Preview／内田彩",
+      "tags": ["UCHIDAAYA", "ANIME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "恋の花びらをね",
+      "m": [
+        "恋の花びらをね/恋の花びらをね.mp3",
+        "恋の花びらをね/恋の花びらをね.lrc"
+      ],
+      "artist": "OKUBORUMI",
+      "tags": ["OKUBORUMI", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "片瀬てれりこ研究所のテーマ",
+      "m": ["恋の花びらをね/片瀬てれりこ研究所のテーマ.mp3"],
+      "tags": ["ANIME"],
+      "atrys": ["恋の花びらをね"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "キラメキサイクル",
+      "m": ["恋の花びらをね/キラメキサイクル.mp3"],
+      "tags": ["ANIME"],
+      "atrys": ["恋の花びらをね"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "きゅぴーん☆アイドル宣言",
+      "m": [
+        "きゅぴーん☆アイドル宣言/きゅぴーん☆アイドル宣言.mp3",
+        "きゅぴーん☆アイドル宣言/きゅぴーん☆アイドル宣言.lrc"
+      ],
+      "artist": "OKUBORUMI",
+      "maker": "ALTERNA",
+      "album": "きゅぴーん☆アイドル宣言「オルタナティブガルーズ」キャラクターソング",
+      "tags": ["ALTERNA", "SAKURA", "OKUBORUMI", "GAME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "계절을 끌어안고서",
+      "f": "季節を抱きしめて",
+      "m": [
+        "冴えない彼女の育てかた/季節を抱きしめて.mp3",
+        "冴えない彼女の育てかた/季節を抱きしめて (piano ver by 大藤史).mp3",
+        "冴えない彼女の育てかた/季節を抱きしめて - 大藤史.mp3"
+      ],
+      "artist": "KATOUMEGUMI(SAEKANO)",
+      "another": ["OTOFUMI"],
+      "maker": "SAEKANO",
+      "tags": [
+        "KATOUMEGUMI(SAEKANO)",
+        "YASUNOKIYONO",
+        "OTOFUMI",
+        "SAEKANO",
+        "ANIME",
+        "GAME",
+        "KISETSUWODAKISIMETE"
+      ],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "타임 리미트",
+      "f": "タイムリミット",
+      "m": ["タイムリミット/タイムリミット.mp3"],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3,
+      "atrys": ["サウンド"]
+    },
+    {
+      "n": "하얀 편지",
+      "f": "white Letter",
+      "m": ["white Letter/white Letter.mp3", "white Letter/white Letter.lrc"],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "raw": true,
+      "r": 3,
+      "atrys": ["サウンド"]
+    },
+    {
+      "n": "소원",
+      "f": "Wish",
+      "m": [
+        "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.mp3",
+        "アニメ『BNA ビー・エヌ・エー』Complete album/Wish.lrc"
+      ],
+      "artist": "LAFFEY(アズールレーン)",
+      "tags": [
+        "AZURLANE",
+        "LAFFEY(アズールレーン)",
+        "NAGANAWAMARIA",
+        "ANIME",
+        "GAME"
+      ],
+      "raw": true,
+      "r": 3,
+      "atrys": ["BNA", "AZURLANE"]
+    },
+    {
+      "n": "데비 큐트~",
+      "f": "デビきゅー",
+      "m": ["デビきゅー/デビきゅー.mp3", "デビきゅー/デビきゅー.lrc"],
+      "artist": "SERIZAWAYU",
+      "tags": ["SERIZAWAYU", "ANIME", "MAHOU", "MAKAI"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "BANZAI! digital trippers feat.初音ミク",
+      "m": [
+        "Aqours/BANZAI! digital trippers feat.初音ミク.mp3",
+        "Aqours/BANZAI! digital trippers feat.初音ミク.lrc"
+      ],
+      "artist": "AQOURS(LOVELIVE),MIKU",
+      "tags": ["VOCALOID", "MIKU", "LOVELIVE", "AQOURS(LOVELIVE)"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Dear Moments",
+      "artist": "ATRI",
+      "m": ["AkaoHikaru/Dear Moments.mp3", "AkaoHikaru/Dear Moments.lrc"],
+      "album": "ATRI - My Dear Moments",
+      "tags": ["ATRI", "AKAOHIKARU", "ANIME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "아름다운 고향",
+      "f": "La Bella Patria",
+      "m": [
+        "サイコーハート／La Bella Patria／ツナガルコネクト/La Bella Patria.mp3"
+      ],
+      "tags": ["LOVELIVE", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "최고의 하트",
+      "f": "サイコーハート",
+      "m": [
+        "サイコーハート／La Bella Patria／ツナガルコネクト/サイコーハート.mp3"
+      ],
+      "tags": ["LOVELIVE", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "각성 ~교차하는 마음~",
+      "f": "覚醒~Alternative Heart~",
+      "m": [
+        "覚醒~Alternative Heart~/覚醒~Alternative Heart~.mp3",
+        "覚醒~Alternative Heart~/覚醒~Alternative Heart~.lrc"
+      ],
+      "artist": "ALTERNA",
+      "maker": "ALTERNA",
+      "tags": ["ALTERNA", "OKUBORUMI", "GAME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "무지게 (STAND BY ME)",
+      "f": "虹",
+      "m": ["虹/虹.mp3", "虹/虹 - 初音ミク.mp3", "虹/虹.lrc"],
+      "tags": ["VOCALOID", "MIKU", "STANDBYME", "DORAEMON", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "최악의 날이라 해도 당신이 좋아",
+      "f": "最悪な日でもあなたが好き",
+      "m": [
+        "最悪な日でもあなたが好き/最悪な日でもあなたが好き.mp3",
+        "最悪な日でもあなたが好き/最悪な日でもあなたが好き - 初音ミク.mp3",
+        "最悪な日でもあなたが好き/最悪な日でもあなたが好き.lrc"
+      ],
+      "artist": "SERIZAWAYU",
+      "another": ["MIKU"],
+      "tags": ["SERIZAWAYU", "MAKAI", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "신×태양×썸머 파티",
+      "f": "神×太陽×サマーパーティ",
+      "m": ["最悪な日でもあなたが好き/神×太陽×サマーパーティ.mp3"],
+      "artist": "SERIZAWAYU",
+      "tags": ["FESTIVAL", "SERIZAWAYU", "ANIME"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "맛은 전부 다 맛있을거야!",
+      "f": "Tasty All Right!",
+      "m": [
+        "Tasty All Right!/Tasty All Right!.mp3",
+        "Tasty All Right!/Tasty All Right!.lrc"
+      ],
+      "artist": "HANI(EXID)",
+      "tags": ["EXID", "HANI(EXID)", "GAME", "TASTYSAGA"],
+      "atrys": ["TASTYSAGA"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "비밀기지",
+      "f": "Secret base",
+      "m": [
+        "Secret base 〜君がくれたもの〜/Secret base.mp3",
+        "Secret base 〜君がくれたもの〜/Secret base - 설레임&쁘띠허브.mp3",
+        "Secret base 〜君がくれたもの〜/Secret base - Team 아리아.mp3",
+        "Secret base 〜君がくれたもの〜/Secret base.lrc"
+      ],
+      "artist": "KAYANOAI,TOMATSUHARUKA,HAYAMISAORI",
+      "tags": [
+        "PRETTYHERB(JEONSOHEE)",
+        "SEOLREIM",
+        "VTUBER",
+        "ANOHANA",
+        "ANIME",
+        "KAYANOAI",
+        "TOMATSUHARUKA",
+        "HAYAMISAORI"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Wish Ness",
+      "f": "WISHNESS",
+      "m": ["WISHNESS/WISHNESS.mp3", "WISHNESS/WISHNESS.lrc"],
+      "artist": "AYANAMI(アズールレーン),LAFFEY(アズールレーン),Z23(アズールレーン),JAVELIN(アズールレーン)",
+      "maker": "AZURLANE",
+      "tags": [
+        "AYANAMI(アズールレーン)",
+        "LAFFEY(アズールレーン)",
+        "Z23(アズールレーン)",
+        "JAVELIN(アズールレーン)",
+        "AZURLANE",
+        "GAME"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Prayer",
+      "f": "Prayer",
+      "m": ["SIDSOUND/Prayer.mp3", "SIDSOUND/Prayer.lrc"],
+      "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": [
+        "SIDSOUND",
+        "GAME",
+        "서량(SIDSOUND)",
+        "BANAMI(SQUAREMUSIQ)",
+        "SQUAREMUSIQ"
+      ],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Selfishness",
+      "f": "Selfishness",
+      "m": ["SIDSOUND/Selfishness.mp3", "SIDSOUND/Selfishness.lrc"],
+      "artist": "서량(SIDSOUND)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "서량(SIDSOUND)"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Shooting star",
+      "f": "Shooting star",
+      "m": ["SIDSOUND/Shooting star.mp3", "SIDSOUND/Shooting star.lrc"],
+      "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": [
+        "SIDSOUND",
+        "GAME",
+        "서량(SIDSOUND)",
+        "BANAMI(SQUAREMUSIQ)",
+        "SQUAREMUSIQ"
+      ],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "그건 이상한 오후",
+      "f": "그건 이상한 오후",
+      "m": ["SIDSOUND/그건 이상한 오후.mp3", "SIDSOUND/그건 이상한 오후.lrc"],
+      "artist": "서량(SIDSOUND)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "서량(SIDSOUND)", "엔딩이후의세계"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "달리는 별빛처럼",
+      "f": "달리는 별빛처럼",
+      "m": ["SIDSOUND/달리는 별빛처럼.mp3", "SIDSOUND/달리는 별빛처럼.lrc"],
+      "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ),LUCY(SQUAREMUSIQ),VIN(SIDSOUND)",
+      "maker": "SIDSOUND",
+      "tags": [
+        "SIDSOUND",
+        "GAME",
+        "서량(SIDSOUND)",
+        "BANAMI(SQUAREMUSIQ)",
+        "LUCY(SQUAREMUSIQ)",
+        "VIN(SIDSOUND)",
+        "SQUAREMUSIQ"
+      ],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "별에게 소원을",
+      "f": "별에게 소원을",
+      "m": ["SIDSOUND/별에게 소원을.mp3", "SIDSOUND/별에게 소원을.lrc"],
+      "artist": "서량(SIDSOUND),BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": [
+        "SIDSOUND",
+        "GAME",
+        "서량(SIDSOUND)",
+        "BANAMI(SQUAREMUSIQ)",
+        "SQUAREMUSIQ"
+      ],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "비나리",
+      "f": "비나리",
+      "m": ["SIDSOUND/비나리.mp3", "SIDSOUND/비나리.lrc"],
+      "artist": "서량(SIDSOUND)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "서량(SIDSOUND)"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "환상동화",
+      "f": "환상동화",
+      "m": ["SIDSOUND/환상동화.mp3", "SIDSOUND/환상동화.lrc"],
+      "artist": "BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Drawing In My Heart",
+      "f": "Drawing In My Heart",
+      "m": [
+        "SIDSOUND/Drawing In My Heart.mp3",
+        "SIDSOUND/Drawing In My Heart.lrc"
+      ],
+      "artist": "로리체슬(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "로리체슬(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Light breeze",
+      "f": "Light breeze",
+      "m": ["SIDSOUND/Light breeze.mp3", "SIDSOUND/Light breeze.lrc"],
+      "artist": "로리체슬(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "로리체슬(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "수성",
+      "f": "Mercury",
+      "m": ["SIDSOUND/Mercury.mp3", "SIDSOUND/Mercury.lrc"],
+      "artist": "BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Save Your Smile",
+      "f": "Save Your Smile",
+      "m": ["SIDSOUND/Save Your Smile.mp3", "SIDSOUND/Save Your Smile.lrc"],
+      "artist": "NARAE(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "NARAE(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "북극성",
+      "f": "Polaris",
+      "m": ["SIDSOUND/Polaris.mp3", "SIDSOUND/Polaris.lrc"],
+      "artist": "BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "날개",
+      "f": "날개",
+      "m": ["SIDSOUND/날개.mp3", "SIDSOUND/날개.lrc"],
+      "artist": "로리체슬(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "로리체슬(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "루돌프 캐롤",
+      "f": "루돌프 캐롤",
+      "m": ["SIDSOUND/루돌프 캐롤.mp3", "SIDSOUND/루돌프 캐롤.lrc"],
+      "artist": "ELIKA(SIDSOUND)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "ELIKA(SIDSOUND)"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "이제부터 진검승부",
+      "f": "이제부터 진검승부",
+      "m": ["SIDSOUND/이제부터 진검승부.mp3", "SIDSOUND/이제부터 진검승부.lrc"],
+      "artist": "BANAMI(SQUAREMUSIQ)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "BANAMI(SQUAREMUSIQ)", "SQUAREMUSIQ"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "하늬바람 높새바람",
+      "f": "하늬바람 높새바람",
+      "m": ["SIDSOUND/하늬바람 높새바람.mp3", "SIDSOUND/하늬바람 높새바람.lrc"],
+      "artist": "ELIKA(SIDSOUND)",
+      "maker": "SIDSOUND",
+      "tags": ["SIDSOUND", "GAME", "ELIKA(SIDSOUND)"],
+      "atrys": ["SIDSOUND"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "스마일",
+      "f": "Smile",
+      "m": [
+        "SIDSOUND/Smile.mp3",
+        "SIDSOUND/Smile - 初音ミク.mp3",
+        "SIDSOUND/Smile.lrc"
+      ],
+      "artist": "BANAMI(SQUAREMUSIQ)",
+      "maker": "MAPLESTORY",
+      "album": "Rising Star",
+      "tags": [
+        "SIDSOUND",
+        "GAME",
+        "BANAMI(SQUAREMUSIQ)",
+        "SQUAREMUSIQ",
+        "MIKU",
+        "VOCALOID",
+        "MAPLESTORY"
+      ],
+      "another": ["MIKU"],
+      "atrys": ["SIDSOUND", "Smile feat.初音ミク"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "별빛",
+      "f": "STARLIGHT",
+      "m": ["STARLIGHT/STARLIGHT.mp3", "STARLIGHT/STARLIGHT.lrc"],
+      "artist": "LUCY(SQUAREMUSIQ)",
+      "maker": "SQUAREMUSIQ",
+      "tags": [
+        "SQUAREMUSIQ",
+        "GAME",
+        "LUCY(SQUAREMUSIQ)",
+        "꿈꾸는별빛의플레이아데스",
+        "THEME"
+      ],
+      "atrys": ["SQUAREMUSIQ"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "HappyDays☆",
+      "m": ["HappyDays☆/HappyDays☆.mp3", "HappyDays☆/HappyDays☆.lrc"],
+      "artist": "OKUBORUMI",
+      "tags": ["YUYUSHIKI", "OKUBORUMI", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "笑顔で Going Up",
+      "m": [
+        "もっと Be My Power&笑顔でgoing up/笑顔で Going Up.mp3",
+        "もっと Be My Power&笑顔でgoing up/笑顔で Going Up.lrc"
+      ],
+      "artist": "ITOUMIKU",
+      "album": "もっと Be My Power!/笑顔でgoing up!",
+      "tags": ["ITOUMIKU", "ALTERNA", "GAME"],
+      "atrys": ["もっと Be My Power&笑顔でgoing up"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "もっと Be My Power",
+      "m": [
+        "もっと Be My Power&笑顔でgoing up/もっと Be My Power.mp3",
+        "もっと Be My Power&笑顔でgoing up/もっと Be My Power.lrc"
+      ],
+      "album": "もっと Be My Power!/笑顔でgoing up!",
+      "artist": "TAKETATSUAYANA",
+      "tags": ["TAKETATSUAYANA", "ALTERNA", "GAME"],
+      "atrys": ["もっと Be My Power&笑顔でgoing up"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "私はNo 1！",
+      "m": ["私はNo 1！/私はNo 1！.mp3", "私はNo 1！/私はNo 1！.lrc"],
+      "artist": "SANDIEGO(アズールレーン)",
+      "album": "私はNo 1！",
+      "maker": "AZURLANE",
+      "tags": ["ITOUASUKA", "SANDIEGO(アズールレーン)", "AZURLANE", "GAME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "木漏れ日のエール",
+      "m": [
+        "木漏れ日のエール/木漏れ日のエール.mp3",
+        "木漏れ日のエール/木漏れ日のエール.lrc"
+      ],
+      "artist": "MACHICO,ONISHISAORI",
+      "maker": "UMAMUSUME",
+      "album": "NIMATION DERBY Season 2 vol.2",
+      "tags": [
+        "UMAMUSUME",
+        "MACHICO",
+        "ONISHISAORI",
+        "ELIZABETH(WACCA)",
+        "GAME",
+        "ANIME"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ささやかな祈り",
+      "m": [
+        "木漏れ日のエール/ささやかな祈り.mp3",
+        "木漏れ日のエール/ささやかな祈り.lrc"
+      ],
+      "artist": "IWAMIMANAKA",
+      "maker": "UMAMUSUME",
+      "album": "NIMATION DERBY Season 2 vol.2",
+      "tags": ["UMAMUSUME", "IWAMIMANAKA", "GAME", "ANIME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ヒバナ",
+      "m": ["AndroidGirl/ヒバナ.mp3", "AndroidGirl/ヒバナ.lrc"],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID", "DECO*27"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ゴーストルール",
+      "m": ["GHOST/ゴーストルール.mp3", "GHOST/ゴーストルール.lrc"],
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID", "DECO*27"],
+      "atrys": ["GHOST"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "イセカイジュエリー",
+      "m": [
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー.lrc",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - エルゼ.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - スゥ.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ヒルデガルド.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ユミナ.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - リーン.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - リンゼ.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - ルーシア.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - 八重.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/イセカイジュエリー - 桜.mp3"
+      ],
+      "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ),ルーシア(高木美佑),ヒルデガルド(芹澤優),桜(久保田未夢)",
+      "tags": [
+        "ISESUMA",
+        "ANIME",
+        "ユミナ(高野麻里佳)",
+        "エルゼ(内田真礼)",
+        "リンゼ(福緒唯)",
+        "八重(赤﨑千夏)",
+        "スゥシィ(山下七海)",
+        "リーン(上坂すみれ)",
+        "ルーシア(高木美佑)",
+        "ヒルデガルド(芹澤優)",
+        "桜(久保田未夢)",
+        "KONOMARIKA",
+        "UCHIDAAYA",
+        "FUKUOYUI",
+        "AKASAKICHINATSU",
+        "YAMASHITANANAMI",
+        "UESAKASUMIRE",
+        "TAKAGIMIYU",
+        "SERIZAWAYU",
+        "KUBOTAMIYU",
+        "OST"
+      ],
+      "atrys": ["リアルダイヤモンド／イセカイジュエリー"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "リアルダイヤモンド",
+      "m": [
+        "リアルダイヤモンド／イセカイジュエリー/リアルダイヤモンド.mp3",
+        "リアルダイヤモンド／イセカイジュエリー/リアルダイヤモンド.lrc"
+      ],
+      "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ),ルーシア(高木美佑),ヒルデガルド(芹澤優),桜(久保田未夢)",
+      "tags": [
+        "ISESUMA",
+        "ANIME",
+        "ユミナ(高野麻里佳)",
+        "エルゼ(内田真礼)",
+        "リンゼ(福緒唯)",
+        "八重(赤﨑千夏)",
+        "スゥシィ(山下七海)",
+        "リーン(上坂すみれ)",
+        "ルーシア(高木美佑)",
+        "ヒルデガルド(芹澤優)",
+        "桜(久保田未夢)",
+        "KONOMARIKA",
+        "UCHIDAAYA",
+        "FUKUOYUI",
+        "AKASAKICHINATSU",
+        "YAMASHITANANAMI",
+        "UESAKASUMIRE",
+        "TAKAGIMIYU",
+        "SERIZAWAYU",
+        "KUBOTAMIYU",
+        "OST"
+      ],
+      "atrys": ["リアルダイヤモンド／イセカイジュエリー"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "For you～月の光が降り注ぐテラス",
+      "m": [
+        "光るなら/For you～月の光が降り注ぐテラス.mp3",
+        "光るなら/For you～月の光が降り注ぐテラス.lrc"
+      ],
+      "artist": "澤部椿(佐倉綾音)",
+      "maker": "GOOSEHOUSE",
+      "tags": ["四月は君の嘘", "澤部椿(佐倉綾音)", "GOOSEHOUSE", "ANIME"],
+      "atrys": ["光るなら"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "My Truth～ロンド・カプリチオーソ",
+      "m": [
+        "光るなら/My Truth～ロンド・カプリチオーソ.mp3",
+        "光るなら/My Truth～ロンド・カプリチオーソ.lrc"
+      ],
+      "artist": "KAORI(四月は君の嘘)",
+      "maker": "GOOSEHOUSE",
+      "tags": ["四月は君の嘘", "KAORI(四月は君の嘘)", "GOOSEHOUSE", "ANIME"],
+      "atrys": ["光るなら"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Sentimental Rain～愛の悲しみ",
+      "m": [
+        "光るなら/Sentimental Rain～愛の悲しみ.mp3",
+        "光るなら/Sentimental Rain～愛の悲しみ.lrc"
+      ],
+      "artist": "有馬公生(花江夏樹)",
+      "maker": "GOOSEHOUSE",
+      "tags": ["四月は君の嘘", "有馬公生(花江夏樹)", "GOOSEHOUSE", "ANIME"],
+      "atrys": ["光るなら"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "愛言葉 IV",
+      "m": ["愛言葉 IV/愛言葉 IV.mp3", "愛言葉 IV/愛言葉 IV.lrc"],
+      "artist": "MIKU",
+      "maker": "DECO*27",
+      "tags": ["DECO*27", "MIKU", "VOCALOID"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "最高速 Fall in Love",
+      "m": [
+        "最高速 Fall in Love/最高速 Fall in Love.mp3",
+        "最高速 Fall in Love/最高速 Fall in Love.lrc"
+      ],
+      "artist": "ミーア(雨宮天),パピ(小澤亜李),セントレア(相川奈都姫),スー(野村真悠華),メロ(山崎はるか),ラクネラ(中村桜)",
+      "album": "モンスター娘のいる日常",
+      "tags": [
+        "MONMUSU",
+        "ANIME",
+        "ミーア(雨宮天)",
+        "パピ(小澤亜李)",
+        "セントレア(相川奈都姫)",
+        "スー(野村真悠華)",
+        "メロ(山崎はるか)",
+        "ラクネラ(中村桜)"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "アナログハート",
+      "m": [
+        "アナログハート/アナログハート.mp3",
+        "アナログハート/アナログハート.lrc"
+      ],
+      "artist": "TENNOJIRINA(LOVELIVE)",
+      "album": "アナログハート",
+      "tags": [
+        "TENNOJIRINA(LOVELIVE)",
+        "TANAKACHIEMI",
+        "NIJISANJI",
+        "LOVELIVE",
+        "ANIME"
+      ]
+    },
+    {
+      "f": "Target for Love",
+      "m": [
+        "BlueArchive/Target for Love.mp3",
+        "BlueArchive/Target for Love (en ver).mp3",
+        "BlueArchive/Target for Love - GawrGura (en ver).mp3",
+        "BlueArchive/Target for Love - GawrGura (en ver).lrc",
+        "BlueArchive/Target For Love - 初音ミク.mp3",
+        "BlueArchive/Target for Love.lrc"
+      ],
+      "artist": "이진아",
+      "another": ["MIKU", "GAWRGURA(HOLOLIVE)", "天童アリス(TANAKAMINAMI)"],
+      "album": "Target for Love",
+      "tags": [
+        "MIKU",
+        "GAWRGURA(HOLOLIVE)",
+        "天童アリス(TANAKAMINAMI)",
+        "ANIME",
+        "GAME",
+        "BLUEARCHIVE",
+        "HOLOLIVE",
+        "VOCALOID"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Clear Morning",
+      "m": ["BlueArchive/Clear Morning.mp3", "BlueArchive/Clear Morning.lrc"],
+      "album": "Target for Love",
+      "artist": "OGURAYUI",
+      "tags": ["OGURAYUI", "ANIME", "GAME", "BLUEARCHIVE"],
+      "atrys": ["Target for Love"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "純情エモーショナル",
+      "m": [
+        "純情エモーショナル/純情エモーショナル.mp3",
+        "純情エモーショナル/純情エモーショナル.lrc"
+      ],
+      "artist": "ユミナ(高野麻里佳),エルゼ(内田真礼),リンゼ(福緒唯),八重(赤﨑千夏),スゥシィ(山下七海),リーン(上坂すみれ)",
+      "tags": [
+        "ISESUMA",
+        "ANIME",
+        "ユミナ(高野麻里佳)",
+        "エルゼ(内田真礼)",
+        "リンゼ(福緒唯)",
+        "八重(赤﨑千夏)",
+        "スゥシィ(山下七海)",
+        "リーン(上坂すみれ)",
+        "KONOMARIKA",
+        "UCHIDAAYA",
+        "FUKUOYUI",
+        "AKASAKICHINATSU",
+        "YAMASHITANANAMI",
+        "UESAKASUMIRE",
+        "OST"
+      ],
+      "atrys": ["リアルダイヤモンド／イセカイジュエリー"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ューリングラブ",
+      "m": [
+        "ューリングラブ/ューリングラブ.mp3",
+        "ューリングラブ/ューリングラブ.lrc"
+      ],
+      "artist": "NANAOAKARI",
+      "maker": "NAYUTAN",
+      "tags": ["NANAOAKARI", "ANIME", "NAYUTAN"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ンルームシュガーライフ",
+      "m": [
+        "ューリングラブ/ンルームシュガーライフ.mp3",
+        "ューリングラブ/ンルームシュガーライフ - 湊あくあ.mp3",
+        "ューリングラブ/ンルームシュガーライフ.lrc"
+      ],
+      "artist": "NANAOAKARI",
+      "another": ["湊あくあ(HOLOLIVE)"],
+      "tags": ["NANAOAKARI", "ANIME", "湊あくあ(HOLOLIVE)", "HOLOLIVE"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ピヨ",
+      "m": ["ューリングラブ/ピヨ.mp3", "ューリングラブ/ピヨ.lrc"],
+      "artist": "NANAOAKARI",
+      "tags": ["NANAOAKARI", "ANIME"],
+      "atrys": ["ューリングラブ"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "ペダルハート",
+      "m": ["ペダルハート/ペダルハート.mp3", "ペダルハート/ペダルハート.lrc"],
+      "artist": "GUMI(VOCALOID)",
+      "maker": "DECO*27",
+      "tags": ["DECO*27", "GUMI(VOCALOID)", "VOCALOID"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "クライングハート",
+      "m": [
+        "クライングハート/クライングハート.mp3",
+        "クライングハート/クライングハート.lrc"
+      ],
+      "artist": "HANAZONOMEI,AMEBATSUKASA",
+      "maker": "ノラと皇女と野良猫ハート",
+      "album": "ノラと皇女と野良猫ハート2 OP 「クライングハート」",
+      "tags": [
+        "HANAZONOMEI",
+        "ISHIGAMISHIZUKA",
+        "AMEBATSUKASA",
+        "HATANAKAMARIE",
+        "ANIME",
+        "ノラと皇女と野良猫ハート",
+        "ノラネコ",
+        "GAME",
+        "THEME"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "アイル",
+      "m": ["アイル/アイル.mp3", "アイル/アイル.lrc"],
+      "artist": "JANGYENA",
+      "tags": ["JANGYENA", "ANIME", "GAME", "IDOLMASTER"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "あわい",
+      "m": ["あわい/あわい.mp3", "あわい/あわい.lrc"],
+      "artist": "KUMAKIANRI",
+      "album": "約束の七夜祭り",
+      "tags": ["KUMAKIANRI", "ANIME", "約束の七夜祭り", "THEME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Bad Apple",
+      "m": ["Bad Apple/Bad Apple.mp3", "Bad Apple/Bad Apple.lrc"],
+      "artist": "MIKU",
+      "maker": "東方PROJECT",
+      "tags": ["MIKU", "ANIME", "東方PROJECT", "OST"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Not A Hero",
+      "m": [
+        "Not A Hero/Not A Hero.mp3",
+        "Not A Hero/Not a Hero - 라라 (ko ver).mp3",
+        "Not A Hero/Not A Hero - 라라 (ko ver).lrc",
+        "Not A Hero/Not A Hero.lrc"
+      ],
+      "artist": "MITSUKINAKAE",
+      "another": ["LARA(DREAMNOTE)"],
+      "maker": "キングスレイド",
+      "album": "King's RAID",
+      "tags": [
+        "LARA(DREAMNOTE)",
+        "MITSUKINAKAE",
+        "キングスレイド",
+        "GAME",
+        "OST"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Try Everything",
+      "m": [
+        "Try Everything/Try Everything.mp3",
+        "Try Everything/Try Everything (ko ver).mp3",
+        "Try Everything/Try Everything (ko ver).lrc",
+        "Try Everything/Try Everything.lrc"
+      ],
+      "artist": "SHAKIRA",
+      "maker": "ZOOTOPIA",
+      "tags": ["SHAKIRA", "ANIME", "ZOOTOPIA", "OST"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "恋のEveryDay HappyDay",
+      "m": [
+        "恋のEveryDay HappyDay/恋のEveryDay HappyDay.mp3",
+        "恋のEveryDay HappyDay/恋のEveryDay HappyDay.lrc"
+      ],
+      "artist": "TAKETATSUAYANA",
+      "maker": "デート・ア・ライブ",
+      "tags": ["TAKETATSUAYANA", "ANIME", "デート・ア・ライブ", "OST"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "神のまにまに",
+      "n": "신의 뜻대로",
+      "m": [
+        "神のまにまに/神のまにまに.mp3",
+        "神のまにまに/神のまにまに.lrc",
+        "神のまにまに/神のまにまに - 鳳えむ.mp3",
+        "神のまにまに/motion.vmd"
+      ],
+      "artist": "MIKU,GUMI(VOCALOID),RIN(VOCALOID)",
+      "another": ["OTORIEMU"],
+      "maker": "れるりり",
+      "tags": [
+        "MIKU",
+        "GUMI(VOCALOID)",
+        "RIN(VOCALOID)",
+        "OTORIEMU",
+        "VOCALOID"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "へタクソな恋",
+      "n": "서투른 사랑",
+      "m": ["へタクソな恋/へタクソな恋.mp3", "へタクソな恋/へタクソな恋.lrc"],
+      "artist": "小日向千虎(VTUBER)",
+      "maker": "ASAPROJECT",
+      "album": "コイバナ恋愛",
+      "tags": [
+        "小日向千虎(VTUBER)",
+        "コイバナ",
+        "コイバナ恋愛",
+        "OST",
+        "ASAPROJECT",
+        "VTUBER"
+      ],
+      "atrys": ["コイバナ恋愛"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Longing for",
+      "m": ["Azurlane Anime/Longing for.mp3", "Azurlane Anime/Longing for.lrc"],
+      "artist": "新田恵海",
+      "maker": "AZURLANE",
+      "album": "Longing for!／まひるいろシエスタ",
+      "tags": ["高坂穂乃果(LOVELIVE)", "新田恵海", "LOVELIVE", "AZURLANE"],
+      "atrys": ["Longing for!／まひるいろシエスタ"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "まひるいろシエスタ",
+      "m": [
+        "Azurlane Anime/まひるいろシエスタ.mp3",
+        "Azurlane Anime/まひるいろシエスタ.lrc"
+      ],
+      "artist": "AURORA(AZURLANE)",
+      "maker": "AZURLANE",
+      "album": "Longing for!／まひるいろシエスタ",
+      "tags": ["AURORA(AZURLANE)", "榊原ゆい", "AZURLANE"],
+      "atrys": ["Longing for!／まひるいろシエスタ"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "CAFUNÉ",
+      "m": ["Azurlane Anime/CAFUNÉ.mp3", "Azurlane Anime/CAFUNÉ.lrc"],
+      "artist": "鹿乃(VTUBER)",
+      "maker": "AZURLANE",
+      "album": "光の道標",
+      "tags": ["鹿乃(VTUBER)", "AZURLANE"],
+      "atrys": ["光の道標"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "光の道標",
+      "m": ["Azurlane Anime/光の道標.mp3", "Azurlane Anime/光の道標.lrc"],
+      "artist": "鹿乃(VTUBER)",
+      "maker": "AZURLANE",
+      "album": "光の道標",
+      "tags": ["鹿乃(VTUBER)", "AZURLANE", "VTUBER"],
+      "atrys": ["光の道標"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "自由の暁",
+      "m": ["Azurlane Anime/自由の暁.mp3", "Azurlane Anime/自由の暁.lrc"],
+      "artist": "HAYAMISAORI",
+      "maker": "AZURLANE",
+      "album": "Azurlane Original Sound Track",
+      "tags": ["HAYAMISAORI", "AZURLANE"],
+      "atrys": ["Azurlane Anime"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "海へ捧げるレミニセンス",
+      "m": ["Azurlane Anime/海へ捧げるレミニセンス.mp3"],
+      "artist": "ENDOAYA",
+      "maker": "AZURLANE",
+      "album": "Azurlane Original Sound Track",
+      "tags": ["ENDOAYA", "AZURLANE"],
+      "atrys": ["Azurlane Anime"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "勇気の魔法",
+      "m": [
+        "Princess Evangile/勇気の魔法.mp3",
+        "Princess Evangile/勇気の魔法.lrc"
+      ],
+      "artist": "霜月はるか",
+      "maker": "PRINCESSEVANGILE",
+      "album": "Princess Evangile",
+      "atrys": ["Princess Evangile"],
+      "tags": ["PRINCESSEVANGILE", "THEME", "霜月はるか", "GAME"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "桜が見てた",
+      "m": [
+        "Princess Evangile/桜が見てた.mp3",
+        "Princess Evangile/桜が見てた.lrc"
+      ],
+      "artist": "AiRI",
+      "maker": "PRINCESSEVANGILE",
+      "album": "Princess Evangile",
+      "tags": ["PRINCESSEVANGILE", "THEME", "AiRI", "GAME"],
+      "atrys": ["Princess Evangile"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "蛍の光",
+      "m": ["Princess Evangile/蛍の光.mp3", "Princess Evangile/蛍の光.lrc"],
+      "maker": "PRINCESSEVANGILE",
+      "album": "Princess Evangile",
+      "tags": ["PRINCESSEVANGILE", "GRADUATION", "GAME"],
+      "atrys": ["Princess Evangile"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Lullaby for Salvation",
+      "m": [
+        "Lullaby for Salvation/Lullaby for Salvation.mp3",
+        "Lullaby for Salvation/Lullaby for Salvation.lrc"
+      ],
+      "artist": "INAGAWAERI",
+      "maker": "WORLDFLIPPER",
+      "album": "Lullaby for Salvation / ディーバ・メディア",
+      "tags": [
+        "INAGAWAERI",
+        "WORLDFLIPPER",
+        "IDOLMASTER",
+        "OGAMITAMAKI(IDOLMASTER)",
+        "GAME",
+        "THEME"
+      ],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "あっちでこっちで",
+      "m": [
+        "恋の花びらをね/あっちでこっちで.mp3",
+        "恋の花びらをね/あっちでこっちで.lrc"
+      ],
+      "artist": "OKUBORUMI",
+      "tags": ["OKUBORUMI", "ANIME"],
+      "atrys": ["恋の花びらをね"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Flop Around",
+      "m": ["恋愛フロップス/Flop Around.mp3", "恋愛フロップス/Flop Around.lrc"],
+      "maker": "恋愛フロップス",
+      "album": "恋愛フロップス",
+      "tags": [
+        "ITOUMIKU",
+        "TAKAHASHIRIE",
+        "TAKETATSUAYANA",
+        "KANEMOTOHISAKO",
+        "KONOMARIKA",
+        "恋愛フロップス",
+        "ANIME"
+      ],
+      "atrys": ["恋愛フロップス"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "With You",
+      "m": ["恋愛フロップス/With You.mp3", "恋愛フロップス/With You.lrc"],
+      "maker": "恋愛フロップス",
+      "album": "恋愛フロップス",
+      "tags": ["ITOUMIKU", "恋愛フロップス", "ANIME"],
+      "atrys": ["恋愛フロップス"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Lost in the white",
+      "m": [
+        "恋愛フロップス/Lost in the white.mp3",
+        "恋愛フロップス/Lost in the white.lrc"
+      ],
+      "maker": "恋愛フロップス",
+      "album": "恋愛フロップス",
+      "tags": ["ITOUMIKU", "恋愛フロップス", "ANIME"],
+      "atrys": ["恋愛フロップス"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "テオ",
+      "m": ["テオ/[初音ミク] テオ.mp3", "テオ/motion.vmd", "テオ/camera.vmd"],
+      "maker": "OMOI",
+      "album": "ファーストワルツ",
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID", "OMOI"],
+      "atrys": ["Omoi", "Teo"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "我儘姫",
+      "m": [
+        "我儘姫/[えむ ミク ねね] 我儘姫.mp3",
+        "我儘姫/[初音ミク] 我儘姫.mp3",
+        "我儘姫/lyrics.lrc",
+        "我儘姫/motion1 by DIBU.vmd",
+        "我儘姫/motion2 by DIBU.vmd",
+        "我儘姫/camera by DIBU.vmd"
+      ],
+      "maker": "ふじを様",
+      "artist": "MIKU",
+      "tags": ["MIKU", "VOCALOID"],
+      "atrys": ["我儘姫"],
+      "lrc": true,
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "여름비",
+      "f": "SummerRain",
+      "m": [
+        "SummerRain/[GFriend] SummerRain (short ver).mp3",
+        "SummerRain/camera (short ver).vmd",
+        "SummerRain/motion (short ver).vmd"
+      ],
+      "artist": "GIRLFRIEND",
+      "tags": ["KPOP", "GIRLFRIEND"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "Realize",
+      "f": "リアライズ",
+      "m": [
+        "リアライズ/camera (short ver by PJSK).vmd",
+        "リアライズ/miku motion (short ver by PJSK).vmd",
+        "リアライズ/akito motion (short ver by PJSK).vmd",
+        "リアライズ/an motion (short ver by PJSK).vmd",
+        "リアライズ/kohane motion (short ver by PJSK).vmd",
+        "リアライズ/touya motion (short ver by PJSK).vmd",
+        "リアライズ/リアライズ (short ver by 柊マグネタイト).mp3"
+      ],
+      "maker": "柊マグネタイト",
+      "artist": "MIKU,AKITO(PJSK),AN(PJSK),KOHANE(PJSK),TOUYA(PJSK)",
+      "tags": [
+        "VOCALOID",
+        "PJSK",
+        "MIKU",
+        "AKITO(PJSK)",
+        "AN(PJSK)",
+        "KOHANE(PJSK)",
+        "TOUYA(PJSK)"
+      ],
+      "atrys": ["リアライズ"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "恋愛ストラテジック",
+      "m": ["湊あくあ/恋愛ストラテジック.mp3"],
+      "maker": "烏屋茶房",
+      "artist": "AQUA(HOLOLIVE)",
+      "tags": ["AQUA(HOLOLIVE)", "HOLOLIVE"],
+      "atrys": ["恋愛ストラテジック"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "あくあ色ぱれっと",
+      "m": ["湊あくあ/あくあ色ぱれっと.mp3"],
+      "maker": "烏屋茶房",
+      "artist": "AQUA(HOLOLIVE)",
+      "tags": ["AQUA(HOLOLIVE)", "HOLOLIVE", "JUNKY", "VOCALOID"],
+      "atrys": ["あくあ色ぱれっと"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "君の最推しにしてよ！",
+      "m": ["湊あくあ/君の最推しにしてよ！.mp3"],
+      "maker": "HoneyWorks",
+      "artist": "AQUA(HOLOLIVE)",
+      "tags": ["AQUA(HOLOLIVE)", "HOLOLIVE", "HONEYWORKS"],
+      "atrys": ["君の最推しにしてよ！"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "海想列車",
+      "m": ["湊あくあ/海想列車.mp3"],
+      "maker": "40MP",
+      "artist": "AQUA(HOLOLIVE)",
+      "tags": ["AQUA(HOLOLIVE)", "HOLOLIVE", "VOCALOID", "40MP"],
+      "atrys": ["海想列車"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "GROOVE LOOP",
+      "m": [
+        "GROOVE LOOP/GROOVE LOOP feat. ミライアカリ ・ 電脳少女シロ ・ 月ノ美兎.mp3"
+      ],
+      "maker": "DECO*27",
+      "artist": "アカリ(HOLOLIVE),シロ(HOLOLIVE),美兎(HOLOLIVE)",
+      "tags": [
+        "アカリ(HOLOLIVE)",
+        "シロ(HOLOLIVE)",
+        "美兎(HOLOLIVE)",
+        "HOLOLIVE",
+        "VOCALOID",
+        "DECO*27"
+      ],
+      "atrys": ["Groove Loop"],
+      "raw": true,
+      "r": 3
+    },
+    {
+        "f": "GROOVE LOOP",
+        "m": [
+          "GROOVE LOOP/GROOVE LOOP feat. 初音ミク.mp3"
+        ],
+        "maker": "DECO*27",
+        "artist": "MIKU",
+        "tags": [
+          "MIKU",
+          "HOLOLIVE",
+          "VOCALOID",
+          "DECO*27"
+        ],
+        "atrys": ["Groove Loop"],
+        "raw": true,
+        "r": 3
+      }
+  ]
 }

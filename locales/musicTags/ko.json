@@ -258,5 +258,7 @@
   "AKITO(PJSK)": "아키토($t(musicTags:PJSK))",
   "AN(PJSK)": "안($t(musicTags:PJSK))",
   "KOHANE(PJSK)": "코하네($t(musicTags:PJSK))",
-  "TOUYA(PJSK)": "토야($t(musicTags:PJSK))"
+  "TOUYA(PJSK)": "토야($t(musicTags:PJSK))",
+  "AQUA(HOLOLIVE)": "아쿠아 ($t(musicTags:HOLOLIVE))",
+  "烏屋茶房": "烏屋茶房"
 }
