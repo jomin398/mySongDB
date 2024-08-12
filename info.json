@@ -2511,21 +2511,45 @@
       "r": 3
     },
     {
-        "f": "GROOVE LOOP",
-        "m": [
-          "GROOVE LOOP/GROOVE LOOP feat. 初音ミク.mp3"
-        ],
-        "maker": "DECO*27",
-        "artist": "MIKU",
-        "tags": [
-          "MIKU",
-          "HOLOLIVE",
-          "VOCALOID",
-          "DECO*27"
-        ],
-        "atrys": ["Groove Loop"],
-        "raw": true,
-        "r": 3
-      }
+      "f": "GROOVE LOOP",
+      "m": ["GROOVE LOOP/GROOVE LOOP feat. 初音ミク.mp3"],
+      "maker": "DECO*27",
+      "artist": "MIKU",
+      "tags": ["MIKU", "HOLOLIVE", "VOCALOID", "DECO*27"],
+      "atrys": ["Groove Loop"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "Unwelcome School",
+      "m": ["Unwelcome School/Unwelcome School.mp3"],
+      "maker": "ミツキヨ",
+      "artist": "ミツキヨ",
+      "tags": ["ミツキヨ", "BLUEARCHIVE"],
+      "atrys": ["Unwelcome School"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "シカ色デイズ",
+      "m": ["しかのこのこのここしたんたん/シカ色デイズ.mp3"],
+      "maker": "和賀裕希",
+      "artist": "シカ部 [鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)、虎視餡子(CV.田辺留依)、馬車芽めめ(CV.和泉風花)]",
+      "tags": ["しかのこのこのここしたんたん", "ANIME", "OST"],
+      "atrys": ["しかのこのこのここしたんたん"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "f": "B.B.K.K.B.K.K.",
+      "m": ["bbkkbkk/bbkkbkk.mp3"],
+      "maker": "nora2r",
+      "artist": "nora2r",
+      "tags": ["WACCA"],
+      "atrys": ["bbkkbkk"],
+      "raw": true,
+      "r": 3
+    }
+    
   ]
 }
