@@ -2535,7 +2535,7 @@
       "m": ["しかのこのこのここしたんたん/シカ色デイズ.mp3"],
       "maker": "和賀裕希",
       "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)、虎視餡子(CV.田辺留依)、馬車芽めめ(CV.和泉風花)]",
-      "tags": ["しかのこのこのここしたんたん", "ANIME", "OST","MIKU"],
+      "tags": ["しかのこのこのここしたんたん", "ANIME", "OST", "MIKU"],
       "atrys": ["しかのこのこのここしたんたん"],
       "raw": true,
       "r": 3
@@ -2549,7 +2549,50 @@
       "atrys": ["bbkkbkk"],
       "raw": true,
       "r": 3
+    },
+    {
+      "n": "작은 사랑의 노래",
+      "f": "小さな恋のうた",
+      "m": ["小さな恋のうた/初音ミク.mp3"],
+      "maker": "OMOI",
+      "artist": "MIKU",
+      "tags": ["MIKU", "OMOI", "VOCALOID"],
+      "atrys": ["koinouta_omoi"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "작은 사랑의 노래",
+      "f": "小さな恋のうた",
+      "m": ["小さな恋のうた/高橋李依.mp3"],
+      "maker": "OMOI",
+      "artist": "TAKAHASHIRIE",
+      "tags": ["TAKAHASHIRIE", "OMOI", "VOCALOID", "ANIME"],
+      "atrys": ["koinouta_rie"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "작은 사랑의 노래",
+      "f": "小さな恋のうた",
+      "m": ["小さな恋のうた/石見舞菜香.mp3"],
+      "maker": "OMOI",
+      "artist": "IWAMIMANAKA",
+      "tags": ["IWAMIMANAKA", "OMOI", "VOCALOID", "ANIME"],
+      "atrys": ["koinouta_manaka"],
+      "raw": true,
+      "r": 3
+    },
+    {
+      "n": "작은 사랑의 노래",
+      "f": "小さな恋のうた",
+      "m": ["小さな恋のうた/上坂すみれ.mp3"],
+      "maker": "OMOI",
+      "artist": "UESAKASUMIRE",
+      "tags": ["UESAKASUMIRE", "OMOI", "VOCALOID", "ANIME"],
+      "atrys": ["koinouta_sumire"],
+      "raw": true,
+      "r": 3
     }
-    
   ]
 }
